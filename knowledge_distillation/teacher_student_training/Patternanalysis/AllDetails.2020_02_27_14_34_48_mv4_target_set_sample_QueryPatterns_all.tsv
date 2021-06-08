@@ -1,0 +1,1777 @@
+Pattern	Freq	Wrong	Accuracy
+message <contact_name>	22	12	0.45454545454545453
+message <contact_name> <message>	16	5	0.6875
+message <message>	13	10	0.23076923076923078
+send a message to <contact_name>	12	6	0.5
+say <message> to <contact_name>	11	11	0.0
+cortana send a message to <contact_name>	10	4	0.6
+cortana send message to <contact_name> <message>	10	3	0.7
+hey cortana message my <order_ref> meeting that <message>	10	0	1.0
+message to <contact_name>	10	1	0.9
+send a message to <contact_name> <message>	9	4	0.5555555555555556
+hey cortana message my meeting that <message>	8	1	0.875
+send a message <message>	8	6	0.25
+cortana tell <contact_name> <message>	7	0	1.0
+hey cortana, send a message to <contact_name> <message>	7	2	0.7142857142857143
+message my <time> meeting. <message>	7	0	1.0
+message. my <order_ref> meeting that <message>	7	0	1.0
+ask <contact_name> <message>	6	2	0.6666666666666666
+can you send <contact_name> a message	6	0	1.0
+can you tell my <relationship_name> to <message>	6	1	0.8333333333333334
+cortana message <contact_name>	6	1	0.8333333333333334
+cortana send message to <contact_name>	6	1	0.8333333333333334
+cortana text <contact_name>	6	1	0.8333333333333334
+hey cortana message <contact_name> that <message>	6	0	1.0
+hey cortana message <contact_name>	6	1	0.8333333333333334
+hey cortana message my <time> meeting that <message>	6	0	1.0
+hey cortana send a message to <contact_name>	6	0	1.0
+hey cortana send <contact_name> a message	6	2	0.6666666666666666
+hey cortana send message to <contact_name>	6	1	0.8333333333333334
+hey cortana, send a message to <contact_name>	6	1	0.8333333333333334
+hey cortana. send message to <meeting_title> meeting	6	3	0.5
+message everyone on my <order_ref> meeting that <message>	6	0	1.0
+message my meeting that <message>	6	0	1.0
+message the meeting that <message>	6	0	1.0
+message. <contact_name> <message>	6	0	1.0
+message. my <order_ref> meeting <message>	6	2	0.6666666666666666
+reply to <contact_name>	6	1	0.8333333333333334
+send a message <contact_name>	6	0	1.0
+send a message on <source_platform>	6	1	0.8333333333333334
+<contact_name> message	5	2	0.6
+a message to <contact_name>	5	0	1.0
+can you send a message to <contact_name>	5	0	1.0
+can you send message on <source_platform>	5	1	0.8
+can you text <contact_name>	5	1	0.8
+cortana cortana send message to <contact_name>	5	0	1.0
+cortana message <contact_name> <message>	5	1	0.8
+cortana send a message to <contact_name> that <message>	5	0	1.0
+cortana send a message to <contact_name> <message>	5	0	1.0
+cortana send a text to <contact_name>	5	0	1.0
+cortana send <contact_name> message	5	0	1.0
+cortana send <contact_name> a message	5	0	1.0
+cortana send message to <contact_name> that <message>	5	0	1.0
+cortana text <contact_name> <message>	5	0	1.0
+hey cortana message my <time> o&apos;clock meeting that <message>	5	1	0.8
+hey cortana text <contact_name>	5	0	1.0
+hey cortana, send a message to <contact_name> that <message>	5	0	1.0
+hey cortana, send a message to my <time> meeting	5	0	1.0
+hey cortana, send message to <contact_name>	5	1	0.8
+hey cortana. send message to <contact_name>	5	0	1.0
+hey cortana. send message to <contact_name> <message>	5	1	0.8
+hey cortana. send message to <contact_name> that <message>	5	0	1.0
+message <contact_name> &apos;s	5	4	0.2
+message <relationship_name>	5	1	0.8
+message <contact_name> message	5	0	1.0
+message <contact_name> on	5	0	1.0
+message everyone on my <order_ref> meeting <message>	5	0	1.0
+message everyone on my <order_ref> meeting. <message>	5	0	1.0
+message for <contact_name>	5	0	1.0
+message <contact_name> that <message>	5	0	1.0
+message my <time> meeting that <message>	5	0	1.0
+message my <time> meeting	5	0	1.0
+message my <order_ref> meeting <message>	5	0	1.0
+message my <order_ref> meeting that <message>	5	0	1.0
+message. <contact_name> that <message>	5	0	1.0
+message. my meeting that <message>	5	0	1.0
+pii:scrubbed:[latency:2]:send a message to <contact_name> that <message>	5	5	0.0
+pii:scrubbed:[latency:2]:text <contact_name> <message>	5	5	0.0
+please send a message to <contact_name>	5	0	1.0
+send a message for <contact_name>	5	0	1.0
+send a message to <phone_number>	5	1	0.8
+can you send a text to <contact_name>	4	0	1.0
+can you text <contact_name> <message>	4	2	0.5
+cortana can you send a message to <contact_name>	4	0	1.0
+cortana please send a message to <contact_name>	4	0	1.0
+cortana say <message> to <contact_name>	4	4	0.0
+could you send a message to <contact_name>	4	0	1.0
+hey cortana message <meeting_title> meeting	4	2	0.5
+hey cortana message to <contact_name>	4	0	1.0
+hey cortana send <contact_name> message	4	0	1.0
+hey cortana, send a message to my <order_ref> meeting. <message>	4	0	1.0
+hey+cortana send a message to <contact_name>	4	0	1.0
+message <contact_name> that	4	1	0.75
+message everyone on my <time> meeting	4	0	1.0
+message everyone on my <time> meeting that <message>	4	0	1.0
+message everyone on my <order_ref> meeting, <message>	4	0	1.0
+message my <order_ref> meeting, <message>	4	0	1.0
+message to <contact_name> <message>	4	1	0.75
+message. my <time> meeting that <message>	4	0	1.0
+pii:scrubbed:[latency:1]:text <contact_name> <message>	4	4	0.0
+please text <contact_name>	4	1	0.75
+can you message <contact_name>	3	0	1.0
+can you send a message in <source_platform>	3	1	0.6666666666666666
+can you send a text message to <contact_name>	3	0	1.0
+can you text <contact_name> please	3	0	1.0
+cortana text to <contact_name>	3	0	1.0
+cortana, would you please tell <contact_name> that <message>	3	0	1.0
+could you text my <relationship_name>	3	0	1.0
+hey cortana message <contact_name> on my <order_ref> meeting. <message>	3	1	0.6666666666666666
+hey cortana message my <time> meeting	3	0	1.0
+hey cortana message my <order_ref> meeting. <message>	3	0	1.0
+hey cortana, send a message to <contact_name> saying <message>	3	0	1.0
+hey cortana, send a message to <message>	3	2	0.3333333333333333
+hey cortana, send a message to <meeting_title> meeting	3	1	0.6666666666666666
+hey cortana, send message to my <time> o&apos;clock meeting	3	0	1.0
+hey cortana, tell my <order_ref> meeting that <message>	3	0	1.0
+hey cortana. hey cortana. send a message to <contact_name>	3	0	1.0
+hey cortana. send a message to <contact_name>	3	0	1.0
+hi cortana send a message to <contact_name>	3	0	1.0
+hi cortana send <contact_name> a message	3	1	0.6666666666666666
+hi cortana send message to <contact_name>	3	0	1.0
+hi cortana text <contact_name>	3	0	1.0
+let my <order_ref> meeting know that <message>	3	0	1.0
+message <contact_name> on my <order_ref> meeting. <message>	3	0	1.0
+message <contact_name> saying <message>	3	0	1.0
+message <contact_name> and tell him <message>	3	0	1.0
+message <contact_name> on <source_platform>	3	1	0.6666666666666666
+message by <time> o&apos;clock meeting	3	0	1.0
+message <contact_name> message <contact_name>	3	0	1.0
+message everyone on <meeting_title> meeting. <message>	3	0	1.0
+message everyone on the <order_ref> meeting. <message>	3	0	1.0
+message <meeting_title> meeting that <message>	3	2	0.3333333333333333
+message <relationship_name> <message>	3	0	1.0
+message my <time> o&apos;clock meeting that <message>	3	1	0.6666666666666666
+message my <time> o'clock meeting that <message>	3	0	1.0
+message <meeting_title> meeting	3	1	0.6666666666666666
+message my <order_ref> meeting that	3	0	1.0
+message my meeting with <contact_name> that <message>	3	0	1.0
+message my <order_ref> meeting. <message>	3	0	1.0
+message to my <order_ref> meeting that <message>	3	0	1.0
+message with <contact_name>	3	0	1.0
+my <time> meeting that <message>	3	3	0.0
+ok text <contact_name>	3	0	1.0
+pii:scrubbed:[latency:1]:message my <time> meeting that <message>	3	3	0.0
+please tell my <relationship_name> <message>	3	0	1.0
+send <contact_name> a message	3	3	0.0
+send a <contact_name> a message	3	0	1.0
+send a message <relationship_name> <message>	3	1	0.6666666666666666
+send a message for my <relationship_name>	3	0	1.0
+send a message <message> to <contact_name>	3	1	0.6666666666666666
+send a message on <source_platform> to <contact_name>	3	1	0.6666666666666666
+send a message that <message>	3	1	0.6666666666666666
+send a message to <contact_name> that <message>	3	1	0.6666666666666666
+a message <contact_name>	2	0	1.0
+ask <contact_name> that <message>	2	0	1.0
+ask <contact_name> to <message>	2	1	0.5
+ask meeting back to tell my <order_ref> meeting <message>	2	2	0.0
+can you send a text message to <relationship_name>	2	0	1.0
+can you send messages via <source_platform>	2	0	1.0
+can you tell <contact_name> to <message>	2	0	1.0
+can you text <contact_name> for me	2	0	1.0
+can you text <contact_name> that <message>	2	0	1.0
+can you text my <relationship_name> and tell her <message>	2	0	1.0
+cortana can you message <contact_name>	2	0	1.0
+cortana let <contact_name> know that <message>	2	0	1.0
+cortana message to <contact_name>	2	0	1.0
+cortana please text <contact_name>	2	0	1.0
+cortana send a message to <contact_name> for me	2	2	0.0
+cortana send a message to my <order_ref> meeting that <message>	2	1	0.5
+cortana send a message to the <contact_name>	2	0	1.0
+cortana send a text message to <contact_name>	2	0	1.0
+cortana send <contact_name> a message that <message>	2	0	1.0
+cortana send <contact_name> <message>	2	0	1.0
+cortana send message to <relationship_name> <message>	2	1	0.5
+cortana send message to my meeting at <time>	2	0	1.0
+cortana send message to <contact_name> to <message>	2	0	1.0
+cortana send text message to <contact_name>	2	0	1.0
+cortana send text to <contact_name>	2	0	1.0
+cortana send this message to <contact_name>	2	0	1.0
+cortana tell my <order_ref> meeting, <message>	2	0	1.0
+cortana tell <contact_name> that <message>	2	0	1.0
+cortana text <contact_name> please	2	0	1.0
+cortana, would you please let <contact_name> know that <message>	2	0	1.0
+cortina send a message to <contact_name>	2	0	1.0
+could you message my <relationship_name>	2	0	1.0
+could you please text <contact_name>	2	0	1.0
+hello cortana send a message to <contact_name>	2	0	1.0
+hey cortana message everyone on the <time> meeting. <message>	2	0	1.0
+hey cortana message my <meeting_title> meeting	2	2	0.0
+hey cortana message my <time> o'clock meeting that <message>	2	0	1.0
+hey cortana message my meeting. <message>	2	0	1.0
+hey cortana message my <order_ref> meeting <message>	2	0	1.0
+hey cortana send a <contact_name> a message	2	1	0.5
+hey cortana text my <order_ref> meeting that <message>	2	0	1.0
+hey cortana, send a message to my meeting at <time>	2	0	1.0
+hey cortana, send a message to my meeting <message>	2	1	0.5
+hey cortana, send a message to my meeting that <message>	2	0	1.0
+hey cortana, send a message to my <order_ref> meeting, <message>	2	0	1.0
+hey cortana, send message to my <time> o&apos;clock meeting that <message>	2	0	1.0
+hey cortana, send message to my meeting that <message>	2	0	1.0
+hey cortana, send message to my <order_ref> meeting that this is <order_ref> meeting message	2	2	0.0
+hey cortana. send message to <contact_name> asking <message>	2	0	1.0
+hey+cortana send message to <contact_name>	2	0	1.0
+i wanna send a message to <contact_name>	2	0	1.0
+i want to send a message to <contact_name>	2	0	1.0
+<message>	2	2	0.0
+<contact_name> text <contact_name>	2	2	0.0
+just tell my <relationship_name> <message>	2	1	0.5
+leave a note for <contact_name> that <message>	2	2	0.0
+<contact_name> the message	2	0	1.0
+message <contact_name> in	2	1	0.5
+message by <time> meeting	2	0	1.0
+message <relationship_name> and	2	0	1.0
+message <contact_name> with	2	0	1.0
+message <contact_name> say	2	0	1.0
+message everyone on my <time> meeting, <message>	2	0	1.0
+message everyone on my <time> meeting. <message>	2	0	1.0
+message everyone on my <time> meeting <message>	2	0	1.0
+message everyone on <meeting_title> meeting	2	0	1.0
+message everyone on <meeting_title> meeting that <message>	2	1	0.5
+message everyone on the <time> meeting	2	0	1.0
+message everyone on the <order_ref> meeting that <message>	2	0	1.0
+message everyone on the <order_ref> meeting, <message>	2	0	1.0
+message <contact_name> on my <time> meeting	2	1	0.5
+message my <time> o'clock meeting <message>	2	0	1.0
+message my <time> o&apos;clock meeting that this is <time> o&apos;clock meeting message	2	2	0.0
+message my <time> o&apos;clock meeting, <message>	2	0	1.0
+message my <time> meeting that	2	0	1.0
+message my <time> meeting, <message>	2	0	1.0
+message my <relationship_name>	2	0	1.0
+message <meeting_title> meeting. <message>	2	1	0.5
+message my meeting <time>	2	1	0.5
+message my <meeting_title> meeting that <message>	2	0	1.0
+message <order_ref> meeting that <message>	2	0	1.0
+message on <source_platform>	2	0	1.0
+message that <contact_name>	2	0	1.0
+message that <message>	2	0	1.0
+message the <contact_name>	2	0	1.0
+message to <destination_platform>	2	1	0.5
+message to <contact_name> to	2	0	1.0
+message to <meeting_title> meeting	2	1	0.5
+message to <contact_name> saying <message>	2	1	0.5
+message, <contact_name>	2	0	1.0
+message. <message>	2	2	0.0
+message. <contact_name>	2	0	1.0
+message. my meeting <message>	2	0	1.0
+messaging my <order_ref> meeting that <message>	2	2	0.0
+my meeting that <message>	2	2	0.0
+<order_ref> meeting message	2	0	1.0
+open <source_platform> and send a message to <contact_name>	2	1	0.5
+pii:scrubbed:[latency:1]:text <contact_name> and tell her <message>	2	2	0.0
+pii:scrubbed:[latency:2]:message everyone in my <order_ref> meeting that <message>	2	2	0.0
+pii:scrubbed:[latency:2]:message everyone on my <time> meeting that <message>	2	2	0.0
+pii:scrubbed:[latency:2]:message my <order_ref> meeting that <message>	2	2	0.0
+please send text to <contact_name>	2	0	1.0
+please tell my <relationship_name> that <message>	2	0	1.0
+reply to <contact_name> text	2	0	1.0
+say <message> <contact_name>	2	2	0.0
+say <message>	2	2	0.0
+say <contact_name> <message>	2	2	0.0
+send a message from <source_platform>	2	0	1.0
+send a message from <from_contact_name>	2	0	1.0
+send a message from my <from_relationship_name>	2	0	1.0
+send a message message to <relationship_name>	2	0	1.0
+send a message message to <contact_name>	2	0	1.0
+send a message my <relationship_name>	2	0	1.0
+send a message <contact_name> saying <message>	2	0	1.0
+send a message through <source_platform>	2	0	1.0
+send a message to <time> meeting	2	0	1.0
+send a message to a <contact_name>	2	0	1.0
+send a message to <contact_name> say	2	2	0.0
+send a message to <contact_name> saying <message>	2	0	1.0
+send a message to <contact_name> on <source_platform>	2	0	1.0
+send a message to <contact_name> and	2	0	1.0
+10 send a message to	1	0	1.0
+<time> o&apos;clock meeting that <message>	1	1	0.0
+<message> message	1	1	0.0
+<time> o'clock meeting that <message>	1	1	0.0
+a can you send a message for me	1	0	1.0
+a message my <order_ref> meeting	1	1	0.0
+a message to <relationship_name>	1	1	0.0
+a message to my <time> meeting	1	0	1.0
+a send a message	1	0	1.0
+a tell my <relationship_name> <message>	1	0	1.0
+a text to <relationship_name>	1	0	1.0
+abc text	1	0	1.0
+abc.text	1	1	0.0
+according to station that's called we strike back on a message case	1	1	0.0
+add a lunch message	1	1	0.0
+add cortana message please	1	1	0.0
+add hey cortana send him a message	1	0	1.0
+add look for text david message to to source what is the oven i would	1	1	0.0
+add text <contact_name>	1	0	1.0
+alexa ask cortana to tell my team <message>	1	1	0.0
+alexa text <contact_name>	1	0	1.0
+alright hey cortana send a message to	1	0	1.0
+alright send text	1	0	1.0
+am late for the text <contact_name>	1	0	1.0
+and i&apos;m send a message to my <time> meeting	1	0	1.0
+and it didn't work. send a message to <contact_name>	1	0	1.0
+and message everyone on my <time> meeting that <message>	1	1	0.0
+and message to my <order_ref> meeting	1	1	0.0
+and <contact_name> <destination_platform> a text message asking <message>	1	0	1.0
+and text <contact_name>	1	0	1.0
+and the message	1	0	1.0
+ansari message <contact_name>	1	0	1.0
+are you able to send texts	1	1	0.0
+are you cortana send a message	1	0	1.0
+are you could you send message	1	1	0.0
+ask butler assistant to go to previous slide	1	1	0.0
+ask <relationship_name> down <message>	1	1	0.0
+ask dia dev hi cortana	1	1	0.0
+ask meeting about to tell my <order_ref> meeting <message>	1	1	0.0
+ask meeting but to tell my <order_ref> meeting <message>	1	1	0.0
+ask meeting by to tell my <order_ref> meeting <message>	1	1	0.0
+ask <contact_name> about <message>	1	1	0.0
+ask microsoft that i'm running late for my next meeting at the next meeting and the next meeting	1	1	0.0
+ask my <relationship_name> to <message>	1	1	0.0
+ask text around	1	1	0.0
+b**** text <contact_name>	1	0	1.0
+be cortana send message	1	0	1.0
+block the person i recently met message	1	1	0.0
+bo send message to <contact_name>	1	0	1.0
+<relationship_name> text <contact_name>	1	1	0.0
+but i message everyone on my <order_ref> meeting	1	1	0.0
+but i will send a message	1	1	0.0
+but tell my <order_ref> meeting <message>	1	1	0.0
+call me a text my <relationship_name>	1	0	1.0
+calling about the meeting number <phone_number>	1	1	0.0
+can can you send a text	1	0	1.0
+can can you send a text message	1	0	1.0
+can can you send a text message for me	1	0	1.0
+can i get you to send text message for me	1	0	1.0
+can i message my <relationship_name>	1	0	1.0
+can i message <contact_name>	1	1	0.0
+can i schedule a text to be sent later	1	1	0.0
+can i send a message from the <source_platform>	1	0	1.0
+can i send a text message	1	0	1.0
+can i send a text message with	1	0	1.0
+can i send a text to	1	0	1.0
+can i take text <contact_name> please	1	1	0.0
+can i talk to send a message on <source_platform>	1	1	0.0
+can i text <contact_name>	1	0	1.0
+can i text message someone	1	0	1.0
+can i text my <relationship_name>	1	1	0.0
+can i text <contact_name> please	1	0	1.0
+can we send a message	1	0	1.0
+can you a send a message	1	0	1.0
+can you a text message	1	1	0.0
+can you a text to	1	1	0.0
+can you answer my text messages	1	1	0.0
+can you bring up 10 text for me	1	1	0.0
+can you can you send a message for me	1	0	1.0
+can you can you send a message to	1	0	1.0
+can you can you send a text	1	0	1.0
+can you can you send a text message	1	0	1.0
+can you can you send me a message	1	0	1.0
+can you can you text for me	1	0	1.0
+can you can you text someone for me	1	0	1.0
+can you do a text to	1	0	1.0
+can you get can you send a message to	1	0	1.0
+can you go text <contact_name> <message>	1	0	1.0
+can you have a text message	1	1	0.0
+can you help me text my <relationship_name>	1	1	0.0
+can you help me to send a text message	1	1	0.0
+can you inform the attendees of my <time> appointment that <message>	1	1	0.0
+can you make a message to <contact_name>	1	0	1.0
+can you message for me	1	0	1.0
+can you message <contact_name> <message>	1	0	1.0
+can you message my <contact_name> that <message>	1	0	1.0
+can you message my <relationship_name> please	1	0	1.0
+can you open messenger in send <contact_name> a message saying <message>	1	1	0.0
+can you pass a message to <contact_name>	1	0	1.0
+can you please help me to send a text message	1	0	1.0
+can you please message <contact_name>	1	0	1.0
+can you please send a message back to him that <message>	1	0	1.0
+can you please send a message to <relationship_name>	1	0	1.0
+can you please send a message to my meeting with <contact_name>	1	0	1.0
+can you please send a message to my meeting with nearly	1	1	0.0
+can you please send a message to <contact_name>	1	0	1.0
+can you please send a text	1	0	1.0
+can you please send a text message to	1	0	1.0
+can you please send a text message to <contact_name>	1	0	1.0
+can you please send a text please	1	0	1.0
+can you please send <contact_name> a text good morning <contact_name>	1	1	0.0
+can you please text <contact_name> that <message>	1	0	1.0
+can you please text <contact_name>	1	0	1.0
+can you receive a text message	1	0	1.0
+can you say it send a message	1	0	1.0
+can you say send a message	1	0	1.0
+can you send a a text message	1	0	1.0
+can you send a message again	1	0	1.0
+can you send a message by	1	0	1.0
+can you send a message by <source_platform>	1	0	1.0
+can you send a message for	1	0	1.0
+can you send a message for me	1	0	1.0
+can you send a message for me on	1	0	1.0
+can you send a message for my <relationship_name>	1	0	1.0
+can you send a message for my <relationship_name> please	1	0	1.0
+can you send a message from	1	0	1.0
+can you send a message on <source_platform>	1	0	1.0
+can you send a message through <source_platform>	1	0	1.0
+can you send a message to a	1	0	1.0
+can you send a message to <contact_name> telling him that <message>	1	0	1.0
+can you send a message to <destination_platform>	1	1	0.0
+can you send a message to for me	1	0	1.0
+can you send a message to make an	1	1	0.0
+can you send a message to me	1	0	1.0
+can you send a message to meeting	1	0	1.0
+can you send a message to my <relationship_name>	1	0	1.0
+can you send a message to my <relationship_name> saying <message>	1	0	1.0
+can you send a message to <contact_name> for me	1	1	0.0
+can you send a message to my <relationship_name> please	1	0	1.0
+can you send a message to <contact_name> that <message>	1	0	1.0
+can you send a message to somebody	1	0	1.0
+can you send a message using <source_platform>	1	0	1.0
+can you send a message with	1	0	1.0
+can you send a message you	1	0	1.0
+can you send a send a text message	1	0	1.0
+can you send a text do	1	1	0.0
+can you send a text from <source_platform>	1	0	1.0
+can you send a text from my <source_platform>	1	0	1.0
+can you send a text message for	1	0	1.0
+can you send a text message for me please	1	0	1.0
+can you send a text message from	1	0	1.0
+can you send a text message please	1	0	1.0
+can you send a text message through <source_platform>	1	0	1.0
+can you send a text message to	1	0	1.0
+can you send a text message to me	1	1	0.0
+can you send a text message to <relationship_name> <destination_platform> for me	1	0	1.0
+can you send a text message to <relationship_name> <destination_platform>	1	0	1.0
+can you send a text message to my <relationship_name> <destination_platform>	1	0	1.0
+can you send a text message to <contact_name> for me	1	0	1.0
+can you send a text message using	1	0	1.0
+can you send a text message with	1	0	1.0
+can you send a text messages	1	0	1.0
+can you send a text on	1	0	1.0
+can you send a text through messages	1	0	1.0
+can you send a text to message	1	0	1.0
+can you send a text to <relationship_name>	1	0	1.0
+can you send a text using <source_platform>	1	0	1.0
+can you send a <source_platform> message to <contact_name>	1	0	1.0
+can you send an a text message	1	0	1.0
+can you send an can you send a text message	1	0	1.0
+can you send an message	1	0	1.0
+can you send an <source_platform>	1	1	0.0
+can you send an text message	1	0	1.0
+can you send can you send a text	1	0	1.0
+can you send can you send a text message	1	0	1.0
+can you send <source_platform> message	1	1	0.0
+can you send <contact_name> for for a <message> message <time>	1	0	1.0
+can you send <contact_name> a text for me	1	0	1.0
+can you send <contact_name> a message for me	1	0	1.0
+can you send me a <message> message <time>	1	0	1.0
+can you send me a message	1	0	1.0
+can you send me a message for me	1	0	1.0
+can you send me a message to	1	0	1.0
+can you send me a text message for me	1	0	1.0
+can you send <contact_name> message	1	0	1.0
+can you send message for me	1	0	1.0
+can you send message from <source_platform>	1	0	1.0
+can you send message through <source_platform>	1	0	1.0
+can you send message to	1	0	1.0
+can you send message to my <relationship_name>	1	0	1.0
+can you send messages from <source_platform>	1	0	1.0
+can you send messages in <source_platform>	1	0	1.0
+can you send messages over <source_platform>	1	0	1.0
+can you send messages through <source_platform>	1	1	0.0
+can you send messages to	1	0	1.0
+can you send messages with <source_platform>	1	1	0.0
+can you send <contact_name> a message on <source_platform>	1	0	1.0
+can you send my <relationship_name> message	1	0	1.0
+can you send my <relationship_name> a message for me	1	0	1.0
+can you send out a <source_platform> message	1	0	1.0
+can you send out a message	1	0	1.0
+can you send out a text	1	0	1.0
+can you send out a text for me	1	0	1.0
+can you send out a text message	1	0	1.0
+can you send out a text message for me	1	0	1.0
+can you send some message on <source_platform>	1	0	1.0
+can you send <contact_name> a text	1	0	1.0
+can you send text message	1	0	1.0
+can you send text messages for me	1	0	1.0
+can you send text messages with	1	1	0.0
+can you send text messages you	1	0	1.0
+can you send text on my <source_platform>	1	0	1.0
+can you send that message through <source_platform>	1	0	1.0
+can you send that message to <contact_name>	1	1	0.0
+can you send you a message	1	0	1.0
+can you send yourself a message	1	1	0.0
+can you sent a message	1	0	1.0
+can you sent a message to <contact_name>	1	0	1.0
+can you sent me a message	1	0	1.0
+can you take a text message	1	0	1.0
+can you tell can you message	1	0	1.0
+can you tell <relationship_name> <message>	1	0	1.0
+can you tell my <relationship_name> please	1	0	1.0
+can you text a <relationship_name> for me	1	0	1.0
+can you text a message to	1	0	1.0
+can you text and	1	0	1.0
+can you text can you message saying <message>	1	0	1.0
+can you text can you text <relationship_name>	1	1	0.0
+can you text <relationship_name> please	1	0	1.0
+can you text <contact_name> a message	1	0	1.0
+can you text <contact_name> and tell her <message>	1	0	1.0
+can you text him for me	1	0	1.0
+can you text him for me please	1	0	1.0
+can you text <contact_name> and tell him	1	0	1.0
+can you text message <contact_name>	1	0	1.0
+can you text message <message>	1	0	1.0
+can you text message oh	1	1	0.0
+can you text message somebody	1	0	1.0
+can you text message with	1	0	1.0
+can you text my <relationship_name> for me	1	0	1.0
+can you text my <relationship_name>	1	0	1.0
+can you text my <relationship_name> saying	1	0	1.0
+can you text my <relationship_name> for me please	1	0	1.0
+can you text my <relationship_name> say	1	0	1.0
+can you text my <relationship_name> <message>	1	1	0.0
+can you text my <relationship_name> please	1	0	1.0
+can you text my <destination_platform> <message>	1	1	0.0
+can you text my <relationship_name> and said <message>	1	0	1.0
+can you text my <relationship_name> <contact_name>	1	0	1.0
+can you text my <relationship_name> saying <message>	1	0	1.0
+can you text my <relationship_name> that <message>	1	0	1.0
+can you text on <source_platform>	1	0	1.0
+can you text <contact_name> to <message>	1	0	1.0
+can you text some message	1	0	1.0
+can you text that <message>	1	0	1.0
+can you text the girl	1	1	0.0
+can you text to <contact_name>	1	0	1.0
+can you text what i am saying	1	1	0.0
+can you text what i&apos;m saying	1	0	1.0
+can you type a message in <source_platform> for me	1	0	1.0
+can you type a message on	1	0	1.0
+can you write a message for me on <source_platform>	1	0	1.0
+can you write message for me	1	0	1.0
+can you you text	1	0	1.0
+cash out text cash out to s	1	1	0.0
+cenarrusa it&apos;s a message	1	1	0.0
+cendres omega a message	1	1	0.0
+change my <meeting_title> meeting that <message>	1	1	0.0
+check my meeting message to <contact_name>	1	1	0.0
+chrissy message	1	1	0.0
+chytrid whatsapp message of beriani	1	1	0.0
+compare message to <contact_name>	1	0	1.0
+compose a message to	1	0	1.0
+confirm send sms to <phone_number> <message>	1	1	0.0
+contact members <contact_name> <message>	1	1	0.0
+contract send message	1	0	1.0
+cortana can we text <contact_name>	1	0	1.0
+cortana can you message my <relationship_name> <contact_name>	1	0	1.0
+cortana can you please send <contact_name> message	1	0	1.0
+cortana can you please send message to the all	1	0	1.0
+cortana can you please tell <contact_name> to me	1	0	1.0
+cortana can you send a message to <contact_name> via <source_platform>	1	1	0.0
+cortana can you send a minute	1	0	1.0
+cortana can you send a text to my <relationship_name>	1	0	1.0
+cortana can you send a text to <contact_name>	1	0	1.0
+cortana can you send this to <contact_name>	1	0	1.0
+cortana can you tell <contact_name> to <message>	1	0	1.0
+cortana can you tell <contact_name> <message>	1	0	1.0
+cortana can you text <contact_name> and tell her to <message>	1	1	0.0
+cortana cortana send a message to <contact_name> <message>	1	0	1.0
+cortana could you send a message to <contact_name>	1	0	1.0
+cortana could you send message <contact_name> please	1	0	1.0
+cortana do you send a message	1	0	1.0
+cortana get my <relationship_name> to <message>	1	1	0.0
+cortana go to <source_platform> and message <relationship_name>	1	1	0.0
+cortana hey cortana message	1	0	1.0
+cortana i want to send a message to <contact_name>	1	0	1.0
+cortana i want you to put in send a message to <contact_name>	1	0	1.0
+cortana let everyone in the meeting know that <message>	1	1	0.0
+cortana let my <order_ref> meeting know that <message>	1	0	1.0
+cortana let the <contact_name> know that <message>	1	1	0.0
+cortana let&apos;s send <contact_name> message	1	0	1.0
+cortana message by	1	1	0.0
+cortana message <contact_name> tell him to <message>	1	0	1.0
+cortana message everybody	1	0	1.0
+cortana message everyone a meeting	1	0	1.0
+cortana message everyone on a meeting	1	0	1.0
+cortana message in my <order_ref> meeting	1	1	0.0
+cortana message my <time> meeting. <message>	1	0	1.0
+cortana message my meeting that <message>	1	0	1.0
+cortana message my <order_ref> meeting <message>	1	0	1.0
+cortana message my <order_ref> meeting that	1	0	1.0
+cortana message my <order_ref> meeting that <message>	1	0	1.0
+cortana message my <destination_platform>	1	1	0.0
+cortana message send a message to miller on ts	1	1	0.0
+cortana message the meeting that <message>	1	0	1.0
+cortana message the meeting with <contact_name> <time>	1	0	1.0
+cortana message. <message>	1	0	1.0
+cortana message. <message> to my <order_ref> meeting	1	0	1.0
+cortana open message to <contact_name>	1	0	1.0
+cortana open <source_platform> and text my <contact_name> <message>	1	1	0.0
+cortana please send a message to <contact_name> saying <message>	1	0	1.0
+cortana please send a message to someone	1	0	1.0
+cortana please send a text to my <relationship_name>	1	0	1.0
+cortana please send <contact_name> this message	1	0	1.0
+cortana please send message to <contact_name> <message>	1	0	1.0
+cortana please send <message>	1	1	0.0
+cortana say <message> to message	1	1	0.0
+cortana say send <contact_name> a message	1	0	1.0
+cortana schedule a text message	1	0	1.0
+cortana send a message for	1	0	1.0
+cortana send a message for <contact_name>	1	0	1.0
+cortana send a message from <source_platform>	1	0	1.0
+cortana send a message on	1	0	1.0
+cortana send a message to <phone_number>	1	0	1.0
+cortana send a message to a	1	1	0.0
+cortana send a message to <contact_name> . send. <message>	1	0	1.0
+cortana send a message to <message>	1	0	1.0
+cortana send a message to my contacts	1	1	0.0
+cortana send a message to my meeting at <time>	1	0	1.0
+cortana send a message to my meeting that <message>	1	0	1.0
+cortana send a message to my <order_ref> meeting with was	1	1	0.0
+cortana send a message to my <order_ref> meeting, telling them that <message>	1	0	1.0
+cortana send a message to my <order_ref> meeting, <message>	1	1	0.0
+cortana send a message to <contact_name> . tell her that <message>	1	0	1.0
+cortana send a message to <contact_name> saying	1	1	0.0
+cortana send a message to say <message>	1	1	0.0
+cortana send a message to <contact_name> and i do	1	0	1.0
+cortana send a message to the <time> meeting	1	0	1.0
+cortana send a message to <contact_name> that	1	0	1.0
+cortana send a message to <contact_name> saying <message>	1	1	0.0
+cortana send a text to my <relationship_name> <message>	1	1	0.0
+cortana send an invite to dabestceo	1	1	0.0
+cortana send <contact_name> a message saying <message>	1	0	1.0
+cortana send <contact_name> <source_platform> message	1	0	1.0
+cortana send danny	1	1	0.0
+cortana send <contact_name> a message saying	1	0	1.0
+cortana send <contact_name> a text tell her <message>	1	0	1.0
+cortana send jay be on a message	1	1	0.0
+cortana send me a message for my <relationship_name>	1	0	1.0
+cortana send message message to <contact_name>	1	0	1.0
+cortana send message say <message>	1	0	1.0
+cortana send message to <contact_name> to meeting	1	1	0.0
+cortana send message to <meeting_title> meeting	1	1	0.0
+cortana send message to <contact_name> to <contact_name>	1	0	1.0
+cortana send message to <contact_name> that	1	0	1.0
+cortana send message to <contact_name> <source_platform>	1	0	1.0
+cortana send message to <contact_name> to her that <message>	1	0	1.0
+cortana send message to my <order_ref> meeting. <message>	1	0	1.0
+cortana send message to <contact_name> . tell her that <message>	1	0	1.0
+cortana send message to <contact_name> about <message>	1	0	1.0
+cortana send message to <contact_name> <destination_platform>	1	1	0.0
+cortana send message to <message>	1	0	1.0
+cortana send message to the meeting i have at <time>	1	1	0.0
+cortana send message to the meeting with <contact_name>	1	0	1.0
+cortana send message to the meeting. i have on <time>	1	1	0.0
+cortana send message to the meeting. i have on wednesday at <time>	1	1	0.0
+cortana send message to <contact_name> to him. / <message>	1	1	0.0
+cortana send message to <meeting_title>	1	1	0.0
+cortana send message to <contact_name> from <source_platform>	1	1	0.0
+cortana send my <relationship_name> message	1	0	1.0
+cortana send <contact_name> send a message	1	0	1.0
+cortana send send a message to <contact_name>	1	0	1.0
+cortana send <contact_name> a text message	1	0	1.0
+cortana send sms <contact_name>	1	1	0.0
+cortana send <source_platform> message to <contact_name>	1	0	1.0
+cortana send <contact_name> message <message>	1	0	1.0
+cortana send text to <contact_name> <message>	1	0	1.0
+cortana send this to everybody	1	0	1.0
+cortana sends a message to <contact_name>	1	0	1.0
+cortana take a message to <contact_name>	1	1	0.0
+cortana tell message	1	1	0.0
+cortana tell my <time> meeting. <message>	1	1	0.0
+cortana tell my <order_ref> meeting that <message>	1	0	1.0
+cortana tell my <relationship_name> that <message>	1	0	1.0
+cortana text <phone_number> <message>	1	0	1.0
+cortana text <contact_name> and tell her <message> send	1	0	1.0
+cortana text <contact_name> and tell her to <message>	1	0	1.0
+cortana text <contact_name> <destination_platform> <message>	1	0	1.0
+cortana text her she	1	1	0.0
+cortana text <destination_platform> and tell <relationship_name> to <message>	1	1	0.0
+cortana text <contact_name> that <message>	1	0	1.0
+cortana text <contact_name> for me	1	0	1.0
+cortana text <contact_name> and tell him <message>	1	0	1.0
+cortana text <relationship_name> <destination_platform> <message>	1	0	1.0
+cortana text my <relationship_name>	1	0	1.0
+cortana text <message>	1	1	0.0
+cortana text <contact_name> at	1	1	0.0
+cortana text <contact_name> says <message>	1	1	0.0
+cortana text that stuff	1	1	0.0
+cortana text <relationship_name> <message>	1	0	1.0
+cortana texte message	1	0	1.0
+cortana try to call lady fella. tell her that i will be late	1	1	0.0
+cortana will you text <contact_name> that <message>	1	0	1.0
+cortana write a message to <contact_name>	1	0	1.0
+cortana, can you send my <order_ref> meeting a message	1	1	0.0
+cortana, <message> for my <order_ref> meeting	1	1	0.0
+cortana, please send a text <contact_name>	1	0	1.0
+cortana, please send a text to <contact_name>	1	0	1.0
+cortana,text <contact_name>	1	1	0.0
+cortana. hey cortana send message to <contact_name>	1	0	1.0
+cortana. i&apos;d like to send a message to everyone on the meeting	1	0	1.0
+cortana. i&apos;d like to send a message to <contact_name>	1	0	1.0
+cortana. <message> to my <time> meeting	1	1	0.0
+cortina could you send a text to a <contact_name>	1	0	1.0
+cortina message <contact_name>	1	0	1.0
+cortina send a text to <contact_name> <destination_platform> that says <message>	1	0	1.0
+cortina text <contact_name> that <message>	1	0	1.0
+cortina this is a message	1	1	0.0
+cortini hey cortini send a message	1	0	1.0
+could i send a text	1	0	1.0
+could i send a text message	1	0	1.0
+could you a send a message for me	1	0	1.0
+could you help me to message	1	1	0.0
+could you please send a text	1	0	1.0
+could you please send a text message	1	0	1.0
+could you please send message to <contact_name>	1	0	1.0
+could you please tell my <relationship_name>	1	0	1.0
+could you please tell <contact_name> that <message>	1	0	1.0
+could you please text <contact_name> that <message>	1	0	1.0
+could you send a <source_platform> message	1	0	1.0
+could you send a message	1	0	1.0
+could you send a message for me	1	0	1.0
+could you send a message on <source_platform>	1	0	1.0
+could you send a message through <source_platform>	1	0	1.0
+could you send a message to	1	0	1.0
+could you send a message to <contact_name> for me	1	1	0.0
+could you send a message to someone	1	0	1.0
+could you send a text	1	0	1.0
+could you send a text for me	1	0	1.0
+could you send a text message for me	1	0	1.0
+could you send a text message for me please	1	0	1.0
+could you send a text message to <contact_name>	1	0	1.0
+could you send a text please	1	0	1.0
+could you send an a text message	1	0	1.0
+could you send an sms to my <relationship_name>	1	0	1.0
+could you send me a message	1	0	1.0
+could you send message for me	1	0	1.0
+could you send message on <source_platform>	1	0	1.0
+could you send messages	1	1	0.0
+could you send sms	1	0	1.0
+could you text	1	0	1.0
+could you text for me	1	0	1.0
+could you text <contact_name> for me	1	0	1.0
+could you text message	1	0	1.0
+could you text my <relationship_name> for me please	1	0	1.0
+could you text people	1	0	1.0
+could you text <contact_name>	1	0	1.0
+could you text somebody	1	0	1.0
+could you text somebody for me	1	0	1.0
+could you text someone	1	0	1.0
+could you text someone for me	1	0	1.0
+could you text something for me	1	1	0.0
+could you text <contact_name> and tell her <message>	1	0	1.0
+could you type a message	1	0	1.0
+could you write a message for me	1	0	1.0
+create a text message	1	0	1.0
+create a text message in	1	0	1.0
+create a text to	1	0	1.0
+create an text	1	0	1.0
+create text to	1	0	1.0
+<time> meeting message	1	0	1.0
+<time> meeting that <message>	1	1	0.0
+<contact_name> a message	1	0	1.0
+<relationship_name> text	1	1	0.0
+dictate a message	1	0	1.0
+dictate dictate a message	1	0	1.0
+dictate dictate text	1	0	1.0
+dictate text on	1	1	0.0
+did you send a message to <contact_name>	1	0	1.0
+did you tell <contact_name> <message>	1	1	0.0
+do text it	1	0	1.0
+do you like to send a text to	1	1	0.0
+do you send a message for me	1	1	0.0
+do you send a message to my <relationship_name>	1	0	1.0
+do you think you can send a message for me	1	1	0.0
+done message	1	0	1.0
+<contact_name> hey, cortana, send a message to <contact_name>	1	1	0.0
+ease send a message	1	0	1.0
+email my <order_ref> meeting group	1	1	0.0
+email the attendees of <order_ref> meeting that <message>	1	1	0.0
+enter a message	1	0	1.0
+enter message to	1	0	1.0
+enter message. enter message	1	0	1.0
+essentially message	1	0	1.0
+everyone is my <order_ref> meeting. <message>	1	1	0.0
+everyone on my next meeting that <message>	1	1	0.0
+<source_platform> message to <contact_name>	1	0	1.0
+<contact_name> message text	1	0	1.0
+fema text voice message	1	1	0.0
+for king text <relationship_name>	1	1	0.0
+for my <order_ref> meeting can you tell them <message>	1	1	0.0
+for send a message	1	0	1.0
+get here send a message to <contact_name>	1	0	1.0
+get voice sms	1	1	0.0
+get you send message to <contact_name>	1	0	1.0
+give a message to <relationship_name>	1	0	1.0
+give a message to <contact_name> and <contact_name>	1	1	0.0
+give a text message	1	0	1.0
+give <contact_name> a message	1	0	1.0
+give her message	1	1	0.0
+give <relationship_name> a message	1	1	0.0
+give me a message from <from_contact_name>	1	1	0.0
+give me a response message for <contact_name>	1	0	1.0
+give me a text are	1	0	1.0
+give me a text message	1	1	0.0
+give me text <contact_name>	1	0	1.0
+give message to <contact_name>	1	0	1.0
+give <relationship_name> a text	1	0	1.0
+go to kik go to <contact_name> chat and text <message>	1	1	0.0
+go to meeting send a message	1	0	1.0
+go to text messaging yeah	1	1	0.0
+good morning cortana please send a message to my	1	1	0.0
+have i missed any updates since last time we spoke	1	1	0.0
+hello cortana can you send a message to <contact_name>	1	0	1.0
+hello cortana message me	1	1	0.0
+hello cortana messaging	1	1	0.0
+hello cortana please send a text	1	0	1.0
+hello cortana write a message to <contact_name>	1	0	1.0
+hello cortana you can send me message in <source_platform>	1	1	0.0
+hello i'm sending a message with cortana	1	1	0.0
+hello send a message to <contact_name>	1	0	1.0
+hello send message to <contact_name>	1	1	0.0
+hey <relationship_name> <message>	1	1	0.0
+hey can you send a text	1	0	1.0
+hey can you send a text message	1	0	1.0
+hey can you send message	1	0	1.0
+hey can you text somebody for me	1	0	1.0
+hey can you text something for me	1	1	0.0
+hey catana send a message to <contact_name>	1	0	1.0
+hey corona can you send a text to <contact_name> saying <message>	1	0	1.0
+hey cortana and a message to <contact_name> <message>	1	1	0.0
+hey cortana censos gra message	1	1	0.0
+hey cortana hey cortana send a message	1	0	1.0
+hey cortana hey cortana text <contact_name>	1	0	1.0
+hey cortana hey send a message	1	0	1.0
+hey cortana message <contact_name> on my next meeting	1	1	0.0
+hey cortana message <contact_name> <message>	1	0	1.0
+hey cortana message everyone on my <order_ref> meeting. <message>	1	0	1.0
+hey cortana message everyone on the meeting. <message>	1	0	1.0
+hey cortana message everyone on this <time> meeting	1	0	1.0
+hey cortana message hey cortana	1	0	1.0
+hey cortana message <contact_name> of <message>	1	0	1.0
+hey cortana message <contact_name> to <message>	1	0	1.0
+hey cortana message <contact_name> <relationship_name> <message>	1	1	0.0
+hey cortana message <contact_name> that	1	0	1.0
+hey cortana message <meeting_title> meeting. <message>	1	1	0.0
+hey cortana message <relationship_name> <message>	1	1	0.0
+hey cortana message me <time>	1	0	1.0
+hey cortana message message. my <time> o&apos;clock meeting	1	0	1.0
+hey cortana message my <time> o&apos;clock meet	1	1	0.0
+hey cortana message my <time> o&apos;clock meeting that	1	0	1.0
+hey cortana message my <time> meeting. <message> send	1	0	1.0
+hey cortana message my create a meeting	1	1	0.0
+hey cortana message my <time> meeting that this is <time> meeting message again	1	1	0.0
+hey cortana message my new meeting	1	1	0.0
+hey cortana message my <order_ref> meeting that	1	0	1.0
+hey cortana message my <order_ref> meeting that this is <order_ref> meeting message	1	1	0.0
+hey cortana message my <order_ref> meeting that this\ is <order_ref> meeting	1	1	0.0
+hey cortana message my <order_ref> meeting that this\ is <order_ref> meeting message	1	1	0.0
+hey cortana message my <meeting_title> meeting that <message>	1	0	1.0
+hey cortana message that	1	1	0.0
+hey cortana message the other one	1	0	1.0
+hey cortana message this chat that	1	1	0.0
+hey cortana message to <contact_name> that <message>	1	0	1.0
+hey cortana message to <meeting_title> meeting	1	1	0.0
+hey cortana message to my <order_ref> meeting. <message>	1	1	0.0
+hey cortana message to our if a on my <order_ref> meeting <message>	1	0	1.0
+hey cortana message. <message> my <order_ref> meeting	1	1	0.0
+hey cortana reply back to <contact_name>	1	0	1.0
+hey cortana reply to <time> o&apos;clock meeting <time>	1	1	0.0
+hey cortana segaba message	1	1	0.0
+hey cortana send a <contact_name> message	1	1	0.0
+hey cortana send a message <time> meeting	1	0	1.0
+hey cortana send a message for me	1	0	1.0
+hey cortana send a message to <contact_name> &apos;s	1	0	1.0
+hey cortana send a message to people for	1	1	0.0
+hey cortana send a text message to <phone_number>	1	0	1.0
+hey cortana send <contact_name> an message	1	1	0.0
+hey cortana send all message	1	0	1.0
+hey cortana send <contact_name> a message say	1	0	1.0
+hey cortana send for pass a message	1	1	0.0
+hey cortana send <contact_name> of we a message	1	0	1.0
+hey cortana send it shots a message	1	1	0.0
+hey cortana send message <contact_name>	1	0	1.0
+hey cortana send message my meeting. <message>	1	0	1.0
+hey cortana send message the meeting	1	0	1.0
+hey cortana send message to ask you	1	1	0.0
+hey cortana send message to <message>	1	0	1.0
+hey cortana send message to meeting <message>	1	0	1.0
+hey cortana send message to <contact_name> <message>	1	1	0.0
+hey cortana send message. <contact_name> that <message>	1	0	1.0
+hey cortana send my message at <time> o&apos;clock meeting that <message>	1	1	0.0
+hey cortana send <contact_name> her say message	1	0	1.0
+hey cortana send <contact_name> a message that <message>	1	0	1.0
+hey cortana send <contact_name>	1	0	1.0
+hey cortana send send a message to <contact_name>	1	0	1.0
+hey cortana send text message to <contact_name>	1	0	1.0
+hey cortana send to <contact_name> a message	1	0	1.0
+hey cortana send <contact_name> a message saying <message>	1	0	1.0
+hey cortana text <contact_name> on <meeting_title> meeting. <message>	1	1	0.0
+hey cortana text <message>	1	0	1.0
+hey cortana text <contact_name> <message>	1	1	0.0
+hey cortana text everyone a meeting	1	0	1.0
+hey cortana text everyone on the meeting <meeting_title>	1	1	0.0
+hey cortana text my <time> meeting	1	0	1.0
+hey cortana text my <time> meeting that <message>	1	0	1.0
+hey cortana text my <time> o&apos;clock meeting	1	1	0.0
+hey cortana text my meeting. <message>	1	0	1.0
+hey cortana text <contact_name> that <message>	1	0	1.0
+hey cortana text. <contact_name> that <message>	1	0	1.0
+hey cortana type a message to <contact_name>	1	0	1.0
+hey cortana&apos;s message <contact_name>	1	1	0.0
+hey cortana, a message to <contact_name>	1	0	1.0
+hey cortana, can you invite <contact_name> to this call	1	1	0.0
+hey cortana, can you message <contact_name> <message>	1	0	1.0
+hey cortana, can you please message <contact_name>	1	0	1.0
+hey cortana, can you send a message	1	0	1.0
+hey cortana, can you send a message to <contact_name>	1	0	1.0
+hey cortana, can you set send a message to <contact_name>	1	0	1.0
+hey cortana, message everyone on my <order_ref> meeting	1	0	1.0
+hey cortana, message my <time> meeting that <message>	1	0	1.0
+hey cortana, message my meeting that <message>	1	0	1.0
+hey cortana, message my <order_ref> meeting	1	0	1.0
+hey cortana, message my <order_ref> meeting that <message>	1	0	1.0
+hey cortana, message <meeting_title> meeting that <message>	1	0	1.0
+hey cortana, please send a message to my <order_ref> meeting	1	0	1.0
+hey cortana, please send a message to the meeting	1	0	1.0
+hey cortana, respond to <contact_name>	1	0	1.0
+hey cortana, send a chat to <contact_name>	1	1	0.0
+hey cortana, send a message for my <order_ref> meeting that <message>	1	0	1.0
+hey cortana, send a message to a person	1	0	1.0
+hey cortana, send a message to <contact_name> that	1	0	1.0
+hey cortana, send a message to at	1	0	1.0
+hey cortana, send a message to call	1	1	0.0
+hey cortana, send a message to <contact_name> &apos;s	1	0	1.0
+hey cortana, send a message to everyone on	1	1	0.0
+hey cortana, send a message to <contact_name> at <message>	1	0	1.0
+hey cortana, send a message to <contact_name> on	1	0	1.0
+hey cortana, send a message to join the meeting	1	1	0.0
+hey cortana, send a message to <contact_name> and <contact_name>	1	0	1.0
+hey cortana, send a message to me to 1	1	1	0.0
+hey cortana, send a message to <relationship_name> that <message>	1	0	1.0
+hey cortana, send a message to my <time> meeting that <message>	1	0	1.0
+hey cortana, send a message to my meeting with <message>	1	0	1.0
+hey cortana, send a message to my <order_ref> meeting at, <message>	1	0	1.0
+hey cortana, send a message to my <order_ref> meeting that <message>	1	0	1.0
+hey cortana, send a message to my <order_ref> meeting, telling them that <message>	1	0	1.0
+hey cortana, send a message to my <order_ref> meetings in	1	0	1.0
+hey cortana, send a message to my to my meeting	1	0	1.0
+hey cortana, send a message to the meeting	1	0	1.0
+hey cortana, send a message to the meeting that <message>	1	0	1.0
+hey cortana, send a message to you and i	1	0	1.0
+hey cortana, send a text to my <time> meeting	1	0	1.0
+hey cortana, send a text to my meeting that <message>	1	0	1.0
+hey cortana, send a text to my meeting. <message>	1	0	1.0
+hey cortana, send another message to <contact_name>	1	0	1.0
+hey cortana, send message to <contact_name> that <message>	1	0	1.0
+hey cortana, send message to busy	1	1	0.0
+hey cortana, send message to <contact_name> <message>	1	0	1.0
+hey cortana, send message to find someone that <message>	1	1	0.0
+hey cortana, send message to my <time> meeting that <message>	1	0	1.0
+hey cortana, send message to my <time> meeting that this is <time> meeting message	1	1	0.0
+hey cortana, send message to my meeting	1	0	1.0
+hey cortana, send message to my meeting. <message>	1	0	1.0
+hey cortana, send message to my <order_ref> meeting at <message>	1	0	1.0
+hey cortana, send message to my <order_ref> meeting that <message>	1	0	1.0
+hey cortana, send message to my <order_ref> meeting, <message>	1	0	1.0
+hey cortana, send message to my <order_ref> meeting	1	0	1.0
+hey cortana, send messages to my <order_ref> meeting	1	1	0.0
+hey cortana, send my <order_ref> meeting, <message>	1	0	1.0
+hey cortana, send <contact_name> a message	1	0	1.0
+hey cortana, send text to <contact_name>	1	0	1.0
+hey cortana, send text to my <time> o&apos;clock meeting	1	1	0.0
+hey cortana, tell <contact_name> that <message>	1	0	1.0
+hey cortana, tell my <time> meeting that <message>	1	1	0.0
+hey cortana, tell my meeting that <message>	1	0	1.0
+hey cortana, tell my <order_ref> meeting, <message>	1	0	1.0
+hey cortana, this is send message	1	0	1.0
+hey cortana. find the message from <from_contact_name>	1	1	0.0
+hey cortana. hey cortana message <contact_name>	1	0	1.0
+hey cortana. hey cortana. send a message for me	1	0	1.0
+hey cortana. hey cortana. send a message to my <time> meeting	1	0	1.0
+hey cortana. hey cortana. send a message to my meeting	1	0	1.0
+hey cortana. hey cortana. send message	1	0	1.0
+hey cortana. hey send a message to <contact_name>	1	0	1.0
+hey cortana. hi cortana. send a message to <contact_name>	1	0	1.0
+hey cortana. message <contact_name>	1	0	1.0
+hey cortana. send a message for me	1	0	1.0
+hey cortana. send a message to meeting	1	0	1.0
+hey cortana. send a message to <contact_name> that <message>	1	1	0.0
+hey cortana. send a text	1	0	1.0
+hey cortana. send message	1	0	1.0
+hey cortana. send message to <contact_name> saying <message>	1	0	1.0
+hey cortana. send message to <contact_name> saying	1	0	1.0
+hey cortana. send message to <contact_name> <destination_platform>	1	0	1.0
+hey cortana. send message to <order_ref> meeting	1	0	1.0
+hey cortana. send message to <contact_name> that	1	1	0.0
+hey cortana. send message to <meeting_title> meeting that <message>	1	1	0.0
+hey cortana. send message to test to meeting	1	1	0.0
+hey cortana.send message	1	0	1.0
+hey cortina send a text message	1	0	1.0
+hey cortina text <contact_name>	1	0	1.0
+hey cortina.send a text message	1	0	1.0
+hey cortona send a message to <contact_name>	1	0	1.0
+hey cortona. send a message to <contact_name>	1	0	1.0
+hey hey cortana send a message	1	0	1.0
+hey hey cortana send my <relationship_name> send <relationship_name> a message	1	0	1.0
+hey hey cortana text	1	0	1.0
+hey hey, cortana, send a message	1	0	1.0
+hey let&apos;s send a text message	1	0	1.0
+hey send a message to all my friends saying <message>	1	1	0.0
+hey send a text to <contact_name>	1	1	0.0
+hey send <contact_name> a message	1	0	1.0
+hey send me a message from <from_contact_name>	1	0	1.0
+hey siri text <relationship_name> <message>	1	0	1.0
+hey there hey cortana send a message to <contact_name>	1	0	1.0
+hey, can you message <contact_name> for me	1	1	0.0
+hey, cortana has send a message to my	1	0	1.0
+hey, cortana, send a message	1	0	1.0
+hey, cortana, send message to <contact_name>	1	0	1.0
+hey+cortana message <contact_name>	1	0	1.0
+hey+cortana send a message to <contact_name> <message>	1	0	1.0
+hi can you tell my <relationship_name> to <message>	1	0	1.0
+hi cortana can you send a text to my <relationship_name>	1	0	1.0
+hi cortana can you send <contact_name> a message	1	0	1.0
+hi cortana can you tell <relationship_name> that <message>	1	1	0.0
+hi cortana message <relationship_name>	1	0	1.0
+hi cortana messaging please	1	0	1.0
+hi cortana please send a message for me	1	0	1.0
+hi cortana please send a message to <contact_name>	1	0	1.0
+hi cortana please send a text message	1	0	1.0
+hi cortana please send message to <contact_name>	1	0	1.0
+hi cortana send a <message>	1	1	0.0
+hi cortana send a text to <contact_name>	1	0	1.0
+hi cortana send he's a message	1	1	0.0
+hi cortana send message to	1	0	1.0
+hi cortana send message to a meeting	1	0	1.0
+hi cortana send message to <contact_name> <relationship_name>	1	1	0.0
+hi cortana send messages	1	0	1.0
+hi cortana tell <contact_name>	1	0	1.0
+hi cortana tell <contact_name> <message>	1	0	1.0
+hi send a message back to <contact_name>	1	0	1.0
+hi. and this is a test message. maybe we can try. to send that message. <message>	1	1	0.0
+how do i send a message to <contact_name>	1	0	1.0
+how to send a message to <contact_name> alright send a message to <contact_name>	1	1	0.0
+how would like to send a text	1	0	1.0
+i do i need to text <contact_name> that <message>	1	0	1.0
+i don't get any phone don't get a reply i text	1	1	0.0
+i like to send a text message	1	0	1.0
+i like to text message	1	0	1.0
+i message for <message>	1	1	0.0
+i need send a message in <source_platform>	1	0	1.0
+i need to message for <destination_platform>	1	1	0.0
+i need to send a message in <source_platform>	1	0	1.0
+i need to send a message to <relationship_name>	1	0	1.0
+i need to send a text to <contact_name>	1	0	1.0
+i need to text <contact_name>	1	0	1.0
+i need you to send a message to <contact_name>	1	0	1.0
+i need you to send <contact_name> message cortana	1	0	1.0
+i need you to text <contact_name> for me	1	0	1.0
+i need you to text message	1	0	1.0
+i need you to text message doing	1	1	0.0
+i said message tell him that <message>	1	0	1.0
+i said send this message to <contact_name>	1	0	1.0
+i said, you on my <order_ref> meeting that <message>	1	1	0.0
+i send a message to my meeting	1	0	1.0
+i send a message to <contact_name>	1	0	1.0
+i send a text to <phone_number>	1	0	1.0
+i think in my <order_ref> meeting send a message	1	1	0.0
+i think siri send a text that <message>	1	0	1.0
+i wanna message to you cortana	1	1	0.0
+i wanna send a text message	1	0	1.0
+i wanna send a text message to <contact_name>	1	0	1.0
+i wanna send a text to my <relationship_name>	1	0	1.0
+i wanna send an text message	1	0	1.0
+i want i want to send a text message	1	0	1.0
+i want send a text message	1	0	1.0
+i want to do a text message	1	0	1.0
+i want to give a text message	1	0	1.0
+i want to message to <contact_name>	1	0	1.0
+i want to receive a text message	1	1	0.0
+i want to send a text message to	1	0	1.0
+i want to send a text message to <contact_name>	1	0	1.0
+i want to send a text to	1	0	1.0
+i want to send it message to my <relationship_name>	1	0	1.0
+i want to send message to <contact_name>	1	0	1.0
+i want to send text message	1	0	1.0
+i want to send what&apos;s up message	1	1	0.0
+i want to sendf a text message	1	0	1.0
+i want to text to	1	0	1.0
+i want to text with	1	1	0.0
+i want to write a message to <contact_name>	1	0	1.0
+i want you text messages	1	0	1.0
+i want you to take a message	1	0	1.0
+i was like cortana you know i was like hey cortana send a message to <contact_name>	1	0	1.0
+i would like for you to take a message	1	0	1.0
+i would like to dictate text	1	0	1.0
+i would like to see in august a text message	1	1	0.0
+i would like to send a message to	1	0	1.0
+i would like to send a text to <contact_name>	1	0	1.0
+i would like to send it <message> message	1	1	0.0
+i would like to text and	1	0	1.0
+i would like to text my <relationship_name>	1	0	1.0
+i&apos;d like to dictate a text	1	0	1.0
+i&apos;d like to send a message to	1	0	1.0
+i&apos;d like to send a message to everyone on the meeting	1	0	1.0
+i&apos;d like to send a message to <contact_name>	1	0	1.0
+i&apos;d like to send an message	1	0	1.0
+i&apos;d like to send message	1	0	1.0
+i&apos;d like to send <contact_name> message	1	0	1.0
+i&apos;d like to text	1	0	1.0
+i&apos;d say hey cortana send <contact_name> a message	1	0	1.0
+i&apos;ll send a message	1	0	1.0
+i&apos;ll send message to <contact_name>	1	0	1.0
+<message> to my <order_ref> meeting	1	1	0.0
+i&apos;m using text everyone all <order_ref> meeting. <message>	1	1	0.0
+idiot i wanted to text <contact_name>	1	0	1.0
+i&apos;m running late is call 9	1	1	0.0
+in a message to <contact_name>	1	0	1.0
+in text <contact_name>	1	1	0.0
+inform <contact_name> that <message>	1	0	1.0
+inform my <relationship_name> that <message>	1	0	1.0
+information for can i send a text message to send <message>	1	1	0.0
+<message> text <contact_name> only	1	1	0.0
+instant message <contact_name> &apos;s	1	1	0.0
+interview send a text	1	0	1.0
+invite send a message to <contact_name>	1	0	1.0
+is my meeting that <message>	1	1	0.0
+is my <source_platform> contact i want to send send him a message	1	1	0.0
+its <order_ref> meeting that <message>	1	1	0.0
+<contact_name> message <contact_name>	1	1	0.0
+just send a message to him	1	0	1.0
+kaptury want you go down to send orscher and then send a message	1	1	0.0
+kinda message to <contact_name> <message>	1	0	1.0
+kindly send a message to <contact_name> <message>	1	0	1.0
+<contact_name> text message	1	0	1.0
+launch send a message to <contact_name>	1	0	1.0
+leave a message for <contact_name>	1	0	1.0
+leave a note to <contact_name> that <message>	1	1	0.0
+let <contact_name> know that <message>	1	1	0.0
+let everyone in the meeting know that <message>	1	0	1.0
+let me send a message to <contact_name>	1	0	1.0
+let my <time> o'clock appointment know <message>	1	1	0.0
+let my <order_ref> appointment know that <message>	1	1	0.0
+let the seller know that <message>	1	0	1.0
+let&apos;s do a text message	1	0	1.0
+let&apos;s send a message cortana	1	0	1.0
+let&apos;s send a text to <contact_name>	1	0	1.0
+let&apos;s text <contact_name>	1	0	1.0
+let&apos;s text <message>	1	1	0.0
+let&apos;s write text message	1	0	1.0
+locate <contact_name> a message and tell she <message>	1	0	1.0
+look cortana send message for	1	0	1.0
+lumigan message cortana	1	1	0.0
+m message to <contact_name>	1	0	1.0
+make a message to my <relationship_name>	1	0	1.0
+make a message with him	1	1	0.0
+make a new message by cortana <message>	1	1	0.0
+make an message	1	0	1.0
+make an text	1	0	1.0
+make cortana sender a him a message	1	1	0.0
+make it text message	1	0	1.0
+make make a message	1	0	1.0
+make message <contact_name>	1	0	1.0
+mb tell my <order_ref> meeting <message>	1	1	0.0
+meeting but tell my <order_ref> meeting <message>	1	1	0.0
+meeting that <message>	1	1	0.0
+meetingbot, i'll be late	1	1	0.0
+meetingbot, tell my <order_ref> meeting <message>	1	1	0.0
+message - <contact_name>	1	0	1.0
+message (1	1	1	0.0
+message 1 of	1	1	0.0
+message <time> o&apos;clock meeting	1	1	0.0
+message <time>	1	0	1.0
+message a message <contact_name>	1	0	1.0
+message <contact_name> on my <meeting_title> meeting. <message>	1	1	0.0
+message about <message>	1	0	1.0
+message <contact_name> in <source_platform>	1	0	1.0
+message and	1	1	0.0
+message and <relationship_name>	1	0	1.0
+message <contact_name> like	1	1	0.0
+message aurea one on my <order_ref> meeting. <message>	1	1	0.0
+message back <contact_name>	1	0	1.0
+message <contact_name> <destination_platform> say <message>	1	0	1.0
+message by <time> meeting. <message>	1	1	0.0
+message by <time> meeting <message>	1	0	1.0
+message by <time> o&apos;clock meeting that <message>	1	0	1.0
+message by hey cortana	1	0	1.0
+message by <order_ref> meeting that <message>	1	0	1.0
+message <contact_name> at	1	0	1.0
+message <contact_name> and tell him that <message>	1	0	1.0
+message cortana to	1	0	1.0
+message <relationship_name> that <message>	1	0	1.0
+message <contact_name> for me cortana	1	0	1.0
+message <contact_name> from	1	0	1.0
+message ever. one on the meeting	1	1	0.0
+message every one on my <order_ref> meeting <message>	1	1	0.0
+message everyone	1	1	0.0
+message everyone a meeting	1	0	1.0
+message everyone and the meeting	1	0	1.0
+message everyone <message>	1	1	0.0
+message everyone in the <time> meeting saying <message>	1	0	1.0
+message everyone in the <order_ref> meeting	1	0	1.0
+message everyone in the <order_ref> meeting saying <message>	1	0	1.0
+message everyone in the <order_ref> meeting that <message>	1	0	1.0
+message everyone in the <meeting_title> meeting on my	1	0	1.0
+message everyone my <order_ref> meeting <message>	1	0	1.0
+message everyone my <order_ref> meeting, <message>	1	0	1.0
+message everyone on a meeting	1	0	1.0
+message everyone on <time> meeting	1	0	1.0
+message everyone on my <time> o&apos;clock meeting	1	1	0.0
+message everyone on my <time> meeting in that <message>	1	0	1.0
+message <relationship_name> on my <time> meeting that <message>	1	1	0.0
+message everyone on my <time> meeting with	1	0	1.0
+message <quantifier> on my <time> meeting, <message>	1	1	0.0
+message everyone on my <time> meeting saying <message>	1	0	1.0
+message everyone on my meeting saying <message>	1	0	1.0
+message everyone on my meeting that <message>	1	0	1.0
+message everyone on my <order_ref> meeting saying <message>	1	0	1.0
+message everyone on my <order_ref> meeting test that <message>	1	1	0.0
+message everyone on my <order_ref> meeting that	1	0	1.0
+message everyone on my <order_ref> meeting, but	1	1	0.0
+message everyone on <meeting_title> meeting <message>	1	0	1.0
+message everyone on <order_ref> meeting	1	0	1.0
+message everyone on the <time> meeting saying <message>	1	0	1.0
+message everyone on the <time> meeting that <message>	1	0	1.0
+message everyone on the <order_ref> meeting saying <message>	1	0	1.0
+message everyone on the meeting that <message>	1	0	1.0
+message everyone on the <order_ref> meeting <message>	1	0	1.0
+message everyone on the <order_ref> meeting message <message>	1	0	1.0
+message everyone on the <order_ref> meeting message everyone in the <order_ref> meeting	1	1	0.0
+message everyone under <time> meeting	1	0	1.0
+message everyone will my <order_ref> meeting that <message>	1	0	1.0
+message everyone with my <order_ref> meeting, <message>	1	0	1.0
+message <quantifier> . then the next meeting	1	1	0.0
+message for everyone. all my <order_ref> meeting. <message>	1	1	0.0
+message for <relationship_name> and	1	0	1.0
+message for my <relationship_name>	1	0	1.0
+message from my <from_relationship_name>	1	1	0.0
+message from <from_contact_name>	1	1	0.0
+message gonna meetings mike	1	1	0.0
+message <message> to	1	0	1.0
+message her and said	1	0	1.0
+message her it	1	0	1.0
+message here cortana	1	0	1.0
+message here on <contact_name> <message>	1	0	1.0
+message hey cortana message	1	0	1.0
+message him that	1	0	1.0
+message him this	1	0	1.0
+message i rely on my <order_ref> meeting, <message>	1	0	1.0
+message <message> to <relationship_name>	1	1	0.0
+message in ad	1	1	0.0
+message in cooper	1	1	0.0
+message in german <contact_name>	1	1	0.0
+message in my <time> meeting <message>	1	0	1.0
+message <contact_name> one on my <order_ref> meeting	1	1	0.0
+message is <contact_name>	1	0	1.0
+message <contact_name> , saying <message>	1	0	1.0
+message it i	1	0	1.0
+message it siri	1	1	0.0
+message it to sleep	1	1	0.0
+message it <contact_name>	1	1	0.0
+message <contact_name> hey cortana	1	1	0.0
+message <contact_name> <message> cortana <message>	1	1	0.0
+message <contact_name> to	1	0	1.0
+message <contact_name> that message	1	1	0.0
+message ma meeting. <message>	1	1	0.0
+message ma <order_ref> meeting that <message>	1	1	0.0
+message ma <order_ref> meeting? <message>	1	1	0.0
+message me <time> o'clock meeting	1	1	0.0
+message me <time> meeting	1	1	0.0
+message me at <time> o&apos;clock meeting	1	1	0.0
+message mean to	1	1	0.0
+message meeting at	1	0	1.0
+message meeting. <message>	1	0	1.0
+message message a <contact_name>	1	0	1.0
+message message <contact_name> saying	1	0	1.0
+message message <message>	1	0	1.0
+message message to <contact_name>	1	0	1.0
+message message. my <time> o&apos;clock meeting	1	0	1.0
+message <contact_name> <time> meeting	1	1	0.0
+message mine <order_ref> meeting that <message>	1	0	1.0
+message <relationship_name> on	1	0	1.0
+message <relationship_name> &apos;s	1	0	1.0
+message <relationship_name> <contact_name>	1	0	1.0
+message my / <time> meeting. <message>	1	0	1.0
+message my <time> meeting that'll <message>	1	1	0.0
+message my <time> meeting <message>	1	1	0.0
+message my <time> o&apos;clock meeting that	1	0	1.0
+message my <time> / meeting that <message>	1	1	0.0
+message my <time> o'clock meeting. <message>	1	0	1.0
+message my <time> o&apos;clock meeting	1	0	1.0
+message my <time> o&apos;clock meeting at <message>	1	0	1.0
+message my <time> meeting <time>	1	0	1.0
+message my at <time> meeting that <message>	1	1	0.0
+message my call and meeting	1	0	1.0
+message my dick you	1	1	0.0
+message my for meeting	1	0	1.0
+message my meeting /next/ week/next week	1	1	0.0
+message my meeting at <time> o&apos;clock	1	0	1.0
+message my meeting from <time>	1	0	1.0
+message my meeting <message>	1	1	0.0
+message my meeting on <source_platform>	1	1	0.0
+message my message. my <time> o&apos;clock meeting that <message>	1	0	1.0
+message my my	1	0	1.0
+message my <order_ref> meeting is <message>	1	0	1.0
+message my <order_ref> meeting message	1	0	1.0
+message my <contact_name> , but <message>	1	1	0.0
+message my <order_ref> meeting that this is <order_ref> meeting message and it includes that	1	1	0.0
+message my <order_ref> meeting. this is <order_ref> meeting message which includes that	1	1	0.0
+message my <meeting_title> meeting	1	0	1.0
+message my <relationship_name> that <message>	1	1	0.0
+message myself yo	1	1	0.0
+message <order_ref> meeting. <message>	1	0	1.0
+message ninety <time> meeting	1	1	0.0
+message <contact_name> &apos;s that <message>	1	1	0.0
+message of <contact_name>	1	0	1.0
+message of <from_contact_name>	1	1	0.0
+message on a :	1	0	1.0
+message on <message>	1	0	1.0
+message on like	1	0	1.0
+message on that <message>	1	0	1.0
+message on there	1	0	1.0
+message <contact_name> on <destination_platform>	1	0	1.0
+message other	1	0	1.0
+message participants that <message>	1	0	1.0
+message <contact_name> tell her <message>	1	0	1.0
+message <contact_name> i say	1	1	0.0
+message <contact_name> saying	1	0	1.0
+message <contact_name> and	1	0	1.0
+message <contact_name> into <message>	1	1	0.0
+message say <message>	1	1	0.0
+message saying <message>	1	1	0.0
+message send message to <contact_name>	1	0	1.0
+message sent to <contact_name>	1	0	1.0
+message <contact_name> <destination_platform>	1	0	1.0
+message so <contact_name>	1	1	0.0
+message somebody	1	0	1.0
+message someone message	1	0	1.0
+message <message> <contact_name>	1	1	0.0
+message <contact_name> about <message>	1	0	1.0
+message that <message> to my <time> meeting	1	0	1.0
+message that my <relationship_name>	1	0	1.0
+message the <time> o&apos;clock meeting	1	0	1.0
+message the <time> meeting	1	0	1.0
+message the <time> meeting that <message>	1	0	1.0
+message the <time> meeting that, <message>	1	0	1.0
+message the meeting i have <time>	1	1	0.0
+message the meeting with <contact_name> <time>	1	0	1.0
+message the meeting. <message>	1	0	1.0
+message the <order_ref> meeting. <message>	1	0	1.0
+message the <order_ref> meeting that <message>	1	0	1.0
+message there it	1	0	1.0
+message through	1	0	1.0
+message to <time> meeting	1	0	1.0
+message to a meeting	1	0	1.0
+message to all <relationship_name> <message>	1	1	0.0
+message to and	1	0	1.0
+message to another	1	0	1.0
+message to <contact_name> from <message>	1	0	1.0
+message to <contact_name> phone <message>	1	0	1.0
+message to ease message to ease	1	1	0.0
+message to his <destination_platform>	1	0	1.0
+message to <contact_name> in	1	0	1.0
+message to <contact_name> &apos;s	1	0	1.0
+message to <contact_name> that <message>	1	0	1.0
+message to <contact_name> that	1	0	1.0
+message to <relationship_name> say <message>	1	0	1.0
+message to meeting	1	0	1.0
+message to my <time> o&apos;clock meeting	1	0	1.0
+message to my <time> meeting that <message>	1	0	1.0
+message to my <time> meeting	1	0	1.0
+message to my <time> meeting. <message>	1	0	1.0
+message to my <relationship_name>	1	0	1.0
+message to <order_ref> meeting	1	0	1.0
+message to <relationship_name>	1	1	0.0
+message to <relationship_name> <message>	1	0	1.0
+message to the <order_ref> meeting	1	0	1.0
+message to them	1	0	1.0
+message to them <message>	1	0	1.0
+message to to	1	0	1.0
+message to to message to	1	0	1.0
+message to <relationship_name> my	1	0	1.0
+message today is	1	1	0.0
+message <contact_name> on my <order_ref> meeting, <message>	1	0	1.0
+message via <time> meeting	1	1	0.0
+message via <source_platform>	1	0	1.0
+message <contact_name> &apos;s <message>	1	1	0.0
+message with my name	1	1	0.0
+message with <relationship_name>	1	0	1.0
+message with to	1	0	1.0
+message you don't live. it was good chat	1	1	0.0
+message your my <relationship_name>	1	0	1.0
+message your own on my <order_ref> meeting, <message>	1	0	1.0
+message <contact_name> message that	1	1	0.0
+message, a meeting	1	0	1.0
+message. and	1	0	1.0
+message. <relationship_name> and that <message>	1	0	1.0
+message. <relationship_name> and <message>	1	0	1.0
+message. i mean	1	1	0.0
+message. i <contact_name> on my <order_ref> meeting. <message>	1	1	0.0
+message. <message> to my <order_ref> meeting	1	0	1.0
+message. my <time> am meeting	1	1	0.0
+message. my <time> meeting at <message>	1	0	1.0
+message. my <time> meeting that this is <time> meeting message and it includes that	1	1	0.0
+message. my <time> meeting <message>	1	0	1.0
+message. my <time> meeting. <message>	1	0	1.0
+message. my <order_ref> meeting that this is <order_ref> meeting	1	1	0.0
+message. my <order_ref> meeting that this is <order_ref> meeting message	1	1	0.0
+message. my <order_ref> meeting. <message>	1	0	1.0
+message. my super meeting to <message>	1	1	0.0
+message. my tell o&apos;clock meeting	1	0	1.0
+message. my <time> &apos;s meeting	1	1	0.0
+message. <meeting_title> meeting	1	0	1.0
+message. the <time> meeting that <message>	1	0	1.0
+message. the <order_ref> meeting that	1	0	1.0
+message. the <order_ref> meeting <message>	1	0	1.0
+message. <meeting_title> meeting that <message>	1	1	0.0
+message. when i name meeting that <message>	1	1	0.0
+messages <message>	1	0	1.0
+messaging <time> o&apos;clock meeting	1	1	0.0
+messaging everywhere on my <order_ref> meeting	1	1	0.0
+messaging getting	1	0	1.0
+messaging <contact_name> . it was a good chat	1	1	0.0
+messaging on my <order_ref> meeting that <message>	1	1	0.0
+messaging. my <order_ref> meeting that <message>	1	0	1.0
+<source_platform> send text	1	0	1.0
+messenger voice to text	1	1	0.0
+mistletones text <contact_name> &apos;s revenge	1	1	0.0
+<relationship_name> message	1	0	1.0
+my <time> o'clock meeting that <message>	1	1	0.0
+my message to <contact_name> is <message>	1	1	0.0
+my <order_ref> meeting <message>	1	1	0.0
+my <order_ref> meeting that <message>	1	1	0.0
+my <order_ref> meeting, <message>	1	1	0.0
+my say that everyone on my <order_ref> meeting that <message>	1	1	0.0
+new text it	1	0	1.0
+new text to <relationship_name>	1	0	1.0
+new text w	1	1	0.0
+<order_ref> appointment with <contact_name> that <message>	1	1	0.0
+<order_ref> meeting that <message>	1	1	0.0
+no cortana please text my <relationship_name> the message	1	0	1.0
+no hey cortana send a message to <contact_name>	1	0	1.0
+no hey cortana send make a message	1	0	1.0
+note my <order_ref> meeting	1	1	0.0
+now send message	1	0	1.0
+of send <contact_name> message	1	0	1.0
+oh can you send a message for me	1	0	1.0
+oh can you text someone	1	0	1.0
+oh hey cortana send a message	1	0	1.0
+oh hey cortana send a text	1	0	1.0
+oh hey cortana send message	1	0	1.0
+oh hey cortana text	1	0	1.0
+oh hi cortana text <contact_name>	1	0	1.0
+oh i want to send a text	1	0	1.0
+oh nice send a message to <contact_name>	1	0	1.0
+oh ok message message <contact_name>	1	0	1.0
+oh send a text to	1	0	1.0
+oh send text message to <contact_name>	1	0	1.0
+ok cortana let&apos;s write a text message	1	0	1.0
+ok cortana message <contact_name>	1	0	1.0
+ok cortana message <relationship_name>	1	0	1.0
+ok cortana messaging	1	1	0.0
+ok cortana send a message message height	1	1	0.0
+ok cortana send a message to <contact_name> <message>	1	0	1.0
+ok cortana send a message to the <contact_name> to <message>	1	1	0.0
+ok cortana send a text to <contact_name>	1	0	1.0
+ok cortana tell him to <message>	1	1	0.0
+ok cortana text <contact_name>	1	0	1.0
+ok cortana text <relationship_name>	1	0	1.0
+ok hey cortana please send a message to <contact_name>	1	0	1.0
+ok send a message to my <relationship_name>	1	0	1.0
+ok send a message with him	1	0	1.0
+ok send a text	1	0	1.0
+ok send me a meeting for <time>	1	1	0.0
+ok send text message	1	0	1.0
+ok so send a message <phone_number>	1	0	1.0
+ok so your meeting message	1	1	0.0
+ok text to <contact_name>	1	0	1.0
+ok then text someone from my contact list	1	1	0.0
+ok type a message for me	1	0	1.0
+ok, i will send your message to <contact_name>	1	0	1.0
+okay cortana send a message to <contact_name>	1	0	1.0
+okay cortana send <quantifier> my <relationship_name> a message	1	1	0.0
+open <source_platform> on open <contact_name> and said a message to him that <message>	1	1	0.0
+open that hey cortana message	1	0	1.0
+open that my sister send me a message	1	1	0.0
+open up telegram and send zabryna message	1	1	0.0
+open up text message in message <contact_name>	1	0	1.0
+open <source_platform> and send a message to <contact_name> telling her that <message>	1	0	1.0
+open <source_platform> and send message to <contact_name>	1	1	0.0
+open whatsapp send message to chris	1	1	0.0
+open <source_platform> send message to <contact_name>	1	0	1.0
+pedion send a message to <contact_name>	1	0	1.0
+pete message	1	1	0.0
+pete the message	1	1	0.0
+pii:scrubbed:[latency:1]:do me a favor can you tell <contact_name> that <message>	1	1	0.0
+pii:scrubbed:[latency:1]:message are we went on my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:1]:message everyone on <meeting_title> meeting	1	1	0.0
+pii:scrubbed:[latency:1]:message everyone on the <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:1]:message everyone or my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:1]:message everyone when my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:1]:message my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:1]:message my <order_ref> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:1]:say <message> to my <order_ref> meeting	1	1	0.0
+pii:scrubbed:[latency:1]:send a message to <contact_name> that <message>	1	1	0.0
+pii:scrubbed:[latency:1]:send a text message to tall pines	1	1	0.0
+pii:scrubbed:[latency:1]:send a text message to <contact_name> <destination_platform>	1	1	0.0
+pii:scrubbed:[latency:1]:send a text to <contact_name> tell her that she <message>	1	1	0.0
+pii:scrubbed:[latency:1]:send a text to <contact_name> <destination_platform>	1	1	0.0
+pii:scrubbed:[latency:1]:send <contact_name> text message tell him to <message>	1	1	0.0
+pii:scrubbed:[latency:1]:send message to everyone on my <order_ref> meeting i	1	1	0.0
+pii:scrubbed:[latency:1]:send text to <contact_name> <message>	1	1	0.0
+pii:scrubbed:[latency:1]:tell <contact_name> <message>	1	1	0.0
+pii:scrubbed:[latency:1]:tell <relationship_name> that <message>	1	1	0.0
+pii:scrubbed:[latency:1]:tell <contact_name> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:1]:text <relationship_name> <message>	1	1	0.0
+pii:scrubbed:[latency:1]:text <contact_name> <destination_platform> <message>	1	1	0.0
+pii:scrubbed:[latency:1]:text <relationship_name> to <message>	1	1	0.0
+pii:scrubbed:[latency:1]:text my <relationship_name> that <message>	1	1	0.0
+pii:scrubbed:[latency:1]:text the <contact_name> that <message>	1	1	0.0
+pii:scrubbed:[latency:15]:message everyone on my <order_ref> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:16]:message <contact_name> that <message>	1	1	0.0
+pii:scrubbed:[latency:16]:text <relationship_name> <message>	1	1	0.0
+pii:scrubbed:[latency:2]:i send a text to my <relationship_name> saying	1	1	0.0
+pii:scrubbed:[latency:2]:message everyone in my <time> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:2]:message everyone mom my <order_ref> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:2]:message everyone on my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:2]:message everyone on the <time> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:2]:message you&apos;re free one on my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:2]:reply to them reply to the meeting <message>	1	1	0.0
+pii:scrubbed:[latency:2]:search everyone on my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:2]:send a message to everyone on the <order_ref> meeting	1	1	0.0
+pii:scrubbed:[latency:2]:send a message to my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:2]:send a message with <contact_name> that <message>	1	1	0.0
+pii:scrubbed:[latency:2]:send a text message to <contact_name> that <message>	1	1	0.0
+pii:scrubbed:[latency:2]:send a text to my <relationship_name>	1	1	0.0
+pii:scrubbed:[latency:2]:send a text to <contact_name> <message>	1	1	0.0
+pii:scrubbed:[latency:2]:send message to my <time> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:2]:send text message to <contact_name>	1	1	0.0
+pii:scrubbed:[latency:2]:tell my <order_ref> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:2]:text <relationship_name> and tell her to <message>	1	1	0.0
+pii:scrubbed:[latency:2]:text <relationship_name> <message>	1	1	0.0
+pii:scrubbed:[latency:2]:text my <relationship_name> <destination_platform> <message>	1	1	0.0
+pii:scrubbed:[latency:2]:text <contact_name> <destination_platform>	1	1	0.0
+pii:scrubbed:[latency:2]:to everyone or my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:24]:send a text to <relationship_name> <message>	1	1	0.0
+pii:scrubbed:[latency:3]:message everyone on my <time> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:4]:message everyone on my <time> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:4]:message everyone on my <order_ref> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:4]:tell everyone to my <order_ref> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:5]:message everyone on my <time> meeting that <message>	1	1	0.0
+pii:scrubbed:[latency:5]:message everyone or <time> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:6]:message everyone on my <order_ref> meeting <message>	1	1	0.0
+pii:scrubbed:[latency:7]:send a message to my meeting	1	1	0.0
+please a message oh	1	1	0.0
+please cortana send a message to <contact_name>	1	0	1.0
+please cortana send message to <contact_name>	1	0	1.0
+please give me a call thanks	1	0	1.0
+please message please	1	0	1.0
+please message to	1	0	1.0
+please message um please	1	1	0.0
+please please message	1	0	1.0
+please please message please please message	1	0	1.0
+please please send	1	1	0.0
+please please text	1	0	1.0
+please remind mom please she's going to get mad	1	1	0.0
+please say <message> to <contact_name>	1	1	0.0
+please send a message in <source_platform> to <contact_name>	1	0	1.0
+please send a message to	1	0	1.0
+please send a message to the meeting for <time>	1	0	1.0
+please send a message to <contact_name> <source_platform>	1	0	1.0
+please send a message um	1	1	0.0
+please send a text message	1	0	1.0
+please send a text message to <contact_name>	1	0	1.0
+please send a text to my <relationship_name>	1	0	1.0
+please send <contact_name>	1	0	1.0
+please send can you send <contact_name> on to a message that says <message>	1	1	0.0
+please send <contact_name> a text message at <time> to <message>	1	1	0.0
+please send message for <contact_name>	1	0	1.0
+please send message to <message>	1	0	1.0
+please send message to <contact_name>	1	0	1.0
+please send message to <contact_name> <message>	1	0	1.0
+please send please send a message to <contact_name> a message to <message>	1	0	1.0
+please send sms again	1	0	1.0
+please send text	1	0	1.0
+please send this message to meeting	1	1	0.0
+please send this to <contact_name>	1	0	1.0
+please tell <contact_name> <message>	1	1	0.0
+please tell my <order_ref> meeting	1	0	1.0
+please tell my <relationship_name> to <message>	1	0	1.0
+please tell <contact_name> to <message>	1	1	0.0
+please tell <contact_name>	1	1	0.0
+please text a	1	0	1.0
+please text <relationship_name>	1	0	1.0
+please text <relationship_name> please	1	0	1.0
+please text me <message>	1	0	1.0
+please text my <relationship_name> <message>	1	0	1.0
+please text my <relationship_name> and tell her <message>	1	0	1.0
+please text my <relationship_name> that <message>	1	0	1.0
+please text my <relationship_name>	1	0	1.0
+please text <contact_name> <message>	1	0	1.0
+please type text for me	1	0	1.0
+please upload a testing message	1	1	0.0
+please write a message to <contact_name>	1	0	1.0
+pop that message	1	1	0.0
+post <message> to <destination_platform>	1	1	0.0
+<source_platform> send message	1	1	0.0
+put cortana send message to <contact_name>	1	0	1.0
+put tell my <relationship_name> to <message>	1	1	0.0
+put text <contact_name> <destination_platform>	1	0	1.0
+<contact_name> and tell her <message>	1	0	1.0
+reba note to <contact_name> saying <message>	1	1	0.0
+replies meeting <message>	1	1	0.0
+reply a message	1	0	1.0
+reply a message to	1	0	1.0
+reply <message>	1	1	0.0
+reply the message cortana reply to message please	1	1	0.0
+reply to all on my <order_ref> meeting that <message>	1	0	1.0
+reply to <contact_name> message	1	0	1.0
+reply to <contact_name> that <message>	1	0	1.0
+reply to message from <from_contact_name>	1	0	1.0
+reply to message on <source_platform>	1	1	0.0
+reply to mobile device message	1	1	0.0
+reply to my <order_ref> meeting	1	1	0.0
+reply to text to	1	0	1.0
+reply to text with	1	0	1.0
+reply to that meeting	1	1	0.0
+respond <message>	1	1	0.0
+respond to <contact_name> please	1	0	1.0
+respond to <contact_name> on <source_platform>	1	1	0.0
+respond to <contact_name> text	1	0	1.0
+respond to message <message>	1	0	1.0
+response text <contact_name>	1	0	1.0
+return text to	1	0	1.0
+right <contact_name> a text saying <message>	1	0	1.0
+right send <relationship_name> a message at <time> to <message>	1	1	0.0
+rights text my <relationship_name>	1	0	1.0
+rise send message to <contact_name>	1	0	1.0
+<message> text <contact_name>	1	0	1.0
+s hey cortana text	1	0	1.0
+s take a message	1	0	1.0
+sage my <order_ref> meeting that <message>	1	1	0.0
+say <message> to my <relationship_name>	1	1	0.0
+say hello to <contact_name>	1	1	0.0
+say message my meeting	1	1	0.0
+say my <relationship_name> <message>	1	1	0.0
+say my <relationship_name> that <message>	1	0	1.0
+say to my <relationship_name> <message>	1	1	0.0
+schedule a text message to <contact_name>	1	0	1.0
+schedule to send a text message to <contact_name> at <time>	1	0	1.0
+sedraia message	1	1	0.0
+see you get a chance give me a call	1	1	0.0
+<contact_name> on a message	1	0	1.0
+send <message> to <contact_name>	1	1	0.0
+send 10 the message	1	1	0.0
+send <phone_number> a message	1	0	1.0
+send <phone_number> message	1	0	1.0
+send <message> message	1	1	0.0
+send 87	1	1	0.0
+send a 10 a message	1	0	1.0
+send a a message	1	0	1.0
+send a a text	1	0	1.0
+send a <contact_name> a message telling him <message>	1	1	0.0
+send a <message> in a message	1	1	0.0
+send a chat to <contact_name>	1	0	1.0
+send <message> a message	1	0	1.0
+send a cyrus	1	1	0.0
+send a fork	1	1	0.0
+send a fortnight group text everyone in my friend list	1	0	1.0
+send a friend invite to all capitals boureau beasts	1	1	0.0
+send a <source_platform> message to <contact_name>	1	1	0.0
+send a <message> text to <contact_name>	1	0	1.0
+send a <message> to <contact_name>	1	1	0.0
+send a invite to <contact_name>	1	1	0.0
+send a is the sink a message	1	1	0.0
+send a meeting a message	1	1	0.0
+send a meeting at <time> o&apos;clock	1	1	0.0
+send a meeting do me a message	1	1	0.0
+send a meeting for the message	1	1	0.0
+send a meeting <message>	1	1	0.0
+send a meeting message	1	1	0.0
+send a meeting on message saying <message>	1	1	0.0
+send a message	1	0	1.0
+send a message <time> meeting	1	0	1.0
+send a message a meeting	1	0	1.0
+send a message about my <order_ref> meeting	1	0	1.0
+send a message and	1	0	1.0
+send a message at <time>	1	0	1.0
+send a message at her meeting	1	0	1.0
+send a message by voice	1	0	1.0
+send a message by <contact_name>	1	0	1.0
+send a message by <source_platform> to <contact_name>	1	0	1.0
+send a message <message> to <relationship_name>	1	0	1.0
+send a message chat	1	0	1.0
+send a message chat hello cortana	1	1	0.0
+send a message cortana	1	0	1.0
+send a message draft	1	1	0.0
+send a message for <communication_other>	1	1	0.0
+send a message for <contact_name> for <message>	1	0	1.0
+send a message for <contact_name> a message	1	0	1.0
+send a message for him and	1	0	1.0
+send a message for <contact_name> please	1	0	1.0
+send a message for me hey cortana	1	0	1.0
+send a message for me in <source_platform>	1	0	1.0
+send a message for <relationship_name> on <source_platform>	1	0	1.0
+send a message for <relationship_name>	1	0	1.0
+send a message for someone	1	0	1.0
+send a message from is the for <contact_name>	1	1	0.0
+send a message from <from_contact_name> by <source_platform> to <contact_name>	1	1	0.0
+send a message from <source_platform> for me	1	0	1.0
+send a message from <from_relationship_name>	1	0	1.0
+send a message from my head	1	1	0.0
+send a message from <source_platform> to <contact_name>	1	0	1.0
+send a message hey cortana that	1	1	0.0
+send a message hey cortana the message	1	1	0.0
+send a message <message> on <source_platform>	1	0	1.0
+send a message in <source_platform>	1	0	1.0
+send a message in my meeting	1	0	1.0
+send a message in my <source_platform>	1	1	0.0
+send a message in the <communication_other>	1	0	1.0
+send a message in this meeting	1	0	1.0
+send a message in uh that <message>	1	1	0.0
+send a message in <source_platform> in	1	1	0.0
+send a message in <destination_platform>	1	1	0.0
+send a message like	1	0	1.0
+send a message message hey cortana message	1	0	1.0
+send a message <relationship_name> and	1	0	1.0
+send a message oh send a message	1	1	0.0
+send a message on lo	1	1	0.0
+send a message on this chat	1	0	1.0
+send a message on <source_platform> to <contact_name> saying that <message>	1	1	0.0
+send a message on <source_platform> to <relationship_name>	1	0	1.0
+send a message on ya	1	0	1.0
+send a message our meeting	1	1	0.0
+send a message saying <message>	1	0	1.0
+send a message says <message>	1	0	1.0
+send a message send a message to <contact_name> hey cortana send a	1	1	0.0
+send a message send a message to <contact_name>	1	0	1.0
+send a message should be	1	0	1.0
+send a message should on rush	1	1	0.0
+send a message test to <contact_name>	1	0	1.0
+send a message text message to <contact_name>	1	0	1.0
+send a message that send a message to <contact_name>	1	0	1.0
+send a message that to <contact_name>	1	0	1.0
+send a message the	1	0	1.0
+send a message through my <source_platform> to <contact_name>	1	0	1.0
+send a message through <source_platform> to <contact_name> that	1	1	0.0
+send a message through <source_platform> to <contact_name>	1	0	1.0
+send a message to :) city	1	1	0.0
+send a message to <contact_name> with <message>	1	1	0.0
+send a message to <time> meeting saying <message>	1	1	0.0
+send a message to <time> meeting, <message>	1	1	0.0
+send a message to a 2	1	1	0.0
+send a message to a <contact_name> <message>	1	0	1.0
+send a message to a girl	1	1	0.0
+send a message to a meeting	1	0	1.0
+send a message to <contact_name> <source_platform>	1	1	0.0
+send a message to <contact_name> . that <message>	1	0	1.0
+send a message to <contact_name> hey cortana send a message to <contact_name>	1	1	0.0
+send a message to <contact_name> that / <message>	1	1	0.0
+send a message to <contact_name> <destination_platform>	1	0	1.0
+send a message to <contact_name> and <contact_name>	1	0	1.0
+send a message to <contact_name> &apos;s name <message>	1	0	1.0
+send a message to <contact_name> in <source_platform>	1	1	0.0
+send a message to all	1	1	0.0
+send a message to all attendees from my <order_ref> meeting	1	1	0.0
+send a message to <message>	1	1	0.0
+send a message to <contact_name> from	1	1	0.0
+send a message to and	1	0	1.0
+send a message to and <contact_name>	1	0	1.0
+send a message to anything to	1	0	1.0
+send a message to <contact_name> on my <time> meeting that <message>	1	1	0.0
+send a message to <contact_name> at <time> <message>	1	1	0.0
+send a message to ask <message>	1	1	0.0
+send a message to at <time> meeting	1	0	1.0
+send a message to <contact_name> &apos;saying. <message>	1	0	1.0
+send a message to <contact_name> to	1	0	1.0
+send a message to <contact_name> on	1	0	1.0
+send a message to <contact_name> telling him that <message>	1	0	1.0
+send a message to <meeting_title> meeting	1	1	0.0
+send a message to <contact_name> , saying <message>	1	0	1.0
+send a message to <relationship_name> <contact_name> <message>	1	1	0.0

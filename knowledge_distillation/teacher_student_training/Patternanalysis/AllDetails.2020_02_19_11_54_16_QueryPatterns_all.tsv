@@ -1,0 +1,92 @@
+Pattern	Freq	Wrong	Accuracy
+messages from <contact_name_from>	6	0	1.0
+messages from <start_date>	3	0	1.0
+messages from <channel> channel	2	0	1.0
+messages to <contact_name_to>	2	0	1.0
+messages with <contact_name>	2	0	1.0
+messages from <contact_name_from> about <keyword>	2	0	1.0
+messages from <contact_name_from> <start_date>	1	0	1.0
+messages from <channel> channel about <keyword>	1	0	1.0
+messages from <contact_name_from> in <channel> channel about <keyword> <start_date>	1	0	1.0
+find messages from <contact_name_from>	1	0	1.0
+messages from <contact_name_from> <start_date> on <keyword>	1	0	1.0
+messages from <channel> channel <start_date> on <keyword>	1	0	1.0
+messages on <keyword> between <start_date> and <end_date>	1	0	1.0
+messages about <keyword> in <channel> channel	1	0	1.0
+messages about <keyword> between <start_date> and <end_date>	1	0	1.0
+messages from <contact_name_from> in <channel> channel	1	0	1.0
+messages from <start_date> to <end_date>	1	0	1.0
+messages from <start_time>	1	0	1.0
+messages from <start_time> to <end_time>	1	0	1.0
+messages about <keyword>	1	0	1.0
+messages in the <channel> channel	1	0	1.0
+messages from the <chat_name> chat	1	0	1.0
+messages with <has_attachment>	1	0	1.0
+find messages <start_date> about <keyword>	1	0	1.0
+search my messages	1	0	1.0
+find messages from <start_date>	1	0	1.0
+chats from <channel> channel	1	0	1.0
+from <contact_name_from> about <keyword>	1	0	1.0
+chats from <contact_name_from>	1	0	1.0
+find what <contact_name_from> said about <keyword>	1	0	1.0
+messages by <contact_name_from> in the <channel> channel	1	0	1.0
+to <contact_name_to> about <keyword>	1	0	1.0
+chats to <contact_name_to>	1	0	1.0
+find what <contact_name_from> said to <contact_name_to> about <keyword>	1	0	1.0
+find my message to <contact_name_to> about the <keyword>	1	0	1.0
+messages with <contact_name> about <keyword>	1	0	1.0
+find chat with <contact_name> <start_date>	1	0	1.0
+find messages with <contact_name>	1	0	1.0
+conversations with <contact_name> in <channel> channel	1	0	1.0
+find <start_date> chat with <contact_name>	1	0	1.0
+messages from <contact_name_from> in <start_date>	1	0	1.0
+<start_date> chats	1	0	1.0
+<start_date> messages from <contact_name_from>	1	0	1.0
+messages from before <end_date>	1	0	1.0
+find messages between <start_date> and <end_date> about <keyword>	1	0	1.0
+messages before <end_date>	1	0	1.0
+chats before <end_date>	1	0	1.0
+find message from <contact_name_from> from before <end_date>	1	0	1.0
+messages since <start_time>	1	0	1.0
+find chat with <contact_name> since <start_time> <start_date>	1	0	1.0
+messages from <contact_name_from> after <start_time>	1	0	1.0
+messages after <start_time> about <keyword>	1	0	1.0
+messages about <keyword> <start_time>	1	0	1.0
+messages before <end_time>	1	0	1.0
+find chat with <contact_name> before <end_time> <end_date>	1	0	1.0
+messages from <contact_name_from> before <end_time>	1	0	1.0
+messages before <end_time> about <keyword>	1	0	1.0
+messages in <chat_name> chat before <end_time>	1	0	1.0
+find my messages about <keyword>	1	0	1.0
+find my <keyword> chats	1	0	1.0
+chats that mention <keyword>	1	0	1.0
+messages talking about <keyword>	1	0	1.0
+messages in the <channel> channel about <keyword>	1	0	1.0
+<channel> channel messages about <keyword>	1	0	1.0
+find messages from <channel> channel	1	0	1.0
+messages mentioning <keyword> in the <channel> channel	1	0	1.0
+find messages in <chat_name> chat about <keyword>	1	0	1.0
+messages from <contact_name_from> in <chat_name> chat	1	0	1.0
+<keyword> from <start_date> <chat_name> chat	1	0	1.0
+messages from <contact_name_from> during the <chat_name> chat	1	0	1.0
+<start_date> messages in the <chat_name> chat	1	0	1.0
+find <has_attachment> from <contact_name_from>	1	0	1.0
+find messages from <contact_name_from> with <has_attachment>	1	0	1.0
+show my <has_attachment> <start_date>	1	0	1.0
+show messages with <has_attachment>	1	0	1.0
+find all the <has_attachment> from <start_date> <chat_name> chat	1	0	1.0
+find messages from <contact_name_from> <no_attachment>	1	0	1.0
+show messages from <start_date> that have <no_attachment>	1	0	1.0
+chats about <keyword> with <no_attachment>	1	0	1.0
+messages from <chat_name> chat <no_attachment>	1	0	1.0
+messages that <no_attachment>	1	0	1.0
+open chat with <contact_name>	1	0	1.0
+messages from <contact_name_from> <metadata>	1	0	1.0
+msg from <contact_name_from>	1	0	1.0
+messages from <contact_name_from> to <contact_name_to> <start_date>	1	0	1.0
+messages from <start_date> up to <end_date>	1	0	1.0
+<start_date> messages from <contact_name_from> until <end_time>	1	0	1.0
+messages sent by <contact_name_from> to <contact_name_to> sent <start_date>	1	0	1.0
+messages after <start_time>	1	0	1.0
+messages from <contact_name_from> from <start_time>	1	0	1.0
+messages from <contact_name_from> <start_time>	1	0	1.0

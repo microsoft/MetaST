@@ -1,0 +1,58 @@
+Pattern	Freq	Wrong	Accuracy
+send a message to <contact_name>	139	2	0.9856115107913669
+send message to <contact_name>	87	7	0.9195402298850575
+message <contact_name>	49	3	0.9387755102040817
+send message to <contact_name> <message>	31	3	0.9032258064516129
+hey cortana send a message to <contact_name>	28	1	0.9642857142857143
+send message to <contact_name> that <message>	24	1	0.9583333333333334
+message <contact_name> that <message>	21	1	0.9523809523809523
+message <contact_name> <message>	21	9	0.5714285714285714
+send a message to <contact_name> <message>	20	4	0.8
+send a message to <contact_name> that <message>	17	1	0.9411764705882353
+tell <contact_name> that <message>	15	0	1.0
+text every one on <time> meeting	11	2	0.8181818181818182
+hey cortana message <contact_name>	11	0	1.0
+text <contact_name> that <message>	11	0	1.0
+send text to <contact_name> <message>	11	3	0.7272727272727273
+text <contact_name>	10	0	1.0
+text <contact_name> <message>	10	3	0.7
+text everyone on meeting that <message>	10	0	1.0
+send message to my <time> meeting	9	0	1.0
+send text to <contact_name>	9	0	1.0
+text everyone on <time> meeting	9	0	1.0
+send message to the meeting that <message>	9	3	0.6666666666666666
+ask <contact_name> <message>	9	0	1.0
+tell <contact_name> <message>	9	2	0.7777777777777778
+tell <contact_name>	8	0	1.0
+message the <time> meeting that <message>	8	2	0.75
+cortana send a message to <contact_name>	8	0	1.0
+send text to <contact_name> that <message>	8	1	0.875
+send message to my <order_ref> meeting <message>	8	0	1.0
+message my <time> meeting	7	0	1.0
+hey cortana send message to <contact_name> that <message>	7	1	0.8571428571428571
+send message to the <order_ref> meeting <message>	7	0	1.0
+text everyone on the <time> meeting	6	1	0.8333333333333334
+hey cortana send a message to <contact_name> <message>	6	0	1.0
+send a message to my <time> meeting	6	0	1.0
+message everyone on my <time> meeting	6	0	1.0
+text everyone on <order_ref> meeting <message>	6	0	1.0
+message <time> meeting	6	1	0.8333333333333334
+message my <time> meeting that <message>	6	1	0.8333333333333334
+text everyone on <time> meeting that <message>	6	0	1.0
+send message to the <time> meeting	5	0	1.0
+message everyone on my <order_ref> meeting <message>	5	0	1.0
+message everyone on the meeting that <message>	5	0	1.0
+message <time> meeting that <message>	5	4	0.2
+send message to my <time> meeting <message>	5	2	0.6
+message <order_ref> meeting <message>	5	0	1.0
+hey cortana text <contact_name>	5	0	1.0
+message everyone on my <time> meeting that <message>	5	0	1.0
+send message to my meeting that <message>	5	0	1.0
+message <order_ref> meeting that <message>	5	0	1.0
+message the <time> meeting	4	0	1.0
+message my <order_ref> meeting that <message>	4	0	1.0
+message to <contact_name>	4	2	0.5
+send message to <time> meeting	4	1	0.75
+send a message <message>	4	0	1.0
+hey cortana text everyone on <order_ref> meeting that <message>	4	0	1.0
+message <time> meeting <message>	4	4	0.0
