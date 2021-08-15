@@ -2,6 +2,14 @@
 
 This is the implementation of the paper [Meta Self-training for Few-shot Neural Sequence Labeling](https://dl.acm.org/doi/pdf/10.1145/3447548.3467235). MetaST is short for meta-learning for self-training.
 
+
+## Overview
+![](./figs/metast.pdf)
+
+In this work we present MetaST, a self-training framework with auto data selection technique to prevent error probagation.
+You can find more details of this work in our [paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467235).
+
+
 ## Setup Environment
 ### Install via pip:
 
@@ -32,24 +40,20 @@ Please refer to the following link if you first use docker: https://docs.docker.
 ## Quick start
 ### Run MetaST
 
-Training </br>
-   ```> bash ./scripts/run.sh TASK=snips MODEL=bert-base-uncased SHOT=10 USE_TOKEN_WEIGHT=1```
+Training on SNIPS </br>
+   ```> bash ./scripts/run_snips.sh ```
 
 Note that we ran experiments on V100 GPU (32GB) for base MetaST models. You may need to reduce batch size for other GPUs.
 
 #### Supported datasets:
-SNIPS, CONLL03 (En / multilingulal), MIT Movie, MIT restaurant, Wikiann (En / multilingulal) with SHOT of 5, 10, 20, 100.
+SNIPS, CONLL03 (En / multilingulal), MIT Movie, MIT restaurant, Wikiann (En / multilingulal) with shot of 5, 10, 20, 100.
 
 
-####Supported models:
+#### Supported models:
 
 1. BERT: BERT-based classifier
 
 We will soon add more language model families.
-
-### Experiments with few-shot supervision only
-Training on SNIPS </br>
-   ```> bash ./scripts/run_snips.sh```
 
 
 ### How do I cite MetaST?
