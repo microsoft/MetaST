@@ -101,21 +101,6 @@ def evaluate(args, model, tokenizer, labels, pad_token_label_id, best, mode, dat
                 out_label_list[i].append(label_map[out_label_ids[i][j]])
                 preds_id_list[i].append(preds[i][j])
 
-    correct_preds, total_correct, total_preds = 0., 0., 0.  # i variables
-    # for ground_truth_id,predicted_id in zip(out_id_list,preds_id_list):
-    #     # We use the get chunks function defined above to get the true chunks
-    #     # and the predicted chunks from true labels and predicted labels respectively
-    #     lab_chunks      = set(get_chunks(ground_truth_id, tag_to_id(args.data_dir)))
-    #     lab_pred_chunks = set(get_chunks(predicted_id, tag_to_id(args.data_dir)))
-    #
-    #     # Updating the i variables
-    #     correct_preds += len(lab_chunks & lab_pred_chunks)
-    #     total_preds   += len(lab_pred_chunks)
-    #     total_correct += len(lab_chunks)
-
-    # p   = correct_preds / total_preds if correct_preds > 0 else 0
-    # r   = correct_preds / total_correct if correct_preds > 0 else 0
-    # new_F  = 2 * p * r / (p + r) if correct_preds > 0 else 0
 
     p = precision_score(out_label_list, preds_list)
     r = recall_score(out_label_list, preds_list)
@@ -123,13 +108,6 @@ def evaluate(args, model, tokenizer, labels, pad_token_label_id, best, mode, dat
     c_result = classification_report(out_label_list, preds_list)
 
     results = {}
-
-    if args.use_product:
-        product_result = get_product_metrics(args, c_result)
-        new_F = product_result['micro_f1']
-        p = product_result['micro_p']
-        r = product_result['micro_r']
-        results = product_result
 
     is_updated = False
     if new_F > best[-1]:
@@ -171,58 +149,3 @@ def align_predictions(predictions: np.ndarray, label_ids: np.ndarray):
 
     return preds_list, out_label_list
 
-
-# def compute_metrics(p: EvalPrediction) -> Dict:
-#     preds_list, out_label_list = align_predictions(p.predictions, p.label_ids)
-#     return {
-#         "precision": precision_score(out_label_list, preds_list),
-#         "recall": recall_score(out_label_list, preds_list),
-#         "f1": f1_score(out_label_list, preds_list)
-#     }
-#
-def get_product_metrics(args, result):
-    text_result = result.split('\n')[2:-4]
-    result = {}
-    # pdb.set_trace()
-    for l in text_result:
-        line = l.split()
-        result[line[0]] = [float(line[1]), float(line[2])]
-
-    macro_p = 0
-    macro_r = 0
-    total_correct_p = 0
-    total_correct_r = 0
-    total_real_p = 0
-    total_real_r = 0
-    # pdb.set_trace()
-
-    file_path = os.path.join(args.data_dir, args.data_scenario + '_lu.pkl')
-    with open(file_path, 'rb') as f:
-        data = pickle.load(f)
-
-    for l in data:
-        real_p = data[l][1]
-        real_r = data[l][2]
-        correct_p = result[l][0] * real_p
-        correct_r = result[l][1] * real_r
-
-        total_correct_p += correct_p
-        total_correct_r += correct_r
-        total_real_p += real_p
-        total_real_r += real_r
-        macro_p += (correct_p * 1.0 / real_p)
-        macro_r += (correct_r * 1.0 / real_r)
-
-    micro_p = total_correct_p * 1.0 / total_real_p
-    micro_r = total_correct_r * 1.0 / total_real_r
-    macro_p = macro_p / len(data)
-    macro_r = macro_r / len(data)
-    micro_f1 = 2 * micro_r * micro_p / (micro_r + micro_p)
-    macro_f1 = 2 * macro_r * macro_p / (macro_r + macro_p)
-
-    product_result = {'micro_f1': micro_f1, 'macro_f1': macro_f1, 'micro_p': micro_p, 'micro_r': micro_r,
-                      'macro_p': macro_p, 'macro_r': macro_r}
-
-    print('Micro F1 score %.4f, Precision %.4f, Recall %.4f' % (micro_f1, micro_p, micro_r))
-    print('Macro F1 score %.4f, Precision %.4f, Recall %.4f' % (macro_f1, macro_p, macro_r))
-    return product_result

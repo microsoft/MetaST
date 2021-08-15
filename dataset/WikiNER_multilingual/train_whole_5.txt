@@ -1,0 +1,5295 @@
+Sy O
+ander O
+seun O
+, O
+Swjatopolk B-PER
+, O
+was O
+die O
+resultaat O
+van O
+’n O
+buite-egtelike O
+verhouding O
+. O
+
+' O
+'' O
+Sergio B-PER
+Pérez I-PER
+'' O
+' O
+
+Jacobus B-PER
+Johannes I-PER
+Venter I-PER
+, O
+politikus O
+
+sodat O
+die O
+verantwoordelikheid O
+vir O
+die O
+veroweringstog O
+oorgegaan O
+het O
+na O
+sy O
+seun O
+Ahasveros B-PER
+. O
+
+Winterspele B-PER
+2014 I-PER
+- O
+Sotsji B-LOC
+, O
+Rusland B-LOC
+
+AANSTUUR O
+Eerste B-ORG
+Meksikaanse I-ORG
+Keiserryk I-ORG
+
+Higgerty O
+van O
+die O
+Verenigde B-ORG
+Party I-ORG
+( O
+onbestrede O
+) O
+
+Woordvoerder O
+van O
+die O
+Britse B-ORG
+Statebond I-ORG
+
+Pan B-ORG
+Africanist I-ORG
+Congress I-ORG
+of I-ORG
+Azania I-ORG
+
+' O
+'' O
+Noordwes-Universiteit B-ORG
+'' O
+' O
+
+gevind O
+in O
+die O
+suide O
+van O
+Pole B-LOC
+. O
+
+Quebecstad B-LOC
+( O
+AF O
+) O
+
+Vermoor O
+in O
+’n O
+boord O
+naby O
+Krasnodar-lughawe B-LOC
+. O
+
+In O
+Suid-Afrika B-LOC
+kom O
+dit O
+voor O
+vanaf O
+Walvisbaai B-LOC
+tot O
+by O
+Algoabaai B-LOC
+. O
+
+São B-LOC
+Paulo I-LOC
+Lima B-LOC
+Bogotá B-LOC
+Rio B-LOC
+de I-LOC
+Janeiro I-LOC
+Santiago B-LOC
+de I-LOC
+Chile I-LOC
+Caracas B-LOC
+Buenos B-LOC
+Aires I-LOC
+Salvador B-LOC
+da I-LOC
+Bahia I-LOC
+Brasília B-LOC
+Fortaleza B-LOC
+Belo B-LOC
+Horizonte I-LOC
+
+دايو B-ORG
+( I-ORG
+شركة I-ORG
+) I-ORG
+
+كانت O
+المدة O
+القانونية O
+السابقة O
+لأسبوع O
+العمل O
+هي O
+39 O
+ساعة، O
+والتي O
+حددها O
+فرنسوا B-PER
+ميتيران، I-PER
+وهو O
+عضو O
+أيضًا O
+في O
+الحزب B-ORG
+الاشتراكي I-ORG
+. O
+
+تحويل O
+نادي B-ORG
+باسوش I-ORG
+دي I-ORG
+فيريرا I-ORG
+
+أليك B-PER
+بالدوين I-PER
+- O
+30 B-ORG
+روك I-ORG
+
+الدكتوراه O
+الفخرية O
+من O
+جامعة B-ORG
+المنصورة I-ORG
+. O
+
+حكم B-PER
+( I-PER
+كرة I-PER
+قدم I-PER
+) I-PER
+
+ديفيد B-PER
+نالبانديان I-PER
+'' O
+( O
+الجولة O
+الثالثة O
+) O
+
+تحويل O
+رضا B-PER
+عبد I-PER
+العال I-PER
+
+تحويل O
+يحيى B-PER
+بن I-PER
+سرافيون I-PER
+
+ألكسندر B-PER
+فلمنج I-PER
+طبيب O
+أسكتلندي O
+
+( O
+أقاليم B-LOC
+ما I-LOC
+وراء I-LOC
+البحار I-LOC
+) O
+
+تحويل O
+دهنو B-LOC
+( I-LOC
+تایباد I-LOC
+) I-LOC
+
+تحويل O
+شور B-LOC
+بلاغ I-LOC
+( I-LOC
+مقاطعة I-LOC
+غرمي I-LOC
+) I-LOC
+
+تحويل O
+برونزويك B-LOC
+( I-LOC
+جورجيا I-LOC
+) I-LOC
+
+تحويل O
+سانت B-LOC
+فينسنت I-LOC
+والغرينادين I-LOC
+
+виж O
+Джон B-PER
+Уилям I-PER
+Стрът I-PER
+
+' O
+'' O
+Ралф B-PER
+Шумахер I-PER
+'' O
+' O
+
+сезон B-LOC
+2012 I-LOC
+/ I-LOC
+13 I-LOC
+заради O
+контузиите O
+и O
+на O
+двамата O
+титуляри O
+защитници O
+Невен B-PER
+Суботич I-PER
+и O
+Матс B-PER
+Хумелс I-PER
+. O
+
+пренасочване O
+Елизабет B-PER
+Кристина I-PER
+фон I-PER
+Брауншвайг-Беферн I-PER
+
+' O
+'' O
+Катрин B-PER
+Хепбърн I-PER
+'' O
+' O
+
+' O
+'' O
+Област B-LOC
+Кюстендил I-LOC
+'' O
+' O
+, O
+Община B-LOC
+Трекляно I-LOC
+
+пренасочване O
+Шлемоносна B-LOC
+птица I-LOC
+носорог I-LOC
+
+Видът O
+е O
+разпространен O
+в O
+Бурунди B-LOC
+, O
+Демократична B-LOC
+република I-LOC
+Конго I-LOC
+, O
+Замбия B-LOC
+и O
+Танзания B-LOC
+. O
+
+Магазинът O
+на O
+''Dolce O
+& O
+Gabbana O
+'' O
+в O
+200px B-LOC
+
+'' O
+Пожега B-LOC
+'' O
+' O
+
+' O
+'' O
+АЕК B-ORG
+Ларнака I-ORG
+'' O
+' O
+
+виж O
+Врана B-ORG
+( I-ORG
+дворец I-ORG
+) I-ORG
+
+Грийн B-ORG
+Бей I-ORG
+Пакърс I-ORG
+( O
+1 O
+) O
+
+– O
+на O
+ПФК B-ORG
+ЦСКА I-ORG
+( I-ORG
+София I-ORG
+) I-ORG
+. O
+
+Първенство B-ORG
+на I-ORG
+България I-ORG
+по I-ORG
+футзал I-ORG
+
+ড্যানভিল B-LOC
+, I-LOC
+ইলিনয় I-LOC
+
+এই O
+ইউনিয়নে O
+৩ O
+টি O
+মৌজা B-LOC
+ও O
+১০ O
+টি O
+গ্রাম O
+আছে O
+। O
+
+জলদাপাড়া B-LOC
+জাতীয় I-LOC
+উদ্যান I-LOC
+
+গ্রীনিচ B-LOC
+মান I-LOC
+সময় I-LOC
+
+ব্যাংকক B-LOC
+( O
+' O
+'' O
+' O
+) O
+
+শিরোনামহীন B-ORG
+শিরোনামহীন B-ORG
+'' O
+( O
+২০১৩ O
+) O
+
+সেন্ট B-ORG
+ব্যাজল'স I-ORG
+ক্যাথিড্রাল I-ORG
+
+রাজকীয় B-ORG
+সুয়েডীয় I-ORG
+বিজ্ঞান I-ORG
+একাডেমি I-ORG
+
+ম্যানচেস্টার B-ORG
+ইউনাইটেড I-ORG
+ফুটবল I-ORG
+ক্লাব I-ORG
+
+নেদারল্যান্ডস B-ORG
+জাতীয় I-ORG
+ক্রিকেট I-ORG
+দল I-ORG
+
+অঙ্কুশ B-PER
+হাজরা I-PER
+, O
+মাহিয়া B-PER
+মাহী I-PER
+
+''অমিতাভ O
+'' O
+চরিত্রে O
+রাহুল B-PER
+বন্দ্যোপাধ্যায় I-PER
+
+অটো B-PER
+ফন I-PER
+বিসমার্ক I-PER
+
+আলেক্সান্দ্র্‌ B-PER
+আলেক্সান্দ্রোভিচ I-PER
+ফ্রিদমান I-PER
+
+গেয়র্গ B-PER
+ভিলহেল্ম I-PER
+ফ্রিডরিখ I-PER
+হেগেল I-PER
+
+Zračne B-ORG
+odbrambeno-oružane I-ORG
+snage I-ORG
+Japana I-ORG
+
+Preusmjeri O
+Vaterpolo B-ORG
+na I-ORG
+Olimpijskim I-ORG
+igrama I-ORG
+1924 I-ORG
+. I-ORG
+
+Kompletna O
+promjena O
+privrednog O
+sistema O
+uvođenjem O
+samoupravljanja O
+nije O
+naišla O
+na O
+jednodušno O
+odobravanje O
+u O
+KPJ B-ORG
+. O
+
+CNN B-ORG
+izvještava O
+da O
+će O
+album O
+biti O
+ekskluzivno O
+pušten O
+u O
+prodaju O
+preko O
+lanca O
+trgovina O
+Starbucks O
+, O
+a O
+ekskluziva O
+bi O
+trajala O
+šest O
+sedmica O
+. O
+
+Atlético B-ORG
+Madrid I-ORG
+( O
+7 O
+. O
+
+Preusmjeri O
+Carl B-PER
+von I-PER
+Linné I-PER
+
+' O
+'' O
+Lewis B-PER
+Hamilton I-PER
+'' O
+' O
+
+' O
+'' O
+Felipe B-PER
+Massa I-PER
+'' O
+' O
+
+Alessandro B-PER
+Volta I-PER
+, O
+1745–1827 O
+
+On O
+je O
+u O
+značajnoj O
+mjeri O
+oponašao O
+Petrarku B-PER
+. O
+
+*Dalje O
+su O
+bile O
+prisutne O
+demonstracije O
+i O
+neredi O
+u O
+Sjevernoj B-LOC
+Irskoj I-LOC
+. O
+
+godine O
+koje O
+je O
+Jugoslavija B-LOC
+osvojila O
+. O
+
+godine O
+dobija O
+poziv O
+i O
+učestvuje O
+na O
+međunarodnoj O
+izložbi O
+u O
+Rimu B-LOC
+. O
+
+godine O
+u O
+sastav O
+grada O
+ušlo O
+je O
+naselje O
+Štefanec B-LOC
+do O
+tada O
+u O
+sastavu O
+općine O
+Mala B-LOC
+Subotica I-LOC
+. O
+
+Novine O
+su O
+objavljivanje O
+u O
+Umeåu B-LOC
+, O
+Västerbotten B-LOC
+. O
+
+Ministeri B-PER
+de I-PER
+Justícia I-PER
+d'Espanya I-PER
+
+Caroline B-PER
+Wozniacki I-PER
+'' O
+( O
+Semifinals O
+) O
+'' O
+
+Pier B-PER
+Paolo I-PER
+Pasolini I-PER
+
+' O
+'' O
+Serguei B-PER
+Rublevski I-PER
+'' O
+' O
+1½–½ O
+Mikhaïl B-PER
+Gurévitx I-PER
+
+Shaquille B-PER
+O'Neal I-PER
+, O
+Orlando B-ORG
+Magic I-ORG
+
+Es O
+troba O
+a O
+Veneçuela B-LOC
+. O
+
+Pic B-LOC
+de I-LOC
+Molières I-LOC
+
+Centropus B-LOC
+grillii I-LOC
+'' O
+. O
+
+Talp B-LOC
+musaranya I-LOC
+gràcil I-LOC
+
+Chastèunòu B-LOC
+de I-LOC
+Vernons I-LOC
+
+Cercle B-ORG
+Athlétique I-ORG
+Spora I-ORG
+Luxemburg I-ORG
+
+Museu B-ORG
+Nacional I-ORG
+d'Art I-ORG
+de I-ORG
+Catalunya I-ORG
+
+Estadi B-ORG
+Ecopa I-ORG
+de I-ORG
+Shizuoka I-ORG
+
+Orde B-ORG
+de I-ORG
+Sant I-ORG
+Benet I-ORG
+
+''Silencio O
+sepulcral O
+'' O
+, O
+Soziedad B-ORG
+Alkoholika I-ORG
+
+O O
+dva O
+roky O
+později O
+se O
+stal O
+nejmladším O
+pilotem O
+Britského B-ORG
+královského I-ORG
+letectva I-ORG
+. O
+
+O O
+něco O
+později O
+začal O
+publikovat O
+i O
+v O
+časopise O
+Punch B-ORG
+. O
+
+Katolická B-ORG
+univerzita I-ORG
+v I-ORG
+Ružomberku I-ORG
+
+' O
+'' O
+HK B-ORG
+Aquacity I-ORG
+ŠKP I-ORG
+Poprad I-ORG
+'' O
+' O
+- O
+ŠHK B-ORG
+37 I-ORG
+Piešťany I-ORG
+4:0 O
+( O
+9:2,6:2,4:3,2:1p O
+) O
+
+MS B-ORG
+1990 I-ORG
+a O
+MS B-ORG
+1994 I-ORG
+. O
+
+Sofronios B-PER
+z I-PER
+Jeruzaléma I-PER
+
+Edgar B-PER
+Allan I-PER
+Poe I-PER
+, O
+Washington B-PER
+Irving I-PER
+, O
+Nathaniel B-PER
+Hawthorne I-PER
+, O
+Mark B-PER
+Twain I-PER
+, O
+Francis B-PER
+Bret I-PER
+Harte I-PER
+
+' O
+'' O
+České B-LOC
+království I-LOC
+'' O
+' O
+– O
+František B-PER
+I I-PER
+. I-PER
+
+Petr B-PER
+Rosol I-PER
+, O
+Radek B-PER
+Bělohlav I-PER
+
+' O
+'' O
+Mika B-PER
+Häkkinen I-PER
+' O
+'' O
+
+Izrael B-LOC
+( O
+4 O
+) O
+
+Vzhledem O
+ke O
+své O
+nenáročnosti O
+na O
+život O
+se O
+vyskytuje O
+v O
+celé O
+Evropě B-LOC
+vyjma O
+nejsevernějších O
+oblastí O
+od O
+Portugalska B-LOC
+po O
+Turecko B-LOC
+. O
+
+Toto O
+oslovení O
+je O
+rozšířeno O
+také O
+v O
+Latinské B-LOC
+Americe I-LOC
+, O
+kde O
+jsou O
+tímto O
+titulem O
+oslovováni O
+i O
+rodiče O
+a O
+prarodiče O
+jakožto O
+hlavy O
+domácnosti O
+, O
+přičemž O
+obzvláště O
+časté O
+je O
+použití O
+tohoto O
+oslovení O
+u O
+žen O
+. O
+
+Začínal O
+v O
+rodném O
+Horšovském B-LOC
+Týně I-LOC
+, O
+ve O
+14 O
+letech O
+přestoupil O
+do O
+Plzně B-ORG
+. O
+
+PŘESMĚRUJ O
+Avenue B-LOC
+des I-LOC
+Champs-Élysées I-LOC
+
+Immanuel B-PER
+Hermann I-PER
+von I-PER
+Fichte I-PER
+
+Johan B-PER
+Frederik I-PER
+af I-PER
+Württemberg I-PER
+
+Serena B-PER
+Williams I-PER
+Venus B-PER
+Williams I-PER
+6–2 O
+, O
+7–5 O
+
+Vilhelm B-PER
+af I-PER
+Hessen-Kassel I-PER
+
+Faith]] O
+'' O
+med O
+medvirkende O
+kunstner O
+George B-PER
+Michael I-PER
+, O
+produceret O
+af O
+George B-PER
+Michael I-PER
+
+Firmaet O
+kendes O
+i O
+dag O
+under O
+navnet O
+Fender B-ORG
+Musical I-ORG
+Instruments I-ORG
+Corporation I-ORG
+'' O
+. O
+
+I O
+Paris-Nice B-ORG
+2007 I-ORG
+hjalp O
+han O
+holdkammeraten O
+Alberto B-PER
+Contador I-PER
+til O
+sejr O
+i O
+den O
+samlede O
+stilling O
+. O
+
+Han O
+er O
+begravet O
+i O
+familiegravstedet O
+på O
+Herlufsholm B-ORG
+. O
+
+Efter O
+kun O
+én O
+sæson O
+i O
+klubben O
+blev O
+han O
+dog O
+headhuntet O
+til O
+et O
+job O
+i O
+sin O
+gamle O
+klub O
+Ajax B-ORG
+Amsterdam I-ORG
+. O
+
+Holdet O
+er O
+sponsoreret O
+af O
+cykelfabrikanten O
+Trek B-ORG
+. O
+
+Ingen O
+lande O
+blev O
+direkte O
+nævnt O
+i O
+talen O
+, O
+men O
+den O
+blev O
+fortolket O
+som O
+henvendt O
+mod O
+Japan B-LOC
+, O
+Italien B-LOC
+og O
+Tyskland B-LOC
+. O
+
+Han O
+er O
+opvokset O
+i O
+Lille B-LOC
+Skensved I-LOC
+nord O
+for O
+Køge B-LOC
+. O
+
+Sognet O
+ligger O
+i O
+Assens B-LOC
+Kommune I-LOC
+( O
+Region B-LOC
+Syddanmark I-LOC
+) O
+. O
+
+Byen O
+er O
+mere O
+end O
+3.000 O
+år O
+gammel O
+og O
+var O
+oprindelig O
+en O
+thrakisk B-LOC
+bosættelse O
+kaldet O
+Membria O
+. O
+
+I O
+Danmark B-LOC
+er O
+den O
+dyrket O
+og O
+findes O
+desuden O
+forvildet O
+hist O
+og O
+her O
+i O
+hele O
+landet O
+. O
+
+als O
+Teil O
+der O
+Savoyer B-LOC
+Voralpen I-LOC
+im O
+Osten O
+. O
+
+' O
+'' O
+Bagan B-LOC
+'' O
+' O
+
+Friedrichsaue]] O
+'' O
+' O
+, O
+' O
+'' O
+Zechin B-LOC
+'' O
+' O
+
+Bedeutende O
+österreichische B-LOC
+Schlossparke O
+gehören O
+z O
+. O
+
+York B-ORG
+University I-ORG
+, O
+Toronto B-LOC
+, O
+Kanada B-LOC
+
+WEITERLEITUNG O
+Antonina B-PER
+Wladimirowna I-PER
+Kriwoschapka I-PER
+
+** O
+'' O
+Lou B-PER
+Salomé I-PER
+'' O
+. O
+
+Jaan B-PER
+Kirsipuu I-PER
+74 O
+P O
+. O
+
+Weiterleitung O
+René B-PER
+Schick I-PER
+Gutiérrez I-PER
+
+Gedenktafel O
+für O
+Andrej B-PER
+Sládkovič I-PER
+
+Spieler O
+vom O
+SKA B-ORG
+Sankt I-ORG
+Petersburg I-ORG
+ausgewählt O
+sowie O
+anschließend O
+im O
+NHL B-ORG
+Entry I-ORG
+Draft I-ORG
+in O
+der O
+ersten O
+Runde O
+als O
+insgesamt O
+zehnter O
+Spieler O
+von O
+den O
+Minnesota B-ORG
+Wild I-ORG
+. O
+
+*** O
+' O
+'' O
+Brandenburg B-ORG
+'' O
+' O
+
+Transports B-ORG
+publics I-ORG
+Vevey–Montreux–Chillon–Villeneuve I-ORG
+
+Seinen O
+Militärdienst O
+beendete O
+er O
+als O
+Fähnrich B-ORG
+. O
+
+2001 O
+kam O
+er O
+zu O
+SV B-ORG
+Austria I-ORG
+Salzburg I-ORG
+, O
+wo O
+er O
+zwei O
+Spiele O
+absolvierte O
+. O
+
+Procopii B-PER
+Gazaei I-PER
+Epistolai O
+et O
+declamationes O
+'' O
+, O
+éd O
+. O
+
+Βλαντίμιρ B-PER
+Βντοβιτσένκοφ I-PER
+ως O
+πρόεδρος O
+της O
+Ρωσίας B-LOC
+
+' O
+'' O
+Γκότλομπ B-PER
+Φρέγκε I-PER
+'' O
+' O
+
+Στο O
+σημείο O
+αυτό O
+λεγόταν O
+πως O
+υπήρχε O
+ο O
+τάφος O
+της O
+Καλλιστούς B-PER
+, O
+της O
+μητέρας O
+του O
+Αρκάδα B-PER
+. O
+
+Την O
+εξουσία O
+καταλαμβάνει O
+ο O
+στρατιωτικός O
+Φρανκ B-PER
+Μπαϊνιμαράμα I-PER
+. O
+
+' O
+'' O
+Δανία B-LOC
+'' O
+' O
+
+Τυνησία B-LOC
+( O
+μεζουέντ O
+) O
+, O
+
+Ομόσπονδες B-LOC
+Πολιτείες I-LOC
+της I-LOC
+Μικρονησίας I-LOC
+
+' O
+'' O
+Σουηδία B-LOC
+'' O
+' O
+
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ O
+Βαρωνία B-LOC
+της I-LOC
+Αρκαδίας I-LOC
+
+Explosions B-ORG
+in I-ORG
+the I-ORG
+Sky I-ORG
+
+ΑΝΑΚΑΤΕΥΘΥΝΣΗ O
+Α.Ο. B-ORG
+η I-ORG
+Θήβα I-ORG
+
+' O
+'' O
+Σλόβαν B-ORG
+Μπρατισλάβας I-ORG
+'' O
+' O
+
+Σήμερα O
+, O
+εργάζεται O
+ως O
+βοηθός O
+προπονητής O
+για O
+λογαριασμό O
+της O
+Άρσεναλ B-ORG
+. O
+
+' O
+'' O
+Μόναχο B-ORG
+1860 I-ORG
+'' O
+' O
+
+R.H. B-ORG
+Saunders I-ORG
+( O
+St. B-ORG
+Lawrence I-ORG
+River I-ORG
+) O
+( O
+968 O
+MW O
+) O
+
+St. B-ORG
+Mary I-ORG
+'s I-ORG
+Catholic I-ORG
+Church I-ORG
+( I-ORG
+Sandusky I-ORG
+, I-ORG
+Ohio I-ORG
+) I-ORG
+
+Shhh B-ORG
+... I-ORG
+Do I-ORG
+n't I-ORG
+Tell I-ORG
+'' O
+
+*Inducted O
+into O
+the O
+United B-ORG
+States I-ORG
+Hockey I-ORG
+Hall I-ORG
+of I-ORG
+Fame I-ORG
+in O
+2015 O
+
+102.7 O
+MHz O
+Triple B-ORG
+J I-ORG
+– O
+ABC B-ORG
+
+; O
+' O
+'' O
+Anders B-PER
+Lindström I-PER
+'' O
+' O
+
+Karl B-PER
+Ove I-PER
+Knausgård I-PER
+( O
+born O
+1968 O
+) O
+
+Her O
+daughter O
+from O
+the O
+second O
+marriage O
+was O
+Marie B-PER
+d'Agoult I-PER
+( O
+1805–1876 O
+) O
+, O
+who O
+in O
+turn O
+gave O
+birth O
+to O
+several O
+children O
+, O
+among O
+them—from O
+her O
+liaison O
+to O
+Franz B-PER
+Liszt I-PER
+–- O
+Cosima B-PER
+Wagner I-PER
+( O
+1837–1930 O
+) O
+. O
+
+Antonín B-PER
+Rýgr I-PER
+( O
+1970–72 O
+) O
+
+Dia B-PER
+Evtimova I-PER
+Catalina B-PER
+Castaño I-PER
+Dinah B-PER
+Pfizenmaier I-PER
+Tatjana B-PER
+Malek I-PER
+
+Atlantic B-LOC
+City I-LOC
+, I-LOC
+New I-LOC
+Jersey I-LOC
+
+'' O
+Atelocentra B-LOC
+'' O
+Meyrick O
+, O
+1884 O
+
+' O
+'' O
+Antarctic B-LOC
+prion I-LOC
+'' O
+' O
+
+Durrães B-LOC
+e I-LOC
+Tregosa I-LOC
+
+First O
+recorded O
+in O
+the O
+Serranía B-LOC
+de I-LOC
+las I-LOC
+Quinchas I-LOC
+on O
+January O
+17 O
+, O
+2006 O
+. O
+
+REDIRECCIÓN O
+Algarrobo B-LOC
+( I-LOC
+Chile I-LOC
+) I-LOC
+
+** O
+Luanda B-LOC
+( O
+Embajada O
+) O
+
+Condado B-LOC
+de I-LOC
+Duplin I-LOC
+suroeste O
+
+REDIRECCIÓN O
+São B-LOC
+Pedro I-LOC
+do I-LOC
+Funchal I-LOC
+
+50px O
+'' O
+Huelva B-LOC
+'' O
+'146.173 O
+hab O
+. O
+
+W. B-PER
+G. I-PER
+Sebald I-PER
+
+' O
+'' O
+Entrenador O
+/ O
+a O
+'' O
+Tamás B-PER
+Faragó I-PER
+
+REDIRECCIÓN O
+José B-PER
+Luis I-PER
+García I-PER
+
+' O
+'' O
+Pedro B-PER
+de I-PER
+Alcántara I-PER
+Téllez-Girón I-PER
+y I-PER
+Beaufort I-PER
+Spontin I-PER
+'' O
+' O
+
+' O
+'' O
+Marion B-PER
+Bartoli I-PER
+'' O
+' O
+
+REDIRECCIÓN O
+Società B-ORG
+Sportiva I-ORG
+Virtus I-ORG
+Lanciano I-ORG
+1924 I-ORG
+
+Houses B-ORG
+of I-ORG
+the I-ORG
+Holy I-ORG
+
+Posteriormente O
+se O
+incorporó O
+al O
+Ejército B-ORG
+del I-ORG
+Norte I-ORG
+. O
+
+REDIRECCIÓN O
+FC B-ORG
+Progresul I-ORG
+București I-ORG
+
+`` O
+E.T B-ORG
+. I-ORG
+'' O
+
+suuna O
+Accademia B-ORG
+di I-ORG
+Belle I-ORG
+Arti I-ORG
+di I-ORG
+Firenze I-ORG
+
+aastal O
+Tartu B-LOC
+Vanemuise B-ORG
+kontserdisaalis I-ORG
+toimunud O
+autorikontserdi O
+DVD-salvestis O
+. O
+
+Keeld O
+oli O
+kehtestatud O
+seoses O
+Samsungi O
+ja O
+Apple B-ORG
+Inc I-ORG
+. I-ORG
+vahel O
+toimunud O
+patendivaidlustega O
+. O
+
+Eurostat B-ORG
+käsitleb O
+tööealise O
+rahvastikuna O
+enamasti O
+vanuserühma O
+15–64 O
+. O
+
+Roheline B-ORG
+Partei I-ORG
+( I-ORG
+Iirimaa I-ORG
+) I-ORG
+
+Eestis B-LOC
+on O
+enamik O
+keskkomandosid O
+spetsiaalselt O
+selleks O
+ehitatud O
+hoonetes O
+, O
+tugikomandod O
+seevastu O
+pigem O
+kohandatud O
+hoonetes O
+. O
+
+Óscar B-PER
+Arias I-PER
+Sánchez I-PER
+( O
+Costa B-LOC
+Rica I-LOC
+) O
+
+Toetust O
+otsiti O
+Roomast B-LOC
+ja O
+Moskva B-LOC
+tsaaririigist I-LOC
+, O
+kuid O
+mitmesugustel O
+asjaoludel O
+see O
+ei O
+õnnestunud O
+. O
+
+Nende O
+artiklite O
+kirjutamise O
+ajal O
+elas O
+ta O
+juba O
+Rootsis B-LOC
+. O
+
+Zubova B-LOC
+Poljana I-LOC
+rajoon I-LOC
+( O
+''Зубово-Полянский O
+район O
+'' O
+) O
+
+Wolfgang B-PER
+Köhler I-PER
+( O
+1887–1967 O
+) O
+
+Mat B-PER
+Hoffman I-PER
+( O
+1972– O
+) O
+
+** O
+' O
+'' O
+21 O
+'' O
+' O
+Giancarlo B-PER
+Fisichella I-PER
+, O
+Itaalia B-LOC
+( O
+esimesed O
+12 O
+etappi O
+) O
+
+Edgar B-PER
+V. I-PER
+Saks I-PER
+. O
+
+Otto B-PER
+Magnus I-PER
+von I-PER
+Stackelberg I-PER
+( I-PER
+1736–1800 I-PER
+) I-PER
+
+تغییرمسیر O
+مهتر B-LOC
+( I-LOC
+خرم‌آباد I-LOC
+) I-LOC
+
+' O
+'' O
+شهرستان B-LOC
+حمص I-LOC
+'' O
+' O
+
+تغییرمسیر O
+سیگویدین B-LOC
+( I-LOC
+سیگله I-LOC
+) I-LOC
+
+تغییرمسیر O
+مزرعه B-LOC
+شیمک I-LOC
+شور I-LOC
+
+تغییر_مسیر O
+قارچ B-LOC
+شیری I-LOC
+آبی I-LOC
+
+مادرش O
+جزو O
+نخستین O
+گروه O
+فارغ‌التحصیلان O
+مدرسه B-ORG
+پرستاری I-ORG
+دانشگاه B-ORG
+تهران I-ORG
+بود O
+. O
+
+تغییرمسیر O
+محتوای B-ORG
+تولید I-ORG
+شده I-ORG
+توسط I-ORG
+کاربر I-ORG
+
+سازمان B-ORG
+میراث I-ORG
+فرهنگی، I-ORG
+صنایع I-ORG
+دستی I-ORG
+و I-ORG
+گردشگری I-ORG
+
+تغییرمسیر O
+یک B-ORG
+دختر I-ORG
+تنها I-ORG
+
+تغییرمسیر O
+فوتبال B-ORG
+در I-ORG
+بازی‌های I-ORG
+المپیک I-ORG
+تابستانی I-ORG
+۱۹۰۸ I-ORG
+
+رانی B-PER
+موکرجی I-PER
+در O
+نقش O
+Aparna O
+
+تغییرمسیر O
+یحیی B-PER
+بن I-PER
+معاذ I-PER
+
+ناصر B-PER
+بناکننده I-PER
+( I-PER
+ناصر B-PER
+پورپیرار I-PER
+) I-PER
+
+تغییرمسیر O
+فرانسیس B-PER
+لی I-PER
+مک‌کین I-PER
+
+تغییرمسیر O
+پیر B-PER
+سلطان I-PER
+ابدال I-PER
+
+Se O
+sijaitsee O
+Borneon B-LOC
+saarella O
+ja O
+on O
+Etelä-Kalimantanin B-LOC
+provinssin O
+pääkaupunki O
+. O
+
+Rajanaapureita O
+ovat O
+pohjoisessa O
+Verdal B-LOC
+, O
+etelässä O
+Stjørdal B-LOC
+ja O
+lännessä O
+Frosta B-LOC
+. O
+
+Baikonur B-LOC
+( O
+Bayqoñır O
+) O
+( O
+vuokrattu O
+Venäjälle B-LOC
+) O
+
+Bangladesh B-LOC
+, O
+Intia B-LOC
+, O
+Pakistan B-LOC
+
+Wilanówin B-ORG
+palatsi I-ORG
+, O
+Varsova B-LOC
+, O
+Puola B-LOC
+
+`` O
+What B-ORG
+You I-ORG
+Want I-ORG
+'' O
+
+1960-luvulla O
+oli O
+jo O
+käynyt O
+selväksi O
+, O
+että O
+sekä O
+Canadian B-ORG
+National I-ORG
+Railwayn I-ORG
+( O
+CN O
+) O
+että O
+Canadian B-ORG
+Pacific I-ORG
+Railwayn I-ORG
+( O
+CPR O
+) O
+matkustajajunat O
+olivat O
+kannattamattomia O
+. O
+
+Aktiiviurallaan O
+hän O
+pelasi O
+pisimpään O
+Chelsean B-ORG
+, O
+Celticin B-ORG
+ja O
+Derby B-ORG
+Countyn I-ORG
+joukkueessa O
+. O
+
+OHJAUS O
+Suomen B-ORG
+Työväenpuolue I-ORG
+STP I-ORG
+
+OHJAUS O
+The B-ORG
+Reflecting I-ORG
+Skin I-ORG
+– I-ORG
+lapsuuden I-ORG
+loppu I-ORG
+
+Santeri B-PER
+Nuorteva I-PER
+( O
+1907–1908 O
+, O
+1909–1911 O
+) O
+
+Matt B-PER
+McGrath I-PER
+( O
+USA O
+) O
+
+Taloustieteilijä O
+Julian B-PER
+Simon I-PER
+kirjoitti O
+, O
+että O
+väestönkasvu O
+ei O
+ole O
+ongelma O
+ja O
+kekseliäs O
+ihmiskunta O
+sopeutuu O
+olosuhteisiin O
+. O
+
+' O
+'' O
+Niko B-PER
+Kranjčar I-PER
+'' O
+' O
+
+Franziska B-PER
+Hildebrand I-PER
+Franziska B-PER
+Preuß I-PER
+Arnd B-PER
+Peiffer I-PER
+Simon B-PER
+Schempp I-PER
+
+Saxifrage B-LOC
+faux I-LOC
+Orpin I-LOC
+
+Comté B-LOC
+de I-LOC
+Motley I-LOC
+
+Loubieng B-LOC
+au O
+nord-ouest O
+; O
+
+Comté B-LOC
+de I-LOC
+Los I-LOC
+Angeles I-LOC
+
+2014 B-ORG
+, O
+à O
+Amsterdam B-LOC
+( O
+) O
+
+REDIRECTION O
+The B-PER
+Lady I-PER
+of I-PER
+Rage I-PER
+
+Après O
+deux O
+nuls O
+( O
+Guingamp B-ORG
+et O
+Amiens B-ORG
+) O
+et O
+deux O
+défaites O
+( O
+Charleroi B-ORG
+et O
+Lokeren B-ORG
+) O
+, O
+les O
+hommes O
+Antoine B-PER
+Kombouaré I-PER
+se O
+reprennent O
+et O
+remportent O
+leurs O
+deux O
+dernières O
+confrontations O
+contre O
+UNFP B-ORG
+et O
+Sedan B-ORG
+. O
+
+Ernst B-PER
+Vettori I-PER
+Richard B-PER
+Schallert I-PER
+Franz B-PER
+Neuländtner I-PER
+Andreas B-PER
+Felder I-PER
+
+Ángel B-PER
+David I-PER
+Rodríguez I-PER
+
+REDIRECTION O
+Luis B-PER
+Marín I-PER
+Barahona I-PER
+
+Parti B-ORG
+libéral I-ORG
+du I-ORG
+Québec I-ORG
+
+==== O
+La O
+Cour B-ORG
+constitutionnelle I-ORG
+==== O
+
+** O
+Nip B-ORG
+/ I-ORG
+Tuck I-ORG
+'' O
+
+Il O
+utilise O
+des O
+baguettes O
+Pro-Mark B-ORG
+( O
+dont O
+il O
+possède O
+un O
+modèle O
+''Signature O
+) O
+. O
+
+REDIRECTION O
+Le B-ORG
+Lynx I-ORG
+( I-ORG
+journal I-ORG
+) I-ORG
+
+שר B-PER
+בלי I-PER
+תיק I-PER
+, O
+משרד B-ORG
+הפנים I-ORG
+
+תומאס B-PER
+ואן I-PER
+דן I-PER
+שפיגל I-PER
+
+בבחרותו O
+נסע O
+ישיבת B-ORG
+פרשבורג I-ORG
+ללמוד O
+אצל O
+החת B-PER
+'' I-PER
+ם I-PER
+סופר I-PER
+, O
+והפך O
+לאחד O
+מתלמידיו O
+המובהקים O
+. O
+
+אדריאן B-PER
+בולט I-PER
+היה O
+מנצח B-ORG
+הראשי O
+הראשון O
+שלה O
+. O
+
+הספר O
+תורגם O
+לעברית O
+ועובד O
+להצגת O
+יחיד O
+בעברית O
+ובערבית O
+על O
+ידי O
+השחקן O
+מוחמד B-PER
+בכרי I-PER
+. O
+
+דף O
+השחקן O
+באתר O
+הרשמי O
+של O
+רוסטוב B-ORG
+
+MI5 B-ORG
+- O
+הגוף O
+האחראי O
+על O
+הריגול O
+הנגדי O
+. O
+
+הפניה O
+David B-ORG
+Bowie I-ORG
+( I-ORG
+אלבום I-ORG
+, I-ORG
+1967 I-ORG
+) I-ORG
+
+פ.ס.וו. B-ORG
+איינדהובן I-ORG
+( O
+הולנד B-LOC
+) O
+
+סרטון O
+הכנת O
+קיורטוש O
+, O
+מתוך O
+YouTube B-ORG
+
+לוטרה B-LOC
+ימית I-LOC
+( O
+Lontra O
+felina O
+) O
+
+בין O
+השנים O
+1975-1951 O
+שימש O
+המתחם O
+כבית-החייל O
+של O
+תל B-LOC
+אביב-יפו I-LOC
+
+היצירה O
+מוצגת O
+כיום O
+גלריה B-ORG
+הלאומית I-ORG
+של I-ORG
+סקוטלנד I-ORG
+אדינבורו B-LOC
+סקוטלנד B-LOC
+. O
+
+' O
+'' O
+ברזיל B-LOC
+'' O
+' O
+
+הפניה O
+אניאגרם B-LOC
+של I-LOC
+האישיות I-LOC
+
+टैपी O
+ने O
+अपने O
+उत्पादों O
+को O
+एशिया B-LOC
+के O
+अपतटीय O
+भागों O
+में O
+भेजने O
+का O
+फैसला O
+लिया। O
+उन्होंने O
+प्रोमोशन O
+के O
+लिए O
+मैडोना B-PER
+को O
+अपने O
+साथ O
+मिलाया। O
+
+( O
+जम्मू B-LOC
+और I-LOC
+कश्मीर I-LOC
+) O
+
+' O
+'' O
+बुल्गारिया B-LOC
+'' O
+' O
+
+** O
+अल्जीयर्स B-LOC
+( O
+दूतावास O
+) O
+
+किशनगंज B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+केष्टो B-PER
+मुखर्जी I-PER
+- O
+गुलु O
+
+कादर B-PER
+ख़ान I-PER
+- O
+मैने्जर O
+
+गुलशन B-PER
+ग्रोवर I-PER
+- O
+अतिथि O
+भूमिका O
+
+' O
+'' O
+भालचंद्र B-PER
+नेमाडे I-PER
+'' O
+' O
+
+डेनियला B-PER
+हंचुकोवा I-PER
+ने O
+स्वेतलाना B-PER
+कुज़नेतसोवा I-PER
+को O
+6–3 O
+, O
+6–4 O
+से O
+हराया। O
+
+एअर B-ORG
+इंडिया I-ORG
+क्षेत्रीय I-ORG
+
+भारतीय B-ORG
+अंतरिक्ष I-ORG
+अनुसंधान I-ORG
+संगठन I-ORG
+
+भारतीय B-ORG
+दूरसंचार I-ORG
+विनियामक I-ORG
+प्राधिकरण I-ORG
+
+वैद्यनाथ B-ORG
+मन्दिर I-ORG
+, I-ORG
+देवघर I-ORG
+
+रब B-ORG
+से I-ORG
+सोणा I-ORG
+इश्‍क I-ORG
+
+Hrvatska B-ORG
+radiotelevizija I-ORG
+, O
+tj O
+. O
+
+Finale B-ORG
+UEFA I-ORG
+Lige I-ORG
+prvaka I-ORG
+1997 I-ORG
+. I-ORG
+između O
+Borussije B-ORG
+Dortmund I-ORG
+i O
+Juventusa B-ORG
+( O
+3:1 O
+) O
+. O
+
+Osim O
+toga O
+, O
+Paramount B-ORG
+Pictures I-ORG
+je O
+odbio O
+objaviti O
+promotivne O
+fotografije O
+Cruiseova O
+lika O
+medijima O
+kakav O
+se O
+pojavljuje O
+u O
+filmu O
+. O
+
+godine O
+zauzimao O
+prilično O
+važnu O
+ulogu O
+, O
+budući O
+da O
+se O
+Ćiril B-PER
+Aleksandrijski I-PER
+njemu O
+obratio O
+za O
+pomoć O
+kako O
+bi O
+posredovao O
+u O
+pitanju O
+patrijarhalne O
+jurisdikcije O
+nad O
+Palestinom B-ORG
+. O
+
+Aviva B-ORG
+Stadium I-ORG
+, O
+Dublin B-LOC
+, O
+Irska B-LOC
+
+Lauren B-PER
+Bacall I-PER
+kao O
+ona O
+sama O
+
+' B-PER
+'' I-PER
+Tomčić I-PER
+'' I-PER
+' B-PER
+, I-PER
+Zlatko I-PER
+
+Kralj B-PER
+Petar I-PER
+Krešimir I-PER
+IV I-PER
+. I-PER
+
+Anders B-PER
+Kulläng I-PER
+( O
+5h:12m:46s O
+) O
+
+Bio O
+je O
+jedan O
+od O
+najvažnijih O
+Aristotelovih B-PER
+učenika O
+. O
+
+Spartanburg B-LOC
+, I-LOC
+Južna I-LOC
+Karolina I-LOC
+
+Argentina B-LOC
+je O
+bila O
+njegovo O
+konačno O
+odredište O
+. O
+
+''Merkur O
+'' O
+, O
+Celje B-LOC
+
+XXIV. B-LOC
+Zimske I-LOC
+olimpijske I-LOC
+igre I-LOC
+- I-LOC
+Peking I-LOC
+2022 I-LOC
+. I-LOC
+
+U O
+Milanu B-LOC
+za O
+usporedbu O
+to O
+iznosi O
+32,0-26,3 O
+, O
+u O
+Veneciji B-LOC
+28,3-24,4 O
+, O
+u O
+Beču B-LOC
+31,7-27,6 O
+, O
+u O
+Trstu B-LOC
+29,6-26,6 O
+, O
+u O
+Pragu B-LOC
+31,9-28,2 O
+, O
+u O
+Lavovu B-LOC
+31,7-27,1 O
+, O
+a O
+u O
+Zagrebu B-LOC
+33,8-27,5 O
+. O
+
+Ezért O
+az O
+ültetvényekre O
+Afrikából B-LOC
+néger O
+rabszolgákat O
+hoztak O
+be O
+. O
+
+ÁTIRÁNYÍTÁS O
+Novorosszija B-LOC
+( I-LOC
+állam I-LOC
+) I-LOC
+
+ÁTIRÁNYÍTÁS O
+Saint-Jean-le-Vieux B-LOC
+( I-LOC
+Isère I-LOC
+) I-LOC
+
+Luxemburgba B-LOC
+és O
+Namurba O
+az O
+ellenség O
+többször O
+betört O
+és O
+fosztogatott O
+. O
+
+Clarke B-LOC
+megye I-LOC
+( I-LOC
+Iowa I-LOC
+) I-LOC
+
+Antall B-PER
+József I-PER
+( O
+MDF B-ORG
+) O
+miniszterelnök O
+1990–93 O
+
+Yannick B-PER
+Noah I-PER
+'' O
+( O
+Negyeddöntő O
+) O
+'' O
+
+Daróczi B-PER
+Dávid I-PER
+( O
+1972–2010 O
+) O
+
+A O
+kínzások O
+után O
+a O
+nő O
+megvallotta O
+, O
+hogy O
+boszorkánykapitány O
+volt O
+, O
+ördögökkel B-PER
+szövetkezett O
+, O
+de O
+a O
+két O
+ezüstkanálról O
+nem O
+tudott O
+semmit O
+. O
+
+Itt O
+kezdődött O
+el O
+barátsága O
+Weöres B-PER
+Sándorral I-PER
+. O
+
+A O
+677 O
+helyen O
+az O
+Euler-függvény B-ORG
+helyettesítési O
+értéke O
+676 O
+, O
+a O
+Möbius-függvényé B-ORG
+. O
+
+Ebben O
+a O
+szócikkben O
+található O
+a O
+Veszprém B-ORG
+FC I-ORG
+szezononkénti O
+játékoskerete O
+. O
+
+A O
+Magyar B-ORG
+Tudományos I-ORG
+Akadémia I-ORG
+Irodalomtudományi O
+Bizottságának O
+lett O
+tagja O
+. O
+
+Ő O
+képviselte O
+Örményországot B-LOC
+a O
+2014-es B-ORG
+Eurovíziós I-ORG
+Dalfesztiválon I-ORG
+, O
+a O
+dán B-LOC
+fővárosban O
+, O
+Koppenhágában B-LOC
+. O
+
+Tanításait O
+a O
+Szabad B-ORG
+Európa I-ORG
+Rádió I-ORG
+is O
+sokszor O
+közölte O
+és O
+a O
+Szolidaritás B-ORG
+híve O
+volt O
+. O
+
+ALIH O
+Al-Hilal B-ORG
+( I-ORG
+Omdurman I-ORG
+) I-ORG
+
+1982 B-ORG
+– O
+''Tidak O
+masuk O
+'' O
+
+Ia O
+saat O
+ini O
+menjabat O
+sebagai O
+kapten O
+tim O
+Los B-ORG
+Boquerones I-ORG
+. O
+
+alih O
+Double B-ORG
+( I-ORG
+Double B-ORG
+/ I-ORG
+Midnight I-ORG
+Parade I-ORG
+/ I-ORG
+Milky I-ORG
+Way I-ORG
+: I-ORG
+Kimi I-ORG
+no I-ORG
+Uta I-ORG
+) I-ORG
+
+`` O
+berhasil O
+'' O
+membuat O
+harus O
+melaksanakan O
+pertandingan O
+babak B-ORG
+''play-off I-ORG
+'' I-ORG
+untuk O
+menentukan O
+nasib O
+mereka O
+. O
+
+ALIH O
+Komune B-LOC
+di I-LOC
+departemen I-LOC
+Vendée I-LOC
+
+ALIH O
+Pulau B-LOC
+Santa I-LOC
+Inés I-LOC
+
+=== O
+Kabupaten B-LOC
+Kulon I-LOC
+Progo I-LOC
+=== O
+
+ALIH O
+Komune B-LOC
+di I-LOC
+departemen I-LOC
+Aisne I-LOC
+
+ALIH O
+Komune B-LOC
+di I-LOC
+departemen I-LOC
+Bas-Rhin I-LOC
+
+Slamet B-PER
+Rahardjo I-PER
+- O
+' O
+'' O
+Kodrat O
+'' O
+' O
+
+' O
+'' O
+Bruce B-PER
+McLaren I-PER
+'' O
+' O
+
+Hermes B-PER
+Rodrigues I-PER
+da I-PER
+Fonseca I-PER
+
+Katsura B-PER
+Taro I-PER
+( O
+Periode O
+ke-2 O
+) O
+
+Dan O
+Paus B-PER
+Yohanes I-PER
+Paulus I-PER
+II I-PER
+sedikitnya O
+dua O
+kali O
+mengundang O
+Frank B-PER
+Duff I-PER
+secara O
+pribadi O
+pada O
+masa O
+kepausannya O
+. O
+
+' O
+'' O
+Andrew B-PER
+Noble I-PER
+'' O
+' O
+- O
+fisico O
+britannico B-LOC
+
+Eliminato O
+al O
+4T O
+da O
+Andy B-PER
+Murray I-PER
+[3] O
+
+Li B-PER
+Ziming I-PER
+( O
+李子鸣 O
+) O
+
+' O
+'' O
+Il O
+padre O
+della O
+sposa O
+'' O
+' O
+( O
+8ª O
+vittima O
+) O
+( O
+interpretato O
+da O
+Richard B-PER
+Burgi I-PER
+) O
+
+Aldo B-PER
+Silvani I-PER
+in O
+''Strada O
+senza O
+nome O
+'' O
+
+Seekirchen B-LOC
+am I-LOC
+Wallersee I-LOC
+
+Ha O
+mutuato O
+il O
+nome O
+dal O
+capoluogo O
+Tarfaya B-LOC
+. O
+
+' O
+'' O
+Roquefort-des-Corbières B-LOC
+'' O
+' O
+
+4º O
+posto O
+Persian B-LOC
+Gulf I-LOC
+Cup I-LOC
+2011-2012 I-LOC
+
+Gillette B-ORG
+Stadium I-ORG
+, O
+Foxborough B-LOC
+
+' O
+'' O
+Suzuki B-ORG
+'' O
+' O
+
+Passò O
+inoltre O
+quattro O
+settimane O
+al O
+primo O
+posto O
+della O
+Hot B-ORG
+Adult I-ORG
+Contemporary I-ORG
+Tracks I-ORG
+. O
+
+RINVIA O
+Polisportiva B-ORG
+Gaeta I-ORG
+1931 I-ORG
+
+150px O
+'' O
+Sacramento B-ORG
+Monarchs I-ORG
+'' O
+' O
+'' O
+' O
+( O
+1º O
+titolo O
+) O
+' O
+'' O
+
+Inizia O
+la O
+stagione O
+2013-2014 B-LOC
+con O
+la O
+conquista O
+del O
+Community B-ORG
+Shield I-ORG
+, O
+grazie O
+alla O
+vittoria O
+per O
+2-0 O
+ai O
+danni O
+del O
+Wigan B-ORG
+. O
+
+1972 B-ORG
+– O
+' O
+'' O
+1 O
+vieta O
+'' O
+' O
+
+HIC O
+galima O
+rasti O
+dokumentinių O
+ir O
+meninių O
+filmų O
+DVD B-ORG
+kolekciją O
+. O
+
+PERADRESAVIMAS O
+Khunano B-ORG
+nacionalinis I-ORG
+parkas I-ORG
+
+2008 B-ORG
+m. I-ORG
+Lietuvos I-ORG
+Respublikos I-ORG
+Seimo I-ORG
+rinkimai I-ORG
+. O
+
+FK B-ORG
+Borac I-ORG
+Čačak I-ORG
+
+' O
+'' O
+Pastor B-PER
+Maldonado I-PER
+'' O
+' O
+
+Domenico B-PER
+Modugno I-PER
+ir O
+Claudio B-PER
+Villa I-PER
+
+Nelly B-PER
+Furtado I-PER
+– O
+All B-ORG
+Good I-ORG
+Things I-ORG
+( I-ORG
+Come I-ORG
+to I-ORG
+an I-ORG
+End I-ORG
+) I-ORG
+“ I-ORG
+
+Jomis O
+vėliau O
+naudojosi O
+Jamblichas B-PER
+, O
+šv O
+. O
+
+Parengė O
+M. B-PER
+Mažvydo I-PER
+raštų O
+fotografuotinį O
+leidimą O
+. O
+
+' O
+'' O
+Fafė O
+'' O
+' O
+– O
+miestas O
+šiaurės O
+Portugalijoje B-LOC
+, O
+netoli O
+Bragos B-LOC
+. O
+
+Ožkabarzdis B-LOC
+asiūklis I-LOC
+( O
+''Equisetum O
+pratense O
+'' O
+) O
+
+' O
+'' O
+Dedza O
+'' O
+' O
+( O
+) O
+– O
+miestas O
+Malavyje B-LOC
+, O
+Centriniame B-LOC
+regione I-LOC
+, O
+į O
+pietryčius O
+nuo O
+Lilongvės B-LOC
+, O
+prie O
+Mozambiko B-LOC
+sienos O
+. O
+
+Žemutinių B-LOC
+Provincijų I-LOC
+istorija I-LOC
+
+Kabompas B-LOC
+( I-LOC
+upė I-LOC
+) I-LOC
+'' O
+. O
+
+Nelly B-PER
+( O
+3 O
+) O
+
+Kurts B-PER
+Aterbergs I-PER
+( O
+''Kurt O
+Magnus O
+Atterberg O
+'' O
+, O
+1887—1974 O
+) O
+— O
+komponists O
+; O
+
+Igors B-PER
+Stepanovs I-PER
+( O
+10 O
+. O
+
+sens O
+nosaukums O
+( O
+Ptolemajs B-PER
+) O
+
+Satoru B-PER
+Nakadžima I-PER
+- O
+bijušais O
+F1 B-ORG
+pilots O
+( O
+dz O
+. O
+
+1961.—1962. B-ORG
+gada I-ORG
+NBA I-ORG
+sezona I-ORG
+
+Pasaules B-ORG
+Veselības I-ORG
+organizācija I-ORG
+izstrādā O
+starptautiskas O
+normas O
+rekreācijas O
+ūdeņu O
+izmantošanai O
+un O
+drošībai O
+. O
+
+( O
+Portlendas B-ORG
+`` I-ORG
+Trail I-ORG
+Blazers I-ORG
+'' I-ORG
+) O
+( O
+1 O
+/ O
+2 O
+) O
+
+Kopš O
+tā O
+laika O
+viņš O
+ir O
+izlaidis O
+vairākus O
+, O
+lielākoties O
+instrumentālus O
+kompaktdiskus B-ORG
+, O
+dažos O
+no O
+tiem O
+iedziedot O
+. O
+
+Ventvorta O
+aktiera O
+karjeras O
+pagrieziena O
+punkts O
+bija O
+galvenās O
+lomas O
+iegūšana O
+seriālā O
+Izlaušanās B-ORG
+2005. O
+gadā O
+. O
+
+Vārene B-LOC
+pie I-LOC
+Mīrica I-LOC
+
+Košalinas B-LOC
+apriņķis I-LOC
+( O
+''powiat O
+koszaliński O
+'' O
+) O
+
+** O
+Kongo B-LOC
+Republika I-LOC
+( O
+daļēji O
+) O
+
+Tauraģes B-LOC
+rajona I-LOC
+pašvaldība I-LOC
+
+tika O
+ievēlēts O
+par O
+PSKP B-PER
+CK I-PER
+ģenerālsekretāru I-PER
+( O
+par O
+Padomju B-LOC
+Savienības I-LOC
+līderi O
+) O
+. O
+
+|Главниот O
+заповедник O
+на O
+Шуцштафел B-ORG
+, O
+Хајнрих B-PER
+Химлер I-PER
+се O
+самоубива O
+
+Објектот O
+е O
+забележан O
+и O
+во O
+фотографското O
+истражување O
+спроведено O
+од O
+Паломарската B-ORG
+опсерваторија I-ORG
+во O
+1958 O
+година O
+, O
+каде O
+што O
+се O
+споменува O
+во O
+групата O
+под O
+број O
+722 O
+. O
+
+Објектот O
+е O
+забележан O
+и O
+во O
+фотографското O
+истражување O
+спроведено O
+од O
+Паломарската B-ORG
+опсерваторија I-ORG
+во O
+1958 O
+година O
+, O
+каде O
+што O
+се O
+споменува O
+во O
+групата O
+под O
+број O
+N O
+/ O
+A O
+. O
+
+пренасочување O
+Републиканска B-ORG
+народна I-ORG
+партија I-ORG
+
+Тој O
+судел O
+на O
+Светското B-ORG
+првенство I-ORG
+1998 I-ORG
+година I-ORG
+како O
+и O
+на O
+Светското B-ORG
+првенство I-ORG
+во I-ORG
+фудбал I-ORG
+2002 I-ORG
+, O
+каде O
+бил O
+назначен O
+за O
+четврти O
+судија O
+во O
+финалето O
+. O
+
+Во O
+второто O
+полувреме O
+долго O
+стоеше O
+овој O
+резултат O
+, O
+се O
+до O
+моментот O
+кога O
+Кампањаро B-PER
+не O
+го O
+фаулираше O
+Вучиниќ B-PER
+во O
+својот O
+шесттнаесетник O
+. O
+
+Според O
+мислењето O
+на O
+Дејв B-PER
+Мастејн I-PER
+, O
+тајното O
+место O
+е O
+некаде O
+во O
+неговата O
+глава O
+. O
+
+ПРЕНАСОЧУВАЊЕ O
+Едмунд B-PER
+( I-PER
+Прв I-PER
+војвода I-PER
+од I-PER
+Јорк I-PER
+) I-PER
+
+Брат-близнак O
+е O
+на O
+кошаркарот O
+Дамјан B-PER
+Стојановски I-PER
+и O
+е O
+помлад O
+брат O
+на O
+Огнен B-PER
+Стојановски I-PER
+. O
+
+пренасочување O
+Јоханес B-PER
+ван I-PER
+дер I-PER
+Валс I-PER
+
+** O
+Детроит B-LOC
+( O
+генерален O
+конзулат O
+) O
+
+Австрија B-LOC
+( O
+Европа B-LOC
+) O
+
+пренасочување O
+Арсениега B-LOC
+( I-LOC
+Алава I-LOC
+) I-LOC
+
+Се O
+среќава O
+и O
+во O
+Македонија B-LOC
+. O
+
+Поделен O
+е O
+на O
+49 O
+општини B-LOC
+( O
+''kommuner O
+'' O
+) O
+. O
+
+LENCONG O
+Anjing B-ORG
+gembala I-ORG
+Amerika I-ORG
+kecil I-ORG
+
+Suhu O
+airnya O
+adalah O
+berbeza-beza O
+dengan O
+julat O
+sekitar O
+10 O
+hingga O
+- O
+°C B-ORG
+. O
+
+CSI B-ORG
+: I-ORG
+Crime I-ORG
+Scene I-ORG
+Investigation I-ORG
+'' O
+
+Tapak B-ORG
+Warisan I-ORG
+Dunia I-ORG
+
+' O
+'' O
+Sauber B-ORG
+'' O
+' O
+
+Dante B-PER
+( I-PER
+Devil I-PER
+May I-PER
+Cry I-PER
+) I-PER
+
+Goh B-PER
+V I-PER
+Shem I-PER
+Lim B-PER
+Khim I-PER
+Wah I-PER
+
+' O
+'' O
+Robert B-PER
+Kubica I-PER
+'' O
+' O
+
+''Dinyanyikan O
+oleh O
+Suzuki B-PER
+Airi I-PER
+. O
+'' O
+
+' O
+'' O
+Fernando B-PER
+Alonso I-PER
+'' O
+' O
+
+N O
+18 O
+Bukit B-LOC
+Tambun I-LOC
+Law B-PER
+Choo I-PER
+Kiang I-PER
+
+Jawatankuasa B-LOC
+pembangunan I-LOC
+kampung I-LOC
+di I-LOC
+Nepal I-LOC
+
+Komun B-LOC
+di I-LOC
+jabatan I-LOC
+Saône-et-Loire I-LOC
+
+Komun B-LOC
+di I-LOC
+jabatan I-LOC
+Oise I-LOC
+
+Komun B-LOC
+di I-LOC
+jabatan I-LOC
+Meurthe-et-Moselle I-LOC
+
+Het O
+zou O
+zijn O
+enige O
+optreden O
+in O
+de O
+hoofdmacht O
+van O
+FC B-ORG
+Twente I-ORG
+worden O
+. O
+
+Hierna O
+werd O
+hij O
+assistent O
+van O
+Ruud B-PER
+Brood I-PER
+bij O
+het O
+eveneens O
+gedegradeerde O
+N.E.C B-ORG
+. I-ORG
+. O
+
+Russische B-ORG
+volleybalploeg I-ORG
+( I-ORG
+vrouwen I-ORG
+) I-ORG
+
+Conferentie B-ORG
+van I-ORG
+Potsdam I-ORG
+
+DOORVERWIJZING O
+Universiteit B-ORG
+Sapienza I-ORG
+Rome I-ORG
+
+De O
+regio O
+ligt O
+in O
+het O
+centraal-zuiden O
+van O
+dat B-LOC
+land I-LOC
+en O
+heeft O
+610.000 O
+inwoners O
+op O
+11.000 O
+vierkante O
+kilometer O
+. O
+
+Het O
+is O
+een O
+belangrijke O
+havenstad O
+, O
+gelegen O
+aan O
+de O
+Indische B-LOC
+Oceaan I-LOC
+. O
+
+De O
+soort O
+komt O
+voor O
+in O
+West-Australië B-LOC
+. O
+
+De O
+soort O
+komt O
+voor O
+in O
+Brazilië B-LOC
+. O
+
+Peñón B-LOC
+de I-LOC
+Vélez I-LOC
+de I-LOC
+la I-LOC
+Gomera I-LOC
+
+' O
+'' O
+Marit B-PER
+Bjørgen I-PER
+'' O
+' O
+
+Ook O
+Macrobius B-PER
+, O
+Paul B-PER
+Henri I-PER
+Thiry I-PER
+d'Holbach I-PER
+en O
+Stephen B-PER
+Hawking I-PER
+hebben O
+zich O
+over O
+het O
+probleem O
+uitgesproken O
+. O
+
+' O
+'' O
+Marcel B-PER
+Aarts I-PER
+'' O
+' O
+
+'' O
+Dromen O
+zijn O
+bedrog O
+'' O
+van O
+Marco B-PER
+Borsato I-PER
+
+John B-PER
+Payne I-PER
+- O
+Henry B-PER
+Pym I-PER
+/ I-PER
+Ant I-PER
+Man I-PER
+
+Som O
+forlengelse O
+av O
+Mississippi B-LOC
+har O
+elva O
+gitt O
+adgang O
+til O
+lektertransport O
+helt O
+til O
+New B-LOC
+Orleans I-LOC
+ved O
+Mexico-golfen O
+. O
+
+Hun O
+ble O
+så O
+interessert O
+at O
+hun O
+senere O
+reiste O
+til O
+England B-LOC
+for O
+å O
+få O
+opplæring O
+. O
+
+Det O
+ligger O
+i O
+byprefekturet O
+Yinchuan B-LOC
+. O
+
+Clwyd B-LOC
+– O
+Conwy B-LOC
+, O
+Denbighshire B-LOC
+, O
+Flintshire B-LOC
+, O
+Wrexham B-LOC
+
+** O
+' O
+'' O
+Fulda B-LOC
+riksabbedi I-LOC
+'' O
+' O
+
+OMDIRIGERING O
+King B-ORG
+Power I-ORG
+Stadium I-ORG
+
+OMDIRIGERING O
+Beesley B-ORG
+'s I-ORG
+Point I-ORG
+kraftverk I-ORG
+
+' O
+'' O
+1–1 O
+'' O
+' O
+Manchester B-ORG
+United I-ORG
+– O
+Chelsea B-ORG
+
+I B-ORG
+korps I-ORG
+( I-ORG
+USA I-ORG
+) I-ORG
+
+*Fotballklubben O
+Middlesbrough B-ORG
+FC I-ORG
+ble O
+grunnlagt O
+. O
+
+Han O
+blir O
+dermed O
+også O
+( O
+halv O
+) O
+bror O
+til O
+Rolf B-PER
+Krake I-PER
+. O
+
+Selve O
+språket O
+er O
+en O
+blanding O
+av O
+dialektene O
+som O
+ble O
+brukt O
+da O
+Buddha B-PER
+levde O
+og O
+holdt O
+sine O
+prekener O
+og O
+taler O
+. O
+
+Vasil B-PER
+Kiryjenka I-PER
+Danny B-PER
+Pate I-PER
+Salvatore B-PER
+Puccio I-PER
+Luke B-PER
+Rowe I-PER
+Ian B-PER
+Stannard I-PER
+Elia B-PER
+Viviani I-PER
+
+Christian B-PER
+Klar I-PER
+, O
+og O
+inntok O
+en O
+lederrolle O
+blant O
+den O
+andre O
+RAF-generasjonen O
+. O
+
+OMDIRIGERING O
+Peder B-PER
+Claussøn I-PER
+Friis I-PER
+
+Ben B-PER
+Fayot I-PER
+( O
+PES O
+) O
+
+Jean B-PER
+Delumeau I-PER
+, O
+''Uczony O
+i O
+wiara O
+'' O
+, O
+przeł O
+. O
+
+' O
+'' O
+Jonas B-PER
+Folger I-PER
+'' O
+' O
+
+Ukończył O
+Wydział O
+Malarstwa O
+Akademii B-ORG
+Sztuk I-ORG
+Pięknych I-ORG
+w I-ORG
+Warszawie I-ORG
+u O
+Aleksandra B-PER
+Kobzdeja I-PER
+. O
+
+' O
+'' O
+Bojanka B-PER
+Kostowa I-PER
+'' O
+' O
+
+Oficjalny O
+teledysk O
+w O
+serwisie O
+YouTube B-ORG
+
+Medal B-ORG
+30-lecia I-ORG
+Polski I-ORG
+Ludowej I-ORG
+
+Następnie O
+był O
+kierowcą O
+Formuły B-ORG
+2 I-ORG
+, O
+a O
+po O
+zakończeniu O
+kariery O
+wyścigowej O
+został O
+właścicielem O
+hotelu O
+. O
+
+W O
+tym O
+samym O
+roku O
+António B-PER
+Oliveira I-PER
+powołał O
+go O
+do O
+23–osobowej O
+kadry O
+na O
+mistrzostwa B-ORG
+świata I-ORG
+. O
+
+Cracovia B-ORG
+( O
+2007-2008 O
+) O
+
+PATRZ O
+Grotte B-LOC
+di I-LOC
+Frasassi I-LOC
+
+Położone O
+jest O
+na O
+południe O
+od O
+wsi O
+Viitna B-LOC
+. O
+
+zachód O
+– O
+hrabstwo B-LOC
+Genesee I-LOC
+
+Leżą O
+na O
+terenie O
+Słowacji B-LOC
+i O
+Węgier B-LOC
+. O
+
+Pochodzi O
+ze O
+Szczyrku B-LOC
+, O
+reprezentował O
+m.in O
+. O
+
+Walt B-ORG
+Disney I-ORG
+World I-ORG
+Resort I-ORG
+
+' O
+'' O
+St. B-ORG
+Louis I-ORG
+Blues I-ORG
+'' O
+' O
+
+Your B-ORG
+Love I-ORG
+Is I-ORG
+My I-ORG
+Drug I-ORG
+
+Villa B-ORG
+Medici I-ORG
+em I-ORG
+Fiesole I-ORG
+
+Cosmódromo B-ORG
+de I-ORG
+Plesetsk I-ORG
+43 O
+/ O
+4 O
+
+Poços B-LOC
+de I-LOC
+Caldas I-LOC
+/ O
+Pouso B-LOC
+Alegre I-LOC
+/ O
+Varginha B-LOC
+
+=== O
+Celorico B-LOC
+de I-LOC
+Basto I-LOC
+=== O
+
+Pico B-LOC
+de I-LOC
+Adão I-LOC
+
+Constantin B-ORG
+Film I-ORG
+( O
+na O
+Alemanha B-LOC
+) O
+
+' O
+'' O
+Seogwipo B-LOC
+'' O
+' O
+, O
+Jeju B-LOC
+, O
+Coreia B-LOC
+do I-LOC
+Sul I-LOC
+
+Melhor O
+Direção O
+– O
+Laís B-PER
+Bodanzky I-PER
+
+' O
+'' O
+Kimmer B-PER
+Coppejans I-PER
+'' O
+'4–6 O
+, O
+6–2 O
+, O
+6–2 O
+
+Wallengren O
+- O
+Hans B-PER
+Daniel I-PER
+Johan I-PER
+Wallengren I-PER
+( O
+1823–1894 O
+) O
+
+' O
+'' O
+Cássio B-PER
+Motta I-PER
+/ O
+Fernando B-PER
+Roese I-PER
+'' O
+' O
+x O
+Boris B-PER
+Becker I-PER
+/ O
+Eric B-PER
+Jelen I-PER
+
+' O
+'' O
+Héctor B-PER
+Barberá I-PER
+'' O
+' O
+
+Rafael B-PER
+Nadal I-PER
+( O
+2 O
+) O
+
+Mao B-PER
+Dun I-PER
+( O
+1896-1981 O
+) O
+茅盾 O
+
+Prințesa B-PER
+Amalie I-PER
+Auguste I-PER
+de I-PER
+Bavaria I-PER
+
+Sulejman B-PER
+Demollari I-PER
+( O
+01.09.2001 O
+- O
+17.04.2002 O
+) O
+
+Fred B-PER
+MacMurray I-PER
+, O
+Donna B-PER
+Reed I-PER
+
+REDIRECTEAZA O
+Alegeri B-ORG
+parlamentare I-ORG
+în I-ORG
+Republica I-ORG
+Moldova I-ORG
+, I-ORG
+aprilie I-ORG
+2009 I-ORG
+
+Locuri B-ORG
+din I-ORG
+Patrimoniul I-ORG
+Mondial I-ORG
+UNESCO I-ORG
+
+Congregatio B-ORG
+de I-ORG
+Propaganda I-ORG
+Fide I-ORG
+
+' O
+'' O
+Beril B-ORG
+'' O
+' O
+
+Deutsche B-ORG
+Zeitung I-ORG
+in I-ORG
+den I-ORG
+Niederlanden I-ORG
+
+Lista B-LOC
+comunelor I-LOC
+din I-LOC
+Hérault I-LOC
+
+REDIRECTEAZA O
+Altheim B-LOC
+( I-LOC
+Oberösterreich I-LOC
+) I-LOC
+
+Ternat B-LOC
+, I-LOC
+Haute-Marne I-LOC
+
+Lista B-LOC
+comunelor I-LOC
+din I-LOC
+Pas-de-Calais I-LOC
+
+Rochester B-LOC
+, I-LOC
+New I-LOC
+York I-LOC
+, O
+USA O
+
+Илизаров B-PER
+, I-PER
+Гавриил I-PER
+Абрамович I-PER
+
+Майкл B-PER
+Томас I-PER
+( O
+1987—1991 O
+) O
+
+Небогатов B-PER
+, I-PER
+Николай I-PER
+Иванович I-PER
+
+Борис B-PER
+Химичев I-PER
+— O
+граф B-PER
+де I-PER
+Кревкер I-PER
+'' O
+
+перенаправление O
+Фогт B-PER
+, I-PER
+Иоахим I-PER
+Иоганн I-PER
+Отто I-PER
+
+' O
+'' O
+Рыбницкий B-LOC
+район I-LOC
+'' O
+' O
+
+За O
+образцовое O
+выполнение O
+заданий O
+командования O
+в O
+боях O
+с O
+немецкими O
+захватчиками O
+, O
+за O
+овладение O
+городом O
+Демблин B-LOC
+и O
+проявленные O
+при O
+этом O
+доблесть O
+и O
+мужество O
+. O
+
+Стадион B-LOC
+имени I-LOC
+С. I-LOC
+Дарюса I-LOC
+и I-LOC
+С. I-LOC
+Гиренаса I-LOC
+
+Иссык B-LOC
+( I-LOC
+озеро I-LOC
+) I-LOC
+
+Марта B-LOC
+( I-LOC
+Лацио I-LOC
+) I-LOC
+
+Базилика B-ORG
+Святого I-ORG
+Адальберта I-ORG
+
+Поэтому O
+, O
+для O
+защиты O
+реактивных O
+истребителей O
+из O
+команды B-ORG
+Новотны I-ORG
+при O
+взлёте O
+и O
+посадке O
+Вальтер B-PER
+Новотны I-PER
+начал O
+использовать O
+FW O
+190D O
+из O
+Jagdgeschwader B-ORG
+54 I-ORG
+. O
+
+** O
+Ц O
+Лиза B-PER
+Лесли I-PER
+( O
+Лос-Анджелес B-ORG
+Спаркс I-ORG
+) O
+
+перенаправление O
+Часовский B-ORG
+, I-ORG
+Сергей I-ORG
+Владимирович I-ORG
+
+Анахайм B-ORG
+Дакс I-ORG
+— O
+Миннесота B-ORG
+Уайлд I-ORG
+
+Rafael B-PER
+Nadal I-PER
+'' O
+( O
+Finále O
+) O
+
+Šen B-PER
+Süe I-PER
+/ O
+Čao B-PER
+Chung-po I-PER
+
+David B-PER
+Ferrer I-PER
+porazil O
+Juana B-PER
+Ignacia I-PER
+Chelu I-PER
+a O
+Novak B-PER
+Đoković I-PER
+Carlosa B-PER
+Moyu I-PER
+. O
+
+`` O
+O O
+vzťahoch O
+Mikuláša B-PER
+Schneidera-Trnavského I-PER
+k O
+Zoltánovi B-PER
+Kodályovi I-PER
+'' O
+. O
+
+' O
+'' O
+Karel B-PER
+Nováček I-PER
+'' O
+' O
+vs. O
+Jean-Philippe B-PER
+Fleurian I-PER
+7-6 O
+( O
+5 O
+) O
+7-6 O
+( O
+4 O
+) O
+
+Hell B-ORG
+: I-ORG
+The I-ORG
+Sequel I-ORG
+'' O
+
+Je O
+jednou O
+z O
+oficiálnych O
+disciplín O
+Medzinárodnej B-ORG
+kanoistickej I-ORG
+federácie I-ORG
+. O
+
+( B-ORG
+I I-ORG
+Can’t I-ORG
+Get I-ORG
+No I-ORG
+) I-ORG
+Satisfaction“ I-ORG
+
+Intervaly O
+konvexnosti O
+a O
+konkávnosti O
+funkcie O
+delia O
+inflexné B-ORG
+body I-ORG
+. O
+
+Bol O
+vnukom O
+zakladateľa O
+Téb B-LOC
+Kadma B-ORG
+. O
+
+Geograficky O
+sa O
+zaradzuje O
+do O
+Západných B-LOC
+Álp I-LOC
+. O
+
+Tvorí O
+ho O
+9 O
+obcí B-LOC
+. O
+
+Takmer O
+100 O
+kusov O
+bolo O
+odoslaných O
+do O
+Španielska B-LOC
+alebo O
+stratených O
+pri O
+haváriách O
+. O
+
+Vzhľadom O
+k O
+jeho O
+pyramídovému O
+tvaru O
+, O
+bol O
+neoficiálne O
+nazvaný O
+ako O
+`` O
+Matterhorn B-LOC
+'' O
+Severnej B-LOC
+Ameriky I-LOC
+. O
+
+** O
+Belmont B-LOC
+( I-LOC
+Gers I-LOC
+) I-LOC
+
+... B-ORG
+Baby I-ORG
+One I-ORG
+More I-ORG
+Time I-ORG
+
+Švicarska B-ORG
+državna I-ORG
+tehniška I-ORG
+visoka I-ORG
+šola I-ORG
+Zürich I-ORG
+
+' O
+'' O
+Aprilia B-ORG
+'' O
+' O
+
+Vzhodnonemška B-ORG
+reprezentanca I-ORG
+je O
+izpadla O
+v O
+skupino O
+B O
+. O
+
+Seznam B-ORG
+papežev I-ORG
+( I-ORG
+grafični I-ORG
+prikaz I-ORG
+) I-ORG
+
+' O
+'' O
+Rubens B-PER
+Barrichello I-PER
+'' O
+' O
+
+' O
+'' O
+Ken B-PER
+Rosewall I-PER
+Owen B-PER
+Davidson I-PER
+'' O
+' O
+
+*]] O
+' O
+'' O
+Mervyn B-PER
+Rose I-PER
+'' O
+' O
+
+Ludwig B-PER
+van I-PER
+Beethoven I-PER
+
+' O
+'' O
+Nick B-PER
+Heidfeld I-PER
+'' O
+' O
+
+Ne O
+smemo O
+je O
+zamenjati O
+s O
+kumino B-LOC
+. O
+
+Hannover B-LOC
+( O
+Nemčija B-LOC
+) O
+, O
+
+Rojen O
+je O
+bil O
+na O
+Škotskem B-LOC
+. O
+
+• O
+Zamčanje B-LOC
+( O
+31 O
+) O
+
+Letos O
+bodo O
+prvič O
+gostili O
+godbo O
+iz O
+Švice B-LOC
+. O
+
+Borussia B-ORG
+Dortmund I-ORG
+( O
+1 O
+) O
+
+RIDREJTO O
+100 B-ORG
+Lekë I-ORG
+( I-ORG
+2000 I-ORG
+) I-ORG
+
+=== O
+Portierët O
+e O
+zgjedhur O
+' O
+IFFHS B-ORG
+=== O
+
+RIDREJTO O
+Instituti B-ORG
+i I-ORG
+statistikës I-ORG
+
+The B-ORG
+New I-ORG
+York I-ORG
+Times I-ORG
+
+' O
+'' O
+Anadrini O
+'' O
+' O
+është O
+hapësirë O
+rreth O
+Drinit B-LOC
+të I-LOC
+Bardhë I-LOC
+. O
+
+'' O
+Orivesi B-LOC
+'' O
+' O
+( O
+9,582 O
+) O
+
+' O
+'' O
+Tunizia B-LOC
+'' O
+' O
+
+' O
+'' O
+Suedia B-LOC
+'' O
+' O
+- O
+
+' O
+'' O
+Portugalia B-LOC
+'' O
+' O
+– O
+
+RIDREJTO O
+Imam B-PER
+Malik I-PER
+ibn I-PER
+Enes I-PER
+
+' O
+'' O
+Rubens B-PER
+Barrichello I-PER
+'' O
+' O
+
+Në O
+filmat O
+e O
+X-Men B-PER
+ajo O
+paraqiti O
+në O
+të O
+tre O
+pjesat O
+personazhin B-PER
+Rogue B-PER
+. O
+
+Ai O
+është O
+gjithashtu O
+mjek O
+oftalmolog O
+dhe O
+i O
+biri O
+i O
+ish-Kongresmenti O
+nga O
+Texasi O
+, O
+Ron B-PER
+Paul I-PER
+. O
+
+25px]] O
+' O
+'' O
+Juan B-PER
+Pablo I-PER
+Montoya I-PER
+'' O
+' O
+
+Estadio B-ORG
+Ciudad I-ORG
+de I-ORG
+La I-ORG
+Plata I-ORG
+
+International B-ORG
+Swimming I-ORG
+Hall I-ORG
+of I-ORG
+Fame I-ORG
+
+Distributionen O
+sköttes O
+av O
+Sonet B-ORG
+. O
+
+Många O
+arbetarepartier O
+är O
+medlemmar O
+av O
+Socialistinternationalen B-ORG
+. O
+
+' O
+'' O
+New B-ORG
+York I-ORG
+Islanders I-ORG
+'' O
+' O
+
+Webb B-LOC
+County I-LOC
+- O
+söder O
+
+Ett O
+kallt O
+stäppklimat B-LOC
+råder O
+i O
+trakten O
+. O
+
+Det O
+ligger O
+i O
+regionen O
+Region B-LOC
+Syddanmark I-LOC
+, O
+i O
+den O
+centrala O
+delen O
+av O
+landet O
+, O
+km O
+väster O
+om O
+huvudstaden O
+Köpenhamn B-LOC
+. O
+
+Artens O
+utbredningsområde O
+är O
+Sri B-LOC
+Lanka I-LOC
+. O
+
+Tropiskt B-LOC
+regnskogsklimat I-LOC
+råder O
+i O
+trakten O
+. O
+
+Två O
+av O
+medlemmarna O
+har O
+efter O
+att O
+bandet O
+splittrades O
+spelat O
+tillsammans O
+med O
+Magnus B-PER
+Uggla I-PER
+. O
+
+Historikern O
+Johannes B-PER
+Messenius I-PER
+berättar O
+senare O
+om O
+ett O
+under O
+som O
+skall O
+ha O
+inträffat O
+i O
+samband O
+med O
+detta O
+. O
+
+Trine B-PER
+Bakke I-PER
+Rognmo I-PER
+
+Sammy B-PER
+Cahn I-PER
+, O
+Jule B-PER
+Styne I-PER
+
+' O
+'' O
+Francis B-PER
+Obikwelu I-PER
+'' O
+' O
+
+இங்கிருக்கும் O
+அரச B-LOC
+மரம் I-LOC
+தேவனம்பியதீச B-PER
+மன்னன் O
+காலத்திலேயே O
+அனுராதபுரத்திலிருக்கும் O
+சிறீ B-ORG
+மகாபோதியிலிருந்து I-ORG
+முதலாவதாகப் O
+பிரித்தெடுத்து O
+நடப்பட்டதாகும் O
+. O
+
+' O
+'' O
+அந்தமான் B-LOC
+நிக்கோபார் I-LOC
+தீவுகள் I-LOC
+'' O
+' O
+
+வழிமாற்று O
+கருங்கால் B-LOC
+சாம்பல் I-LOC
+குரங்கு I-LOC
+
+' O
+'' O
+செயிண்ட் B-LOC
+லூசியா I-LOC
+'' O
+' O
+
+இவர்கள் O
+உறையூர் B-LOC
+மற்றும் O
+காவேரிப்பட்டிணத்தை B-LOC
+தலைநகரமாகக் O
+கொண்டு O
+ஆட்சி O
+செய்தனர் O
+. O
+
+வின்ஸ்டன் B-PER
+சர்ச்சில் I-PER
+பதவி O
+இழந்தார் O
+. O
+
+ஏதோ O
+ஒன்றின் O
+காரணமாக O
+நாட்டை B-PER
+நபராக I-PER
+அடையாளப்படுத்துவதாகும் O
+. O
+
+இவரது O
+காலகட்டத்தில் O
+சையத் B-PER
+சகோதரர்களின் I-PER
+பலம் O
+அதிகரித்து O
+வந்தது O
+. O
+
+சேடபட்டி B-PER
+இரா. I-PER
+முத்தையா I-PER
+- O
+
+இதனை O
+டாக்டர் O
+உ. B-PER
+வே. I-PER
+சாமிநாதையர் I-PER
+குறிப்பிட்டுள்ளார் O
+. O
+
+சிட்னி B-ORG
+ஒப்பேரா I-ORG
+மாளிகை I-ORG
+
+பாக்காத்தான் B-ORG
+ராக்யாட் I-ORG
+மக்கள் B-ORG
+நீதிக் I-ORG
+கட்சி I-ORG
+
+சைதாப்பேட்டை B-ORG
+( I-ORG
+சட்டமன்றத் I-ORG
+தொகுதி I-ORG
+) I-ORG
+
+மரீனா B-ORG
+பயர் I-ORG
+ரயில் I-ORG
+நிலையம் I-ORG
+
+வளர்ப்பூடகம் B-ORG
+- O
+media O
+or O
+tissue O
+culture O
+media O
+
+Lalawigan B-LOC
+ng I-LOC
+Afyonkarahisar I-LOC
+
+Mga B-LOC
+comune I-LOC
+ng I-LOC
+Lalawigan I-LOC
+ng I-LOC
+Pavia I-LOC
+
+Mga B-LOC
+comune I-LOC
+ng I-LOC
+Ain I-LOC
+
+' O
+'' O
+Senegal B-LOC
+'' O
+' O
+
+Mga B-LOC
+comune I-LOC
+ng I-LOC
+Lalawigan I-LOC
+ng I-LOC
+Pavia I-LOC
+
+William B-PER
+Howard I-PER
+Taft I-PER
+
+Benigno B-PER
+Aquino I-PER
+, I-PER
+Jr I-PER
+. I-PER
+
+Benito B-PER
+ng I-PER
+Nursia I-PER
+
+Air21 O
+Express]] O
+( O
+2006–2009 O
+) O
+San B-PER
+Miguel I-PER
+Beermen I-PER
+( O
+2009–kasalukuyan O
+) O
+
+Isabel B-PER
+ng I-PER
+Ungria I-PER
+
+Imperyo B-ORG
+ng I-ORG
+Maurya I-ORG
+
+Katedral B-ORG
+ng I-ORG
+Malolos I-ORG
+
+Ikalawang B-ORG
+Konsilyong I-ORG
+Vaticano I-ORG
+
+Dangerously B-ORG
+In I-ORG
+Love I-ORG
+
+Lingguhang B-ORG
+kabahagi I-ORG
+ng I-ORG
+Tora I-ORG
+
+3.lük O
+maçında O
+Slovenya B-ORG
+Millî I-ORG
+Basketbol I-ORG
+Takımı'nı I-ORG
+yendikleri O
+maçta O
+23 O
+sayı O
+, O
+6 O
+ribaund O
+, O
+2 O
+blok O
+istatistikleriyle O
+oynamış O
+ve O
+12 O
+faul O
+yaptırmıştır O
+. O
+
+' O
+'' O
+Denizlispor B-ORG
+'' O
+' O
+
+San B-ORG
+Antonio I-ORG
+Spurs I-ORG
+( O
+Milwaukee'den O
+) O
+
+Büyük B-ORG
+Ermenistan I-ORG
+kurma O
+girişimleri O
+sona O
+ermiştir O
+. O
+
+Türk B-ORG
+Silahlı I-ORG
+Kuvvetleri'nde I-ORG
+normal O
+şartlar O
+altında O
+görev O
+süresi O
+4 O
+yıldır O
+. O
+
+Hami B-PER
+Mandıralı I-PER
+36 O
+, O
+Orhan B-PER
+Çıkırıkçı I-PER
+46 O
+, O
+48 O
+, O
+Arçil B-PER
+Arveladze I-PER
+70 O
+
+David B-PER
+Ferrer I-PER
+( O
+16 O
+) O
+
+YÖNLENDİRME O
+Mustafa B-PER
+Kemal I-PER
+Atatürk I-PER
+
+Halen O
+bu O
+çalışmalar O
+Halet B-PER
+Çambel I-PER
+tarafından O
+yürütülmektedir O
+. O
+
+Erkan B-PER
+Can I-PER
+( O
+Kapıcı O
+) O
+
+Divandere B-LOC
+( O
+Dîwandere O
+) O
+
+YÖNLENDİRME O
+2010-11 B-LOC
+1. I-LOC
+Lig I-LOC
+
+Hollywood B-LOC
+için O
+senaryo O
+yazmaktadır O
+ve O
+yazdıkları O
+çok O
+satılmaktadır O
+. O
+
+Açice B-LOC
+( O
+''Achi O
+'' O
+) O
+
+YÖNLENDİRME O
+Ayvalı B-LOC
+, I-LOC
+Vezirköprü I-LOC
+
+ПЕРЕНАПРАВЛЕННЯ O
+Російсько-турецька B-ORG
+війна I-ORG
+( I-ORG
+1877—1878 I-ORG
+) I-ORG
+
+Journal B-ORG
+of I-ORG
+Cell I-ORG
+Science I-ORG
+
+Температура B-ORG
+самозаймання I-ORG
+466 O
+°С O
+. O
+
+ПЕРЕНАПРАВЛЕННЯ O
+15-й B-ORG
+армійський I-ORG
+корпус I-ORG
+( I-ORG
+США I-ORG
+) I-ORG
+
+20284 B-ORG
+Андрєйлєвін I-ORG
+( O
+Andreilevin O
+) O
+
+Список B-LOC
+муніципалітетів I-LOC
+департаменту I-LOC
+Нижній I-LOC
+Рейн I-LOC
+
+Входить O
+до O
+складу O
+комуни O
+Посешть B-LOC
+. O
+
+Список B-LOC
+муніципалітетів I-LOC
+департаменту I-LOC
+Жиронда I-LOC
+
+вчителював O
+у O
+Чернігівській B-LOC
+губернії I-LOC
+. O
+
+''Centro O
+Municipal O
+de O
+las O
+Artes O
+de O
+Alcorcon O
+'' O
+, O
+Мадрид B-LOC
+
+' O
+'' O
+Ален B-PER
+Шаба I-PER
+'' O
+' O
+
+На O
+одному O
+з O
+випусків O
+RAW B-PER
+хотів O
+поцілувати O
+Розу B-PER
+Мендес I-PER
+але O
+замість O
+цього O
+облив O
+її O
+водою O
+. O
+
+ПЕРЕНАПРАВЛЕННЯ O
+Томаш B-PER
+Гарріг I-PER
+Масарик I-PER
+
+Юрій B-PER
+Вірт I-PER
+( O
+1995—1997 O
+) O
+
+Правив O
+після O
+свого O
+батька O
+Оскара B-PER
+II I-PER
+. O
+
+Đồng B-LOC
+bằng I-LOC
+sông I-LOC
+Cửu I-LOC
+Long I-LOC
+
+Gaushorn B-LOC
+( O
+213 O
+) O
+
+Đây O
+là O
+loài O
+bản O
+địa O
+của O
+Argentina B-LOC
+, O
+Brasil B-LOC
+, O
+và O
+Paraguay B-LOC
+. O
+
+'' O
+Senecio B-LOC
+nevadensis I-LOC
+'' O
+Boiss O
+. O
+
+đổi O
+Xã B-LOC
+Middlefield I-LOC
+, I-LOC
+Quận I-LOC
+Geauga I-LOC
+, I-LOC
+Ohio I-LOC
+
+Trần B-PER
+Trọng I-PER
+Kim I-PER
+, O
+''Đường O
+thi O
+'' O
+. O
+
+'' O
+' O
+'' O
+' O
+- O
+Gustavo B-PER
+Gianetti I-PER
+
+Máy B-PER
+in I-PER
+mã I-PER
+vạch I-PER
+
+đổi O
+Nguyễn B-PER
+Thế I-PER
+Anh I-PER
+( I-PER
+cầu I-PER
+thủ I-PER
+bóng I-PER
+đá I-PER
+sinh I-PER
+1981 I-PER
+) I-PER
+
+đổi O
+Giáo B-PER
+hoàng I-PER
+Gioan I-PER
+X I-PER
+
+10.17 O
+- O
+' O
+'' O
+Wonder B-ORG
+Girls15th I-ORG
+- O
+Nobody3rd O
+'' O
+' O
+
+đổi O
+CJ B-ORG
+E I-ORG
+& I-ORG
+M I-ORG
+Pictures I-ORG
+
+Sân B-ORG
+vận I-ORG
+động I-ORG
+chính I-ORG
+Khu I-ORG
+liên I-ORG
+hợp I-ORG
+thể I-ORG
+thao I-ORG
+quốc I-ORG
+gia I-ORG
+Lào I-ORG
+
+Kia]] O
+, O
+Mazda B-ORG
+, O
+BMW B-ORG
+
+đổi O
+Pháp B-ORG
+xâm I-ORG
+lược I-ORG
+Ai I-ORG
+Cập I-ORG
+

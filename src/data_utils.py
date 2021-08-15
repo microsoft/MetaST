@@ -156,10 +156,11 @@ def convert_examples_to_features(
             word_tokens = tokenizer.tokenize(word)
             tokens.extend(word_tokens)
             # Use the real label id for the first token of the word, and padding ids for the remaining tokens
-            label_ids.extend([label] + [pad_token_label_id] * (len(word_tokens) - 1))
-            hp_label_ids.extend([hp_label if hp_label is not None else pad_token_label_id] + [pad_token_label_id] * (
-                        len(word_tokens) - 1))
-            full_label_ids.extend([label] * len(word_tokens))
+            if len(word_tokens) > 0:
+                label_ids.extend([label] + [pad_token_label_id] * (len(word_tokens) - 1))
+                hp_label_ids.extend([hp_label if hp_label is not None else pad_token_label_id] + [pad_token_label_id] * (
+                            len(word_tokens) - 1))
+                full_label_ids.extend([label] * len(word_tokens))
 
         # Account for [CLS] and [SEP] with "- 2" and with "- 3" for RoBERTa.
         special_tokens_count = 3 if sep_token_extra else 2
@@ -215,6 +216,8 @@ def convert_examples_to_features(
 
         input_ids = tokenizer.convert_tokens_to_ids(tokens)
 
+
+
         # The mask has 1 for real tokens and 0 for padding tokens. Only real
         # tokens are attended to.
         input_mask = [1 if mask_padding_with_zero else 0] * len(input_ids)
@@ -236,12 +239,15 @@ def convert_examples_to_features(
             hp_label_ids += [pad_token_label_id] * padding_length
             full_label_ids += [pad_token_label_id] * padding_length
 
+
+
         assert len(input_ids) == max_seq_length
         assert len(input_mask) == max_seq_length
         assert len(segment_ids) == max_seq_length
         assert len(label_ids) == max_seq_length
         assert len(hp_label_ids) == max_seq_length
         assert len(full_label_ids) == max_seq_length
+
 
         if ex_index < show_exnum:
             logger.info("*** Example ***")

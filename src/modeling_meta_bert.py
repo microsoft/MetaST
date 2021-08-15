@@ -7,7 +7,6 @@ from collections import OrderedDict
 from transformers import BertModel, BertTokenizer, BertForSequenceClassification
 import pdb
 from torch.nn import CrossEntropyLoss, MSELoss
-from focal_loss import FocalLoss
 
 def functional_bert(fast_weights, config, input_ids=None, attention_mask=None, token_type_ids=None,
                     position_ids=None, head_mask=None, inputs_embeds=None, labels=None, is_train=True, args=None, reduce=True, use_focal_loss=None,

@@ -35,10 +35,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     unzip \
     htop
 
-
-
-
-
 ############################################
 # Install Apex
 # https://github.com/NVIDIA/apex/issues/988
@@ -68,3 +64,8 @@ RUN pip install --no-cache-dir scipy && \
 RUN python -c "import nltk; nltk.download('punkt')"
 RUN pip install -I https://matrixdeploystorageeus.blob.core.windows.net/matrixlib/matrixlib-0.1.2018481.tar.gz
 RUN pip install higher
+
+
+RUN conda install pip=20.1.1
+RUN pip install --upgrade azureml-sdk[notebooks,contrib]
+RUN pip install cryptography==3.4.1
