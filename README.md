@@ -4,7 +4,7 @@ This is the implementation of the paper [Meta Self-training for Few-shot Neural 
 
 
 ## Overview
-![MetaST-Framework](./figs/metast.png)
+![MetaST-Framework](./figs/metast.png  =250x)
 
 In this work we present MetaST, a self-training framework with auto data selection technique to prevent error probagation.
 You can find more details of this work in our [paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467235).
