@@ -56,6 +56,11 @@ SNIPS, CONLL03 (En / multilingulal), MIT Movie, MIT restaurant, Wikiann (En / mu
 We will soon add more language model families.
 
 
+### Notes and Acknowledgments
+The implementation is based on https://github.com/huggingface/transformers <br>
+We also used some code from: https://github.com/cliang1453/BOND
+
+
 ### How do I cite MetaST?
 
 ```
