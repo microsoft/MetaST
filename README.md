@@ -69,7 +69,6 @@ author = {Wang, Yaqing and Mukherjee, Subhabrata and Chu, Haoda and Tu, Yuanchen
 title = {Meta Self-Training for Few-Shot Neural Sequence Labeling},
 year = {2021},
 publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
 booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining},
 pages = {1737–1747},
 series = {KDD '21}
